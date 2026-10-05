@@ -1,0 +1,55 @@
+{
+  "fecha": "2026-10-05",
+  "titulo": "Tu briefing diario",
+  "items": [
+    {
+      "area": "Dirección empresarial",
+      "titulo": "Dirigir vs. operar",
+      "explicacion": "Dirigir implica decidir prioridades, asignar recursos y crear sistemas para que el equipo pueda ejecutar sin depender de ti para cada decisión.",
+      "por_que": "Te ayuda a pasar de resolver problemas personalmente a diseñar cómo funciona la empresa.",
+      "pregunta": "¿Qué decisión repetitiva de tu empresa podrías convertir en una regla o proceso?"
+    },
+    {
+      "area": "Automatización",
+      "titulo": "Primero el proceso, después la herramienta",
+      "explicacion": "Una automatización útil empieza por definir entradas, decisiones y resultado. La herramienta viene después.",
+      "por_que": "Evita automatizar procesos mal diseñados.",
+      "pregunta": "Piensa en un proceso repetitivo y describe entrada → decisión → salida."
+    },
+    {
+      "area": "Gestión de equipos",
+      "titulo": "Delegar no es abandonar",
+      "explicacion": "Delegar bien implica definir resultado esperado, límites de decisión, recursos y cómo se medirá el desempeño.",
+      "por_que": "Libera al directivo sin perder control sobre el resultado.",
+      "pregunta": "¿Qué tarea podrías delegar si defines claramente el resultado y el indicador?"
+    },
+    {
+      "area": "Economía",
+      "titulo": "Oferta y demanda",
+      "explicacion": "Los precios tienden a cambiar cuando cambia la cantidad que compradores quieren adquirir o vendedores quieren ofrecer.",
+      "por_que": "Es una base para entender inflación, mercados y decisiones empresariales.",
+      "pregunta": "¿Qué podría aumentar la demanda de un producto sin cambiar su oferta?"
+    },
+    {
+      "area": "Bolsa",
+      "titulo": "Qué significa comprar una acción",
+      "explicacion": "Comprar una acción significa adquirir una participación económica en una empresa. Su precio refleja expectativas sobre beneficios, riesgo y crecimiento.",
+      "por_que": "Es el punto de partida antes de estudiar valuación y análisis financiero.",
+      "pregunta": "¿Por qué una empresa que gana más dinero no necesariamente sube en bolsa?"
+    },
+    {
+      "area": "Motociclismo — mecánica",
+      "titulo": "Qué hace el aceite del motor",
+      "explicacion": "El aceite reduce fricción y desgaste, ayuda a controlar temperatura y mantiene contaminantes en suspensión para proteger componentes internos.",
+      "por_que": "La lubricación es fundamental para comprender mantenimiento y fallas.",
+      "pregunta": "¿Qué puede ocurrir si un motor trabaja con lubricación insuficiente?"
+    },
+    {
+      "area": "Cultura general",
+      "titulo": "Aprender conectando ideas",
+      "explicacion": "La cultura general se vuelve más útil cuando relacionas conceptos de distintas áreas en lugar de memorizarlos de forma aislada.",
+      "por_que": "El objetivo de tu sistema es construir conexiones que puedas aplicar en decisiones reales.",
+      "pregunta": "¿Qué concepto de hoy puedes relacionar con una decisión empresarial?"
+    }
+  ]
+}

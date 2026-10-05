@@ -62,3 +62,45 @@ if(state.theme==="dark")document.body.classList.add("dark");
 renderToday();renderTopics();renderSaved();updateStats();
 
 if("serviceWorker" in navigator) navigator.serviceWorker.register("./sw.js").catch(()=>{});
+
+
+/* === CONTENIDO DIARIO DINÁMICO === */
+(async function cargarContenidoDiario() {
+  try {
+    const res = await fetch('contenido.json?ts=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('No se pudo cargar contenido.json');
+    const data = await res.json();
+
+    const existing = document.querySelector('#daily-content');
+    if (existing) existing.innerHTML = renderDaily(data);
+    else {
+      const host = document.querySelector('main') || document.body;
+      const section = document.createElement('section');
+      section.id = 'daily-content';
+      section.innerHTML = renderDaily(data);
+      host.prepend(section);
+    }
+  } catch (e) {
+    console.warn('Contenido diario no disponible todavía:', e);
+  }
+
+  function esc(v='') {
+    return String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+  }
+
+  function renderDaily(d) {
+    const items = Array.isArray(d.items) ? d.items : [];
+    return `<div class="daily-header">
+      <div class="eyebrow">BRIEFING DIARIO</div>
+      <h2>${esc(d.titulo || '¿Qué deberías saber hoy?')}</h2>
+      <p>${esc(d.fecha || '')}</p>
+    </div>
+    ${items.map((x,i)=>`<article class="daily-card">
+      <div class="daily-area">${esc(x.area || 'Tema')}</div>
+      <h3>${i+1}. ${esc(x.titulo || '')}</h3>
+      ${x.por_que ? `<p><strong>Por qué te importa:</strong> ${esc(x.por_que)}</p>` : ''}
+      <p>${esc(x.explicacion || '')}</p>
+      ${x.pregunta ? `<p><strong>Comprueba:</strong> ${esc(x.pregunta)}</p>` : ''}
+    </article>`).join('')}`;
+  }
+})();
