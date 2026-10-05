@@ -7,10 +7,20 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  generar-briefing:
+  generar-y-publicar:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Descargar repositorio
@@ -122,12 +132,11 @@ jobs:
             exit 1
           fi
 
-          cat /tmp/response.json
-
           CONTENT=$(jq -r '.candidates[0].content.parts[0].text // empty' /tmp/response.json)
 
           if [ -z "$CONTENT" ]; then
             echo "ERROR: Gemini no devolvió contenido válido."
+            cat /tmp/response.json
             exit 1
           fi
 
@@ -135,12 +144,13 @@ jobs:
 
           jq empty /tmp/contenido.json || {
             echo "ERROR: Gemini devolvió JSON inválido."
+            cat /tmp/contenido.json
             exit 1
           }
 
           cp /tmp/contenido.json app/contenido.json
 
-      - name: Guardar briefing
+      - name: Guardar briefing en GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -153,3 +163,15 @@ jobs:
             git commit -m "Actualizar briefing diario"
             git push
           fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir sitio a GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
