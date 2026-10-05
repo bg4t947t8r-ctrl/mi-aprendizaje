@@ -26,17 +26,84 @@ jobs:
       - name: Descargar repositorio
         uses: actions/checkout@v4
 
+      - name: Obtener fecha actual de México
+        id: fecha
+        run: |
+          echo "fecha=$(TZ=America/Mexico_City date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
       - name: Generar briefing con Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FECHA_ACTUAL: ${{ steps.fecha.outputs.fecha }}
         run: |
-          cat > /tmp/request.json <<'EOF'
+          cat > /tmp/request.json <<EOF
           {
             "contents": [
               {
                 "parts": [
                   {
-                    "text": "Actúa como el sistema personal de aprendizaje de Pedro. Genera el briefing diario en español. El objetivo no es hacer un resumen de noticias, sino ayudar a Pedro a convertirse en un mejor empresario y directivo mientras desarrolla una cultura general amplia. Su nivel actual es: Dirección empresarial medio-bajo; Automatización medio-bajo; Gestión de equipos medio-bajo; Economía medio-bajo; Bolsa y mercados financieros bajo; Motociclismo y mecánica bajo. También quiere cultura general amplia. Prioriza contenido realmente útil para aprender. Explica los conceptos de forma clara, práctica y progresiva, sin asumir conocimientos avanzados. Cuando hables de ciencia o salud, distingue entre evidencia consolidada, investigación preliminar y posibilidades. Cuando hables de mercados financieros, explica conceptos y contexto, pero no des recomendaciones personalizadas de compra o venta. Evita rumores, clickbait y afirmaciones no verificadas. Distingue claramente hechos, análisis y posibilidades. Conecta cuando sea útil un tema con otro para ayudar a construir una visión más amplia. Cada contenido debe terminar con una pregunta breve para comprobar comprensión. Genera exactamente 7 contenidos: uno de Dirección empresarial, uno de Automatización, uno de Gestión de equipos, uno de Economía, uno de Bolsa/mercados financieros, uno de Motociclismo/mecánica y uno de Cultura general. El contenido debe ser útil para el aprendizaje diario y no simplemente una lista de titulares. Devuelve únicamente JSON válido."
+                    "text": "Actúa como el sistema personal de aprendizaje de Pedro. Hoy es ${FECHA_ACTUAL}. La fecha del briefing DEBE ser exactamente ${FECHA_ACTUAL}. No uses otra fecha.
+
+          El objetivo no es hacer un simple resumen de noticias. Tu función es ayudar a Pedro a convertirse progresivamente en un mejor empresario y directivo mientras desarrolla una cultura general amplia.
+
+          PERFIL ACTUAL DE PEDRO:
+          - Dirección empresarial: nivel medio-bajo.
+          - Automatización: nivel medio-bajo.
+          - Gestión de equipos: nivel medio-bajo.
+          - Economía: nivel medio-bajo.
+          - Bolsa y mercados financieros: nivel bajo.
+          - Motociclismo y mecánica: nivel bajo.
+          - Cultura general: quiere desarrollar una cultura amplia.
+          
+          PRINCIPIO DE APRENDIZAJE:
+          Cada contenido debe ayudar a construir conocimiento, no solamente informar. Prioriza conceptos importantes, explicaciones claras y conexiones entre ideas.
+          
+          GENERA EXACTAMENTE 7 CONTENIDOS:
+          1. Dirección empresarial.
+          2. Automatización.
+          3. Gestión de equipos.
+          4. Economía.
+          5. Bolsa y mercados financieros.
+          6. Motociclismo y mecánica.
+          7. Cultura general.
+          
+          PARA CADA CONTENIDO:
+          - Elige un concepto que realmente valga la pena aprender.
+          - Explica primero la idea central de forma sencilla.
+          - Después profundiza progresivamente.
+          - Incluye ejemplos concretos cuando ayuden.
+          - Explica por qué ese conocimiento puede ser útil para Pedro.
+          - Relaciona el concepto con otras ideas cuando exista una conexión clara.
+          - Termina con una pregunta breve que permita comprobar si Pedro entendió.
+          
+          CAMPOS:
+          area: nombre del área.
+          titulo: título claro y atractivo.
+          por_que: explica por qué Pedro debería dedicar tiempo a aprender esto.
+          explicacion: explicación completa, clara y práctica. No escribas solamente una definición.
+          conexion: explica una conexión útil con otro concepto, área o conocimiento. Si no existe una conexión relevante, escribe una conexión sencilla y honesta.
+          pregunta: pregunta breve para comprobar comprensión.
+          
+          CALIDAD:
+          - Evita contenido superficial.
+          - Evita frases genéricas de motivación.
+          - Evita clickbait.
+          - No inventes estadísticas, estudios, empresas, eventos o hechos.
+          - No presentes especulación como hecho.
+          - Distingue hechos, análisis y posibilidades cuando corresponda.
+          - En ciencia y salud distingue evidencia consolidada, investigación preliminar y posibilidades.
+          - En mercados financieros explica conceptos y contexto, pero NO des recomendaciones personalizadas de compra o venta.
+          - En motociclismo y mecánica explica conceptos técnicos de manera que alguien con conocimientos bajos pueda entenderlos.
+          - En dirección, automatización y equipos prioriza conocimientos que puedan ayudar a Pedro en su desarrollo como empresario y director.
+          - En cultura general busca temas que amplíen su comprensión del mundo y que puedan conectarse con otras áreas.
+          
+          VARIEDAD:
+          No repitas siempre los mismos conceptos. Busca variedad entre fundamentos, conceptos nuevos, casos, principios, errores comunes, modelos mentales y conexiones.
+          
+          IMPORTANTE:
+          El contenido debe estar pensado para una sesión diaria de aprendizaje. Es preferible enseñar muy bien un concepto que mencionar muchos superficialmente.
+          
+          Devuelve únicamente JSON válido."
                   }
                 ]
               }
@@ -71,6 +138,9 @@ jobs:
                         "explicacion": {
                           "type": "STRING"
                         },
+                        "conexion": {
+                          "type": "STRING"
+                        },
                         "pregunta": {
                           "type": "STRING"
                         }
@@ -80,6 +150,7 @@ jobs:
                         "titulo",
                         "por_que",
                         "explicacion",
+                        "conexion",
                         "pregunta"
                       ]
                     }
@@ -148,6 +219,15 @@ jobs:
             exit 1
           }
 
+          FECHA_JSON=$(jq -r '.fecha // empty' /tmp/contenido.json)
+
+          if [ "$FECHA_JSON" != "$FECHA_ACTUAL" ]; then
+            echo "ERROR: La fecha generada por Gemini no coincide."
+            echo "Esperada: $FECHA_ACTUAL"
+            echo "Recibida: $FECHA_JSON"
+            exit 1
+          fi
+
           cp /tmp/contenido.json app/contenido.json
 
       - name: Guardar briefing en GitHub
@@ -170,7 +250,7 @@ jobs:
       - name: Subir sitio a GitHub Pages
         uses: actions/upload-pages-artifact@v4
         with:
-          path: '.'
+          path: "."
 
       - name: Publicar en GitHub Pages
         id: deployment
