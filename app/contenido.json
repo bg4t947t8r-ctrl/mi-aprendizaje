@@ -3,53 +3,53 @@
   "fecha": "2023-10-25",
   "items": [
     {
-      "area": "Dirección empresarial",
+      "area": "Direccion empresarial",
       "titulo": "El cuadro de mando integral",
-      "por_que": "Para gestionar una empresa no basta con mirar la cuenta de resultados; necesitas métricas equilibradas.",
-      "explicacion": "El cuadro de mando integral o Balanced Scorecard es una herramienta que ayuda a los directivos a ver el negocio desde cuatro perspectivas: financiera, cliente, procesos internos y aprendizaje y crecimiento. Esto evita tomar decisiones cegadas únicamente por el dinero a corto plazo.",
-      "pregunta": "¿Cuáles son las cuatro perspectivas que abarca el cuadro de mando integral?"
+      "por_que": "Permite medir el rendimiento de la empresa mas alla de los datos financieros tradicionales.",
+      "explicacion": "Un cuadro de mando integral es una herramienta de gestion que ayuda a alinear las actividades del negocio con la vision y estrategia. Se divide en cuatro perspectivas: financiera, clientes, procesos internos, y aprendizaje y crecimiento. Esto asegura que no te centres solo en ganar dinero a corto plazo, sino en construir capacidades para el futuro.",
+      "pregunta": "¿Cuales son las cuatro perspectivas principales que abarca un cuadro de mando integral?"
     },
     {
-      "area": "Automatización",
-      "titulo": "Diferencia entre automatización y digitalización",
-      "por_que": "Muchos empresarios creen que digitalizar es automatizar, y terminan invirtiendo en herramientas inútiles.",
-      "explicacion": "Digitalizar consiste en pasar información de papel a formato digital, como un PDF. Automatizar significa que un software realiza una tarea repetitiva sin intervención humana, como enviar un correo automático cuando un cliente paga. Primero debes ordenar tus procesos y luego automatizarlos.",
-      "pregunta": "¿Qué diferencia principal existe entre digitalizar un documento y automatizar un proceso?"
+      "area": "Automatizacion",
+      "titulo": "Identificacion de cuellos de botella",
+      "por_que": "Automatizar un proceso ineficiente solo sirve para cometer errores mas rapidamente.",
+      "explicacion": "Antes de implementar cualquier software de automatizacion, debes mapear tu proceso actual paso a paso. Busca el punto donde el flujo de trabajo se detiene o acumula mas tiempo. Ese es el cuello de botella. La automatizacion debe aplicarse primero ahi para desbloquear la mayor cantidad de tiempo posible.",
+      "pregunta": "¿Por que es peligroso automatizar un proceso antes de analizarlo?"
     },
     {
-      "area": "Gestión de equipos",
-      "titulo": "La técnica del feedback constructivo",
-      "por_que": "Para mejorar el rendimiento del equipo sin generar conflictos ni desmotivar a los empleados.",
-      "explicacion": "El feedback efectivo debe centrarse en el comportamiento observable y en el impacto que genera, nunca en la persona. Se recomienda usar el modelo de comunicación no violenta: describir el hecho, expresar el sentimiento, explicar la consecuencia y proponer una mejora clara.",
-      "pregunta": "Cuando das feedback a un miembro de tu equipo, ¿debes centrarte en su personalidad o en sus acciones?"
+      "area": "Gestion de equipos",
+      "titulo": "La tecnica de delegacion por niveles",
+      "por_que": "Evita la microgestion y ayuda a que los empleados desarrollen autonomia.",
+      "explicacion": "Delegar no es simplemente dar una orden, sino otorgar autoridad gradual. Puedes empezar pidiendo a tu empleado que investigue y recomiende, despues que decida pero te informe, y finalmente que actue de forma totalmente autonoma. Esto reduce tu carga de trabajo y genera confianza.",
+      "pregunta": "Segun la tecnica, ¿cual es el primer paso antes de permitir que un empleado decida por si mismo?"
     },
     {
-      "area": "Economía",
-      "titulo": "La inflación de costes y su impacto en el margen",
-      "por_que": "Te ayuda a entender por qué subir los precios a los clientes a veces es inevitable para sobrevivir.",
-      "explicacion": "La inflación de costes ocurre cuando las materias primas, la energía o los salarios se encarecen para una empresa. Si tus costes suben un 10% y no tocas tus precios de venta, tu margen de beneficio bruto se reduce drásticamente, poniendo en riesgo la viabilidad del negocio.",
-      "pregunta": "¿Qué ocurre con el margen de beneficio de una empresa si sus costes aumentan y no ajusta sus precios?"
+      "area": "Economia",
+      "titulo": "El coste de oportunidad",
+      "por_que": "Toda decision empresarial implica renunciar a otras alternativas.",
+      "explicacion": "El coste de oportunidad es el valor de la mejor opcion a la que renuncias al tomar una decision. Si decides invertir 10.000 euros en marketing, el coste de oportunidad no es solo el dinero, sino lo que esos 10.000 euros podrian haber generado si se hubiesen invertido en desarrollo de producto.",
+      "pregunta": "Si eliges estudiar en lugar de trabajar, ¿que representa el coste de oportunidad?"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Entendiendo las acciones y la capitalización bursátil",
-      "por_que": "Es el concepto básico indispensable para comprender cómo funciona el valor de una compañía en bolsa.",
-      "explicacion": "Una acción es una pequeña parte de la propiedad de una empresa. La capitalización bursátil es el valor total de esa empresa en el mercado, y se calcula multiplicando el precio de una acción por el número total de acciones emitidas. No confundas el precio de una acción con el valor real de la empresa.",
-      "pregunta": "¿Cómo se calcula la capitalización bursátil de una compañía?"
+      "titulo": "El concepto de capitalizacion bursatil",
+      "por_que": "Es la metrica basica para entender el tamaño real de una empresa cotizada.",
+      "explicacion": "La capitalizacion bursatil se calcula multiplicando el precio actual de una accion por el numero total de acciones emitidas. Representa el valor total que el mercado le asigna a una compañia en un momento dado. Una empresa pequeña puede tener acciones baratas pero una capitalizacion alta si tiene muchas acciones en circulacion.",
+      "pregunta": "¿Como se calcula la capitalizacion bursatil de una empresa?"
     },
     {
-      "area": "Motociclismo y mecánica",
-      "titulo": "El sistema de frenos ABS en motocicletas",
-      "por_que": "Conocer la tecnología básica de tu vehículo mejora tu seguridad activa al conducir.",
-      "explicacion": "El ABS (Sistema Antibloqueo de Frenos) evita que las ruedas se queden completamente bloqueadas al frenar con fuerza, especialmente sobre superficies mojadas o resbaladizas. Al evitar el bloqueo, el conductor mantiene el control de la dirección de la moto y reduce el riesgo de caída.",
-      "pregunta": "¿Qué función principal cumple el sistema ABS en las ruedas de una motocicleta durante una frenada de emergencia?"
+      "area": "Motociclismo y mecanica",
+      "titulo": "La funcion del filtro de aire",
+      "por_que": "Un mantenimiento basico prolonga la vida util del motor y asegura un consumo eficiente.",
+      "explicacion": "El motor de una motocicleta necesita una mezcla precisa de aire y combustible para funcionar. El filtro de aire retiene el polvo, la arena y la suciedad del exterior antes de que entren en la camara de combustion. Si el filtro esta obstruido, entra menos aire, el motor pierde potencia y gasta mas combustible.",
+      "pregunta": "¿Que le ocurre al consumo de combustible si el filtro de aire esta obstruido?"
     },
     {
       "area": "Cultura general",
-      "titulo": "El método científico como herramienta mental",
-      "por_que": "Ayuda a tomar decisiones empresariales y vitales basadas en evidencias y no en sesgos u opiniones.",
-      "explicacion": "El método científico es un proceso sistemático que consiste en observar un fenómeno, formular una hipótesis, experimentar para comprobarla, analizar los datos y extraer conclusiones. Aplicarlo en los negocios significa probar ideas a pequeña escala antes de arriesgar grandes presupuestos.",
-      "pregunta": "¿Cuál es el primer paso que se da dentro del método científico?"
+      "titulo": "La revolucion agricola",
+      "por_que": "Comprender los origenes de la civilizacion ayuda a entender la economia y la organizacion social actual.",
+      "explicacion": "Hace aproximadamente 10.000 años, la humanidad paso de un modelo de caza y recoleccion a la agricultura y domesticacion de animales. Este cambio permitio generar excedentes de alimentos, lo que provoco el crecimiento demografico, la creacion de ciudades, la division del trabajo y, eventualmente, la aparicion de la escritura y el comercio.",
+      "pregunta": "¿Que consecuencia principal tuvo la generacion de excedentes de alimentos en la antiguedad?"
     }
   ]
 }
