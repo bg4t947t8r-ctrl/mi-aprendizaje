@@ -87,13 +87,40 @@ jobs:
           }
           EOF
 
-          curl -sS \
-            -X POST \
-            -H "Content-Type: application/json" \
-            -H "x-goog-api-key: ${GEMINI_API_KEY}" \
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent" \
-            -d @/tmp/request.json \
-            > /tmp/response.json
+          for intento in 1 2 3 4 5; do
+            echo "Intento $intento de 5..."
+
+            HTTP_CODE=$(curl -sS \
+              -o /tmp/response.json \
+              -w "%{http_code}" \
+              -X POST \
+              -H "Content-Type: application/json" \
+              -H "x-goog-api-key: ${GEMINI_API_KEY}" \
+              "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent" \
+              -d @/tmp/request.json)
+
+            echo "Código HTTP: $HTTP_CODE"
+
+            if [ "$HTTP_CODE" = "200" ]; then
+              echo "Gemini respondió correctamente."
+              break
+            fi
+
+            if [ "$HTTP_CODE" = "429" ] || [ "$HTTP_CODE" = "500" ] || [ "$HTTP_CODE" = "502" ] || [ "$HTTP_CODE" = "503" ] || [ "$HTTP_CODE" = "504" ]; then
+              echo "Gemini está temporalmente ocupado. Esperando antes de reintentar..."
+              sleep $((10 * intento))
+            else
+              echo "ERROR: Gemini devolvió un error no recuperable."
+              cat /tmp/response.json
+              exit 1
+            fi
+          done
+
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "ERROR: Gemini no respondió correctamente después de 5 intentos."
+            cat /tmp/response.json
+            exit 1
+          fi
 
           cat /tmp/response.json
 
