@@ -26,14 +26,9 @@ jobs:
               {
                 "parts": [
                   {
-                    "text": "Eres el motor de inteligencia personal de Pedro. Hoy debes crear su briefing diario personalizado. Usa Google Search para investigar información ACTUAL y relevante del día. No inventes hechos.\n\nPERFIL DE PEDRO:\n- Objetivo: convertirse en mejor empresario/directivo y desarrollar cultura general amplia.\n- Dirección empresarial: nivel medio-bajo.\n- Automatización: nivel medio-bajo.\n- Gestión de equipos: nivel medio-bajo.\n- Economía: nivel medio-bajo.\n- Bolsa y mercados financieros: nivel bajo.\n- Mecánica de motocicletas: nivel bajo.\n- Cultura general: prioridad secundaria pero debe aparecer diariamente.\n\nPRIORIZACIÓN:\n1. Dirección empresarial\n2. Automatización e IA aplicada a negocios\n3. Gestión de equipos\n4. Economía\n5. Bolsa y mercados financieros\n6. Mecánica de motocicletas\n7. Cultura general\n\nOBJETIVO EDUCATIVO:\nNo quiero un simple resumen de noticias. Quiero que conviertas acontecimientos actuales en aprendizaje útil. Explica primero lo esencial, después el contexto y finalmente por qué debería importarle a Pedro. Conecta los conceptos cuando sea posible.\n\nREGLAS:\n- Busca información publicada o actualizada recientemente.\n- Prioriza fuentes primarias, oficiales y especializadas.\n- Distingue hechos de análisis y predicciones.\n- No presentes rumores como hechos.\n- Evita temas repetitivos si no existe un desarrollo importante.\n- Si una noticia no aporta aprendizaje, descártala.\n- Cada explicación debe ser clara para alguien con nivel medio-bajo o bajo en ese tema.\n- Incluye una pregunta breve para comprobar comprensión.\n- Para bolsa/economía no des recomendaciones personalizadas de compra o venta.\n- Para salud, ciencia o tecnología distingue investigación preliminar de evidencia consolidada.\n\nCrea exactamente 7 contenidos, uno por cada área indicada. Cada contenido debe ser suficientemente sustancioso para aprender algo, pero no excesivamente largo.\n\nLa respuesta DEBE ser exclusivamente JSON válido, sin markdown, sin comentarios y sin texto fuera del JSON."
+                    "text": "Actúa como el sistema personal de aprendizaje de Pedro. Genera el briefing diario en español. El objetivo no es hacer un resumen de noticias, sino ayudar a Pedro a convertirse en un mejor empresario y directivo mientras desarrolla una cultura general amplia. Su nivel actual es: Dirección empresarial medio-bajo; Automatización medio-bajo; Gestión de equipos medio-bajo; Economía medio-bajo; Bolsa y mercados financieros bajo; Motociclismo y mecánica bajo. También quiere cultura general amplia. Prioriza contenido realmente útil para aprender. Explica los conceptos de forma clara, práctica y progresiva, sin asumir conocimientos avanzados. Cuando hables de ciencia o salud, distingue entre evidencia consolidada, investigación preliminar y posibilidades. Cuando hables de mercados financieros, explica conceptos y contexto, pero no des recomendaciones personalizadas de compra o venta. Evita rumores, clickbait y afirmaciones no verificadas. Distingue claramente hechos, análisis y posibilidades. Conecta cuando sea útil un tema con otro para ayudar a construir una visión más amplia. Cada contenido debe terminar con una pregunta breve para comprobar comprensión. Genera exactamente 7 contenidos: uno de Dirección empresarial, uno de Automatización, uno de Gestión de equipos, uno de Economía, uno de Bolsa/mercados financieros, uno de Motociclismo/mecánica y uno de Cultura general. El contenido debe ser útil para el aprendizaje diario y no simplemente una lista de titulares. Devuelve únicamente JSON válido."
                   }
                 ]
-              }
-            ],
-            "tools": [
-              {
-                "google_search": {}
               }
             ],
             "generationConfig": {
@@ -49,6 +44,8 @@ jobs:
                   },
                   "items": {
                     "type": "ARRAY",
+                    "minItems": 7,
+                    "maxItems": 7,
                     "items": {
                       "type": "OBJECT",
                       "properties": {
@@ -92,28 +89,31 @@ jobs:
 
           curl -sS \
             -X POST \
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent" \
             -H "Content-Type: application/json" \
             -H "x-goog-api-key: ${GEMINI_API_KEY}" \
-            --data-binary @/tmp/request.json \
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent" \
+            -d @/tmp/request.json \
             > /tmp/response.json
 
-          if ! jq -e '.candidates[0].content.parts[0].text' /tmp/response.json > /dev/null; then
+          cat /tmp/response.json
+
+          CONTENT=$(jq -r '.candidates[0].content.parts[0].text // empty' /tmp/response.json)
+
+          if [ -z "$CONTENT" ]; then
             echo "ERROR: Gemini no devolvió contenido válido."
-            cat /tmp/response.json
             exit 1
           fi
 
-          jq -r '.candidates[0].content.parts[0].text' /tmp/response.json > /tmp/contenido.json
+          echo "$CONTENT" > /tmp/contenido.json
 
-          jq empty /tmp/contenido.json
+          jq empty /tmp/contenido.json || {
+            echo "ERROR: Gemini devolvió JSON inválido."
+            exit 1
+          }
 
           cp /tmp/contenido.json app/contenido.json
 
-          echo "Briefing generado correctamente:"
-          cat app/contenido.json
-
-      - name: Guardar briefing en GitHub
+      - name: Guardar briefing
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -121,9 +121,8 @@ jobs:
           git add app/contenido.json
 
           if git diff --cached --quiet; then
-            echo "No hubo cambios."
-            exit 0
+            echo "No hubo cambios en el briefing."
+          else
+            git commit -m "Actualizar briefing diario"
+            git push
           fi
-
-          git commit -m "Actualizar briefing diario"
-          git push
