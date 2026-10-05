@@ -31,22 +31,119 @@ jobs:
         run: |
           echo "fecha=$(TZ=America/Mexico_City date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
+      - name: Obtener información actual gratuita
+        run: |
+          python3 <<'PY'
+          import urllib.request
+          import urllib.parse
+          import xml.etree.ElementTree as ET
+          import json
+
+          feeds = [
+              ("Reuters", "site:reuters.com"),
+              ("AP News", "site:apnews.com"),
+              ("BBC", "site:bbc.com"),
+              ("Economía", "economy economics inflation interest rates"),
+              ("Mercados", "stock market markets finance"),
+              ("IA y tecnología", "artificial intelligence AI technology"),
+              ("Ciencia", "science technology research"),
+              ("México", "Mexico business economy politics"),
+              ("Negocios", "business entrepreneurship companies"),
+              ("Motociclismo", "motorcycle motorcycles automotive")
+          ]
+
+          noticias = []
+
+          for nombre, consulta in feeds:
+              try:
+                  params = urllib.parse.urlencode({
+                      "q": consulta,
+                      "hl": "es-419",
+                      "gl": "MX",
+                      "ceid": "MX:es-419"
+                  })
+
+                  url = "https://news.google.com/rss/search?" + params
+
+                  req = urllib.request.Request(
+                      url,
+                      headers={
+                          "User-Agent": "Mozilla/5.0"
+                      }
+                  )
+
+                  with urllib.request.urlopen(req, timeout=20) as response:
+                      xml = response.read()
+
+                  root = ET.fromstring(xml)
+
+                  encontrados = 0
+
+                  for item in root.findall(".//item"):
+                      if encontrados >= 5:
+                          break
+
+                      titulo = item.findtext("title", "").strip()
+                      enlace = item.findtext("link", "").strip()
+                      fecha = item.findtext("pubDate", "").strip()
+                      descripcion = item.findtext("description", "").strip()
+
+                      if not titulo:
+                          continue
+
+                      noticias.append({
+                          "fuente_busqueda": nombre,
+                          "titulo": titulo,
+                          "url": enlace,
+                          "fecha": fecha,
+                          "descripcion": descripcion[:500]
+                      })
+
+                      encontrados += 1
+
+              except Exception as e:
+                  print(f"No se pudo consultar {nombre}: {e}")
+
+          with open("/tmp/noticias.json", "w", encoding="utf-8") as f:
+              json.dump(noticias, f, ensure_ascii=False, indent=2)
+
+          print(f"Noticias recopiladas: {len(noticias)}")
+          PY
+
+          if [ ! -s /tmp/noticias.json ]; then
+            echo "ERROR: No se pudieron obtener noticias."
+            exit 1
+          fi
+
+          echo "Primeras noticias obtenidas:"
+          jq -r '.[0:10][] | "- \(.titulo)"' /tmp/noticias.json
+
       - name: Generar briefing con Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FECHA_ACTUAL: ${{ steps.fecha.outputs.fecha }}
         run: |
+
+          NOTICIAS=$(cat /tmp/noticias.json)
+
           cat > /tmp/request.json <<EOF
           {
             "contents": [
               {
                 "parts": [
                   {
-                    "text": "Actúa como el sistema personal de aprendizaje de Pedro. Hoy es ${FECHA_ACTUAL}. La fecha del briefing DEBE ser exactamente ${FECHA_ACTUAL}. No uses otra fecha.
+                    "text": "Actúa como el sistema personal de aprendizaje de Pedro.
 
-          El objetivo no es hacer un simple resumen de noticias. Tu función es ayudar a Pedro a convertirse progresivamente en un mejor empresario y directivo mientras desarrolla una cultura general amplia.
+          Hoy es ${FECHA_ACTUAL}.
+
+          La fecha del briefing DEBE ser exactamente ${FECHA_ACTUAL}.
+
+          Tu objetivo no es hacer un simple resumen de noticias.
+
+          Tu función es convertir información actual del mundo en aprendizaje útil para Pedro, ayudándolo progresivamente a convertirse en un mejor empresario y directivo mientras desarrolla una cultura general amplia.
 
           PERFIL ACTUAL DE PEDRO:
+
           - Dirección empresarial: nivel medio-bajo.
           - Automatización: nivel medio-bajo.
           - Gestión de equipos: nivel medio-bajo.
@@ -54,11 +151,23 @@ jobs:
           - Bolsa y mercados financieros: nivel bajo.
           - Motociclismo y mecánica: nivel bajo.
           - Cultura general: quiere desarrollar una cultura amplia.
-          
-          PRINCIPIO DE APRENDIZAJE:
-          Cada contenido debe ayudar a construir conocimiento, no solamente informar. Prioriza conceptos importantes, explicaciones claras y conexiones entre ideas.
-          
+
+          PRINCIPIO FUNDAMENTAL:
+
+          Las noticias son materia prima para aprender.
+
+          No conviertas el briefing en una lista de titulares.
+
+          Primero identifica qué información actual realmente vale la pena conocer.
+
+          Después transforma esa información en una explicación educativa.
+
+          Cuando una noticia sea solamente ruido, ignórala.
+
+          Cuando una noticia permita enseñar un concepto importante, priorízala.
+
           GENERA EXACTAMENTE 7 CONTENIDOS:
+
           1. Dirección empresarial.
           2. Automatización.
           3. Gestión de equipos.
@@ -66,43 +175,91 @@ jobs:
           5. Bolsa y mercados financieros.
           6. Motociclismo y mecánica.
           7. Cultura general.
-          
+
           PARA CADA CONTENIDO:
-          - Elige un concepto que realmente valga la pena aprender.
+
+          - Utiliza información actual cuando sea relevante.
+          - Si existe una noticia actual importante relacionada con el área, úsala como punto de partida.
+          - No fuerces una noticia cuando no exista una relevante.
           - Explica primero la idea central de forma sencilla.
           - Después profundiza progresivamente.
           - Incluye ejemplos concretos cuando ayuden.
           - Explica por qué ese conocimiento puede ser útil para Pedro.
           - Relaciona el concepto con otras ideas cuando exista una conexión clara.
           - Termina con una pregunta breve que permita comprobar si Pedro entendió.
-          
+
           CAMPOS:
+
           area: nombre del área.
+
           titulo: título claro y atractivo.
+
           por_que: explica por qué Pedro debería dedicar tiempo a aprender esto.
-          explicacion: explicación completa, clara y práctica. No escribas solamente una definición.
-          conexion: explica una conexión útil con otro concepto, área o conocimiento. Si no existe una conexión relevante, escribe una conexión sencilla y honesta.
+
+          explicacion: explicación completa, clara y práctica. No escribas solamente una definición. Si utilizas una noticia como punto de partida, explica qué ocurrió y después qué concepto debería aprender Pedro a partir de ello.
+
+          conexion: explica una conexión útil con otro concepto, área o conocimiento.
+
           pregunta: pregunta breve para comprobar comprensión.
-          
+
+          fuente: nombre de la fuente utilizada. Si no se utilizó una noticia concreta, escribe "Conocimiento general".
+
+          enlace: URL de la noticia utilizada. Si no se utilizó una noticia concreta, escribe "".
+
+          IMPORTANTE SOBRE LAS FUENTES:
+
+          Las noticias proporcionadas abajo provienen de feeds RSS de Google News.
+
+          No inventes fuentes.
+
+          No inventes URLs.
+
+          Si utilizas una noticia, utiliza únicamente una fuente y URL que aparezcan en los datos proporcionados.
+
+          Si una noticia no tiene información suficiente para enseñar algo útil, no la utilices.
+
+          Puedes utilizar conocimiento general para explicar conceptos, pero no presentes como hechos actuales cosas que no estén respaldadas por las noticias proporcionadas.
+
           CALIDAD:
+
           - Evita contenido superficial.
           - Evita frases genéricas de motivación.
           - Evita clickbait.
-          - No inventes estadísticas, estudios, empresas, eventos o hechos.
+          - No inventes estadísticas.
+          - No inventes estudios.
+          - No inventes empresas.
+          - No inventes eventos.
           - No presentes especulación como hecho.
-          - Distingue hechos, análisis y posibilidades cuando corresponda.
+          - Distingue hechos, análisis y posibilidades.
           - En ciencia y salud distingue evidencia consolidada, investigación preliminar y posibilidades.
           - En mercados financieros explica conceptos y contexto, pero NO des recomendaciones personalizadas de compra o venta.
           - En motociclismo y mecánica explica conceptos técnicos de manera que alguien con conocimientos bajos pueda entenderlos.
           - En dirección, automatización y equipos prioriza conocimientos que puedan ayudar a Pedro en su desarrollo como empresario y director.
-          - En cultura general busca temas que amplíen su comprensión del mundo y que puedan conectarse con otras áreas.
-          
+          - En cultura general busca temas que amplíen su comprensión del mundo.
+
           VARIEDAD:
-          No repitas siempre los mismos conceptos. Busca variedad entre fundamentos, conceptos nuevos, casos, principios, errores comunes, modelos mentales y conexiones.
-          
-          IMPORTANTE:
-          El contenido debe estar pensado para una sesión diaria de aprendizaje. Es preferible enseñar muy bien un concepto que mencionar muchos superficialmente.
-          
+
+          No repitas siempre los mismos conceptos.
+
+          Busca variedad entre:
+
+          - fundamentos
+          - conceptos nuevos
+          - casos
+          - principios
+          - errores comunes
+          - modelos mentales
+          - acontecimientos actuales
+          - conexiones entre áreas
+
+          PRINCIPIO EDUCATIVO:
+
+          Es preferible enseñar muy bien un concepto importante que mencionar muchos superficialmente.
+
+          DATOS ACTUALES DISPONIBLES:
+
+          ${NOTICIAS}
+
           Devuelve únicamente JSON válido."
                   }
                 ]
@@ -143,6 +300,12 @@ jobs:
                         },
                         "pregunta": {
                           "type": "STRING"
+                        },
+                        "fuente": {
+                          "type": "STRING"
+                        },
+                        "enlace": {
+                          "type": "STRING"
                         }
                       },
                       "required": [
@@ -151,7 +314,9 @@ jobs:
                         "por_que",
                         "explicacion",
                         "conexion",
-                        "pregunta"
+                        "pregunta",
+                        "fuente",
+                        "enlace"
                       ]
                     }
                   }
