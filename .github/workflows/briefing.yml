@@ -96,7 +96,7 @@ jobs:
               -X POST \
               -H "Content-Type: application/json" \
               -H "x-goog-api-key: ${GEMINI_API_KEY}" \
-              "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent" \
+              "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent" \
               -d @/tmp/request.json)
 
             echo "Código HTTP: $HTTP_CODE"
