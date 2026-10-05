@@ -1,55 +1,55 @@
 {
-  "fecha": "2026-10-05",
-  "titulo": "PRUEBA DE ACTUALIZACIÓN",
+  "titulo": "Briefing Diario de Pedro",
+  "fecha": "2023-10-25",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Dirigir vs. operar",
-      "explicacion": "Dirigir implica decidir prioridades, asignar recursos y crear sistemas para que el equipo pueda ejecutar sin depender de ti para cada decisión.",
-      "por_que": "Te ayuda a pasar de resolver problemas personalmente a diseñar cómo funciona la empresa.",
-      "pregunta": "¿Qué decisión repetitiva de tu empresa podrías convertir en una regla o proceso?"
+      "titulo": "El cuadro de mando integral",
+      "por_que": "Para gestionar una empresa no basta con mirar la cuenta de resultados; necesitas métricas equilibradas.",
+      "explicacion": "El cuadro de mando integral o Balanced Scorecard es una herramienta que ayuda a los directivos a ver el negocio desde cuatro perspectivas: financiera, cliente, procesos internos y aprendizaje y crecimiento. Esto evita tomar decisiones cegadas únicamente por el dinero a corto plazo.",
+      "pregunta": "¿Cuáles son las cuatro perspectivas que abarca el cuadro de mando integral?"
     },
     {
       "area": "Automatización",
-      "titulo": "Primero el proceso, después la herramienta",
-      "explicacion": "Una automatización útil empieza por definir entradas, decisiones y resultado. La herramienta viene después.",
-      "por_que": "Evita automatizar procesos mal diseñados.",
-      "pregunta": "Piensa en un proceso repetitivo y describe entrada → decisión → salida."
+      "titulo": "Diferencia entre automatización y digitalización",
+      "por_que": "Muchos empresarios creen que digitalizar es automatizar, y terminan invirtiendo en herramientas inútiles.",
+      "explicacion": "Digitalizar consiste en pasar información de papel a formato digital, como un PDF. Automatizar significa que un software realiza una tarea repetitiva sin intervención humana, como enviar un correo automático cuando un cliente paga. Primero debes ordenar tus procesos y luego automatizarlos.",
+      "pregunta": "¿Qué diferencia principal existe entre digitalizar un documento y automatizar un proceso?"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "Delegar no es abandonar",
-      "explicacion": "Delegar bien implica definir resultado esperado, límites de decisión, recursos y cómo se medirá el desempeño.",
-      "por_que": "Libera al directivo sin perder control sobre el resultado.",
-      "pregunta": "¿Qué tarea podrías delegar si defines claramente el resultado y el indicador?"
+      "titulo": "La técnica del feedback constructivo",
+      "por_que": "Para mejorar el rendimiento del equipo sin generar conflictos ni desmotivar a los empleados.",
+      "explicacion": "El feedback efectivo debe centrarse en el comportamiento observable y en el impacto que genera, nunca en la persona. Se recomienda usar el modelo de comunicación no violenta: describir el hecho, expresar el sentimiento, explicar la consecuencia y proponer una mejora clara.",
+      "pregunta": "Cuando das feedback a un miembro de tu equipo, ¿debes centrarte en su personalidad o en sus acciones?"
     },
     {
       "area": "Economía",
-      "titulo": "Oferta y demanda",
-      "explicacion": "Los precios tienden a cambiar cuando cambia la cantidad que compradores quieren adquirir o vendedores quieren ofrecer.",
-      "por_que": "Es una base para entender inflación, mercados y decisiones empresariales.",
-      "pregunta": "¿Qué podría aumentar la demanda de un producto sin cambiar su oferta?"
+      "titulo": "La inflación de costes y su impacto en el margen",
+      "por_que": "Te ayuda a entender por qué subir los precios a los clientes a veces es inevitable para sobrevivir.",
+      "explicacion": "La inflación de costes ocurre cuando las materias primas, la energía o los salarios se encarecen para una empresa. Si tus costes suben un 10% y no tocas tus precios de venta, tu margen de beneficio bruto se reduce drásticamente, poniendo en riesgo la viabilidad del negocio.",
+      "pregunta": "¿Qué ocurre con el margen de beneficio de una empresa si sus costes aumentan y no ajusta sus precios?"
     },
     {
-      "area": "Bolsa",
-      "titulo": "Qué significa comprar una acción",
-      "explicacion": "Comprar una acción significa adquirir una participación económica en una empresa. Su precio refleja expectativas sobre beneficios, riesgo y crecimiento.",
-      "por_que": "Es el punto de partida antes de estudiar valuación y análisis financiero.",
-      "pregunta": "¿Por qué una empresa que gana más dinero no necesariamente sube en bolsa?"
+      "area": "Bolsa y mercados financieros",
+      "titulo": "Entendiendo las acciones y la capitalización bursátil",
+      "por_que": "Es el concepto básico indispensable para comprender cómo funciona el valor de una compañía en bolsa.",
+      "explicacion": "Una acción es una pequeña parte de la propiedad de una empresa. La capitalización bursátil es el valor total de esa empresa en el mercado, y se calcula multiplicando el precio de una acción por el número total de acciones emitidas. No confundas el precio de una acción con el valor real de la empresa.",
+      "pregunta": "¿Cómo se calcula la capitalización bursátil de una compañía?"
     },
     {
-      "area": "Motociclismo — mecánica",
-      "titulo": "Qué hace el aceite del motor",
-      "explicacion": "El aceite reduce fricción y desgaste, ayuda a controlar temperatura y mantiene contaminantes en suspensión para proteger componentes internos.",
-      "por_que": "La lubricación es fundamental para comprender mantenimiento y fallas.",
-      "pregunta": "¿Qué puede ocurrir si un motor trabaja con lubricación insuficiente?"
+      "area": "Motociclismo y mecánica",
+      "titulo": "El sistema de frenos ABS en motocicletas",
+      "por_que": "Conocer la tecnología básica de tu vehículo mejora tu seguridad activa al conducir.",
+      "explicacion": "El ABS (Sistema Antibloqueo de Frenos) evita que las ruedas se queden completamente bloqueadas al frenar con fuerza, especialmente sobre superficies mojadas o resbaladizas. Al evitar el bloqueo, el conductor mantiene el control de la dirección de la moto y reduce el riesgo de caída.",
+      "pregunta": "¿Qué función principal cumple el sistema ABS en las ruedas de una motocicleta durante una frenada de emergencia?"
     },
     {
       "area": "Cultura general",
-      "titulo": "Aprender conectando ideas",
-      "explicacion": "La cultura general se vuelve más útil cuando relacionas conceptos de distintas áreas en lugar de memorizarlos de forma aislada.",
-      "por_que": "El objetivo de tu sistema es construir conexiones que puedas aplicar en decisiones reales.",
-      "pregunta": "¿Qué concepto de hoy puedes relacionar con una decisión empresarial?"
+      "titulo": "El método científico como herramienta mental",
+      "por_que": "Ayuda a tomar decisiones empresariales y vitales basadas en evidencias y no en sesgos u opiniones.",
+      "explicacion": "El método científico es un proceso sistemático que consiste en observar un fenómeno, formular una hipótesis, experimentar para comprobarla, analizar los datos y extraer conclusiones. Aplicarlo en los negocios significa probar ideas a pequeña escala antes de arriesgar grandes presupuestos.",
+      "pregunta": "¿Cuál es el primer paso que se da dentro del método científico?"
     }
   ]
 }
