@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111111">
+  <meta name="description" content="Sistema personal de aprendizaje y briefing diario.">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <title>Mi Aprendizaje</title>
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">TU SISTEMA PERSONAL</div>
+        <h1>Mi Aprendizaje</h1>
+      </div>
+      <button class="icon-btn" id="themeBtn" aria-label="Cambiar tema">☼</button>
+    </header>
+
+    <main id="main">
+      <section class="view active" data-view="hoy">
+        <div class="hero">
+          <div>
+            <span class="pill">HOY · 5 MIN</span>
+            <h2>¿Qué deberías saber hoy?</h2>
+            <p>Una selección pensada para ti: mundo, negocios, IA, tecnología y conocimiento.</p>
+          </div>
+        </div>
+        <div class="time-row">
+          <button class="time active" data-min="5">5 min</button>
+          <button class="time" data-min="15">15 min</button>
+          <button class="time" data-min="30">30 min</button>
+          <button class="time" data-min="60">45–60</button>
+          <button class="time" data-min="deep">Profundizar</button>
+        </div>
+        <div id="todayFeed"></div>
+      </section>
+
+      <section class="view" data-view="explorar">
+        <div class="section-head"><div><span class="eyebrow">DESCUBRIMIENTO</span><h2>Explorar</h2></div></div>
+        <div id="topicsGrid" class="topics-grid"></div>
+      </section>
+
+      <section class="view" data-view="aprender">
+        <div class="section-head"><div><span class="eyebrow">CONOCIMIENTO</span><h2>Aprender</h2></div></div>
+        <div class="stats">
+          <div><strong id="learnedCount">0</strong><span>conceptos aprendidos</span></div>
+          <div><strong id="streakCount">1</strong><span>días de racha</span></div>
+          <div><strong id="savedCount">0</strong><span>guardados</span></div>
+        </div>
+        <div class="card lesson">
+          <span class="pill">LECCIÓN SUGERIDA</span>
+          <h3>Cómo pensar en modelos de negocio</h3>
+          <p>Una introducción práctica para entender por qué algunas empresas crean ventajas difíciles de copiar.</p>
+          <button class="primary" onclick="openLesson('business')">Empezar · 5 min</button>
+        </div>
+        <div class="card">
+          <span class="eyebrow">REPASO</span>
+          <h3 id="reviewTitle">Todavía no hay repasos pendientes</h3>
+          <p id="reviewText">A medida que aprendas, el sistema programará repasos espaciados.</p>
+        </div>
+      </section>
+
+      <section class="view" data-view="guardados">
+        <div class="section-head"><div><span class="eyebrow">TU BIBLIOTECA</span><h2>Guardados</h2></div></div>
+        <div id="savedFeed"></div>
+      </section>
+
+      <section class="view" data-view="perfil">
+        <div class="section-head"><div><span class="eyebrow">PERSONALIZACIÓN</span><h2>Tu perfil</h2></div></div>
+        <div class="card profile">
+          <div class="avatar">P</div>
+          <div><h3>Pedro</h3><p>Perfil inicial · se irá adaptando con tu uso.</p></div>
+        </div>
+        <div class="card">
+          <h3>Mis prioridades</h3>
+          <div id="profileTopics"></div>
+        </div>
+        <div class="card">
+          <h3>Cómo aprendo</h3>
+          <p>El sistema irá detectando qué formatos, temas y niveles de profundidad te funcionan mejor.</p>
+          <button class="secondary" id="resetBtn">Reiniciar datos de prueba</button>
+        </div>
+      </section>
+    </main>
+
+    <nav class="tabbar">
+      <button class="tab active" data-target="hoy"><span>⌂</span><small>Hoy</small></button>
+      <button class="tab" data-target="explorar"><span>◌</span><small>Explorar</small></button>
+      <button class="tab" data-target="aprender"><span>✦</span><small>Aprender</small></button>
+      <button class="tab" data-target="guardados"><span>♡</span><small>Guardados</small></button>
+      <button class="tab" data-target="perfil"><span>○</span><small>Perfil</small></button>
+    </nav>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-backdrop" onclick="closeModal()"></div>
+    <article class="modal-card">
+      <button class="close" onclick="closeModal()">×</button>
+      <div id="modalContent"></div>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
