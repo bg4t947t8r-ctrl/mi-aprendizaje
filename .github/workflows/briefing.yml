@@ -124,19 +124,27 @@ jobs:
           FECHA_ACTUAL: ${{ steps.fecha.outputs.fecha }}
         run: |
 
-          NOTICIAS=$(cat /tmp/noticias.json)
+          python3 <<'PY'
+          import json
+          import os
 
-          cat > /tmp/request.json <<EOF
-          {
-            "contents": [
-              {
-                "parts": [
-                  {
-                    "text": "Actúa como el sistema personal de aprendizaje de Pedro.
+          fecha = os.environ["FECHA_ACTUAL"]
 
-          Hoy es ${FECHA_ACTUAL}.
+          with open("/tmp/noticias.json", "r", encoding="utf-8") as f:
+              noticias = json.load(f)
 
-          La fecha del briefing DEBE ser exactamente ${FECHA_ACTUAL}.
+          noticias_texto = json.dumps(
+              noticias,
+              ensure_ascii=False,
+              indent=2
+          )
+
+          prompt = f"""
+          Actúa como el sistema personal de aprendizaje de Pedro.
+
+          Hoy es {fecha}.
+
+          La fecha del briefing DEBE ser exactamente {fecha}.
 
           Tu objetivo no es hacer un simple resumen de noticias.
 
@@ -258,80 +266,95 @@ jobs:
 
           DATOS ACTUALES DISPONIBLES:
 
-          ${NOTICIAS}
+          {noticias_texto}
 
-          Devuelve únicamente JSON válido."
-                  }
-                ]
-              }
-            ],
-            "generationConfig": {
-              "responseMimeType": "application/json",
-              "responseSchema": {
-                "type": "OBJECT",
-                "properties": {
+          Devuelve únicamente JSON válido.
+          """
+
+          schema = {
+              "type": "OBJECT",
+              "properties": {
                   "titulo": {
-                    "type": "STRING"
+                      "type": "STRING"
                   },
                   "fecha": {
-                    "type": "STRING"
+                      "type": "STRING"
                   },
                   "items": {
-                    "type": "ARRAY",
-                    "minItems": 7,
-                    "maxItems": 7,
-                    "items": {
-                      "type": "OBJECT",
-                      "properties": {
-                        "area": {
-                          "type": "STRING"
-                        },
-                        "titulo": {
-                          "type": "STRING"
-                        },
-                        "por_que": {
-                          "type": "STRING"
-                        },
-                        "explicacion": {
-                          "type": "STRING"
-                        },
-                        "conexion": {
-                          "type": "STRING"
-                        },
-                        "pregunta": {
-                          "type": "STRING"
-                        },
-                        "fuente": {
-                          "type": "STRING"
-                        },
-                        "enlace": {
-                          "type": "STRING"
-                        }
-                      },
-                      "required": [
-                        "area",
-                        "titulo",
-                        "por_que",
-                        "explicacion",
-                        "conexion",
-                        "pregunta",
-                        "fuente",
-                        "enlace"
-                      ]
-                    }
+                      "type": "ARRAY",
+                      "minItems": 7,
+                      "maxItems": 7,
+                      "items": {
+                          "type": "OBJECT",
+                          "properties": {
+                              "area": {
+                                  "type": "STRING"
+                              },
+                              "titulo": {
+                                  "type": "STRING"
+                              },
+                              "por_que": {
+                                  "type": "STRING"
+                              },
+                              "explicacion": {
+                                  "type": "STRING"
+                              },
+                              "conexion": {
+                                  "type": "STRING"
+                              },
+                              "pregunta": {
+                                  "type": "STRING"
+                              },
+                              "fuente": {
+                                  "type": "STRING"
+                              },
+                              "enlace": {
+                                  "type": "STRING"
+                              }
+                          },
+                          "required": [
+                              "area",
+                              "titulo",
+                              "por_que",
+                              "explicacion",
+                              "conexion",
+                              "pregunta",
+                              "fuente",
+                              "enlace"
+                          ]
+                      }
                   }
-                },
-                "required": [
+              },
+              "required": [
                   "titulo",
                   "fecha",
                   "items"
-                ]
-              },
-              "temperature": 0.7,
-              "maxOutputTokens": 12000
-            }
+              ]
           }
-          EOF
+
+          request = {
+              "contents": [
+                  {
+                      "parts": [
+                          {
+                              "text": prompt
+                          }
+                      ]
+                  }
+              ],
+              "generationConfig": {
+                  "responseMimeType": "application/json",
+                  "responseSchema": schema,
+                  "temperature": 0.7,
+                  "maxOutputTokens": 12000
+              }
+          }
+
+          with open("/tmp/request.json", "w", encoding="utf-8") as f:
+              json.dump(request, f, ensure_ascii=False)
+
+          print("Request JSON creado correctamente.")
+          PY
 
           for intento in 1 2 3 4 5; do
             echo "Intento $intento de 5..."
