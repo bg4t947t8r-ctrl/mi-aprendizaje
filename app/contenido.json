@@ -1,76 +1,76 @@
 {
-  "titulo": "Briefing Diario de Aprendizaje de Pedro",
-  "fecha": "2026-10-06",
+  "titulo": "Briefing Personal de Aprendizaje para Pedro",
+  "fecha": "2026-10-07",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Ventaja competitiva y asignación estratégica de recursos",
-      "por_que": "Como directivo, entender cómo elegir entre diferentes oportunidades de inversión según los activos disponibles es crítico para maximizar la rentabilidad y el crecimiento sostenible.",
-      "explicacion": "Recientemente, el CEO de Shell señaló que ven una clara ventaja competitiva en el gas de Venezuela frente al petróleo pesado debido a la infraestructura y eficiencia operativa. En la dirección empresarial, esto ilustra la importancia de evaluar los recursos y capacidades internas de la organización para enfocar los esfuerzos donde realmente existe una ventaja competitiva sostenible, en lugar de dispersar capital en proyectos complejos o menos eficientes.",
-      "conexion": "Se conecta directamente con el concepto de asignación de capital y la matriz BCG para priorizar líneas de negocio según su potencial de retorno.",
-      "pregunta": "¿Qué criterio principal debes evaluar al decidir en qué proyectos invertir los recursos limitados de tu empresa?",
-      "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNME5mNWI4S1ZzcGRoUDk1R3NETnJ0R2NsRk1hV0pVYUp5cUs4MmhZbm1JNHNNMWhuTVBmM1p2NWl0Vy1LTEJrdVhtOXppM0loSldRS1lWUEZoY1RZR0FCcV9QYnJ1MXRUY2Eza1pkcmpTcUxNdU85bFczLUxDWndRaWdSWHRLSko3a0ZHQ1BVTjUwRnR2OVA0OUI3dDdndDFOWW4wM295OE91X19UZ29fUjhZZDJ3SmdJamlr?oc=5"
-    },
-    {
-      "area": "Automatización",
-      "titulo": "Sistemas operativos orientados a IA en la gestión empresarial",
-      "por_que": "Para un nivel medio-bajo en automatización, comprender el concepto de 'AI-First Operating System' ayuda a visualizar cómo integrar la tecnología más allá de simples tareas repetitivas, transformando el núcleo operativo del negocio.",
-      "explicacion": "El Foro Económico Mundial publicó recientemente un análisis sobre cómo los sistemas operativos diseñados con la inteligencia artificial en su centro (AI-First) están redefiniendo el diseño de modelos de negocio. No se trata solo de automatizar un proceso aislado, sino de estructurar la compañía para que los flujos de datos y las decisiones algorítmicas guíen la operativa diaria de manera integrada y escalable.",
-      "conexion": "Conecta la automatización operativa con la estrategia de innovación en modelos de negocio y la escalabilidad sin fricciones.",
-      "pregunta": "¿Cuál es la diferencia fundamental entre automatizar una tarea aislada y adoptar un enfoque 'AI-First' en una empresa?",
+      "titulo": "El modelo operativo impulsado por IA: del soporte a la estrategia",
+      "por_que": "Como directivo, entender cómo integrar la inteligencia artificial en la arquitectura operativa básica de tu empresa te permitirá escalar sin multiplicar linealmente tus costes fijos.",
+      "explicacion": "El Foro Económico Mundial publicó recientemente un análisis sobre el sistema operativo centrado en la IA. Tradicionalmente, la tecnología se ha añadido como una capa superior para automatizar tareas repetitivas específicas. Sin embargo, el enfoque moderno de dirección propone rediseñar los procesos centrales de la organización asumiendo que la IA es el núcleo lógico que procesa la información y facilita las decisiones, transformando radicalmente la propuesta de valor y la agilidad de la compañía frente a competidores tradicionales.",
+      "conexion": "Este concepto se conecta directamente con la automatización avanzada y la reingeniería de procesos que todo empresario debe dominar para evitar cuellos de botella organizativos.",
+      "pregunta": "¿Cuál es la diferencia fundamental entre usar la IA como un soporte auxiliar y considerarla el núcleo del modelo operativo?",
       "fuente": "El Foro Económico Mundial",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGVRcjI5RHk0ZXJHOGxzZ3B0V1BsVUFacWV6azMyX2RHeDN5akVwWC1acFlfSVhQMHpVaGlIMW1UVGZDVThEMFMtYWxoa19QMTZGWEd3TDl3bkQyY1Y0eXRjNElSR1ZTLUdXcHd6ZHlpUjlyOU5mYXVDckwwMTVVOEpHalVLejlzaHVPU0pXZWVrNzJ6RkpqM3BxWTBsNmdFanNDWHhLRnRCUzN6S2JUcFZ1ZmZ4US16c0tZMl8ySQ?oc=5"
     },
     {
+      "area": "Automatización",
+      "titulo": "AI Gateway: centralizar y asegurar la inteligencia artificial en la empresa",
+      "por_que": "A medida que implementas múltiples herramientas de IA en tus procesos, necesitas un punto de control unificado para gestionar costes, seguridad y rendimiento sin complicar la operativa diaria.",
+      "explicacion": "Un AI Gateway actúa como un intermediario o puerta de enlace centralizada entre las aplicaciones de una empresa y los diferentes modelos de inteligencia artificial que utiliza. Según informes recientes sobre su adopción empresarial, esta arquitectura permite tres ventajas críticas: controlar el gasto en peticiones de API, aplicar políticas de seguridad y filtrado de datos sensibles, y enrutar las consultas hacia el modelo más eficiente según la tarea. Para un directivo, esto significa pasar del caos tecnológico a una automatización ordenada y predecible.",
+      "conexion": "Se relaciona con la ciberseguridad corporativa y el control financiero, ya que evita fugas de información y sorpresas presupuestarias en el uso de servicios externos.",
+      "pregunta": "¿Qué función principal cumple un AI Gateway dentro de la arquitectura tecnológica de una empresa?",
+      "fuente": "Mexico Business News",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHFoaHBoM1V3RXBNNzQ4T0ozdG9DT2VkaVdHOHVjNDN3am5sTmoxaWp2c0RRY3Z6cVMtYUhYVWZGQkNLWDRXek5XUmRfTFJOZnRodjBPWFdtWFhNQTZkM1piZVBnVWZTbTZnc21fWGRYYVlpMmxpRmJxNUxfZE4tZFBUc3I1WW5nQ2dSV0VXcWhyZWhz?oc=5"
+    },
+    {
       "area": "Gestión de equipos",
-      "titulo": "Gestión del talento y el reto de la sucesión generacional",
-      "por_que": "Como directivo, asegurar la continuidad del negocio y el desarrollo del talento interno es uno de los mayores desafíos para evitar la vulnerabilidad ante cambios de liderazgo.",
-      "explicacion": "Debates recientes en foros empresariales subrayan la urgencia de abordar la sucesión generacional y la retención del talento clave. En la gestión de equipos, esto significa que un buen líder no solo debe gestionar el día a día, sino diseñar planes de mentoría y transferencia de conocimiento estructurados, asegurando que el know-how crítico de la organización no dependa de una sola persona.",
-      "conexion": "Se relaciona con el concepto de gestión del riesgo operativo y la creación de una cultura organizacional basada en la resiliencia y el aprendizaje continuo.",
-      "pregunta": "¿Qué estrategia clave implementarías en tu equipo para asegurar que la marcha de un colaborador clave no detenga la operación?",
-      "fuente": "todoalicante.es",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnAtUGpRZ3o3ZjVGUzRhZ0pPUElSbHFRQTBSR1ZhMmtLaWpWZ1l6TXVnX2lHSW9zMFg4b2NhajVqS3E1WG8xeDNNdlRmWTNfTi0zRmIzblNsazhzcUc5LTZhYlNNVHFwMnB0Qy1ZTEtUWVNxNVlEenI5V0JGTm5UbVozUS0tUXU4ZnRYZDEtLXRkaUhRQnpB0gGcAUFVX3lxTE1YWjdkU3E5UU1UUGN1c1JwZUpua2NTcDl4ZWxXUFU2QmNXMlRXdnJCTHBmSU9feXI5cVZ0ZnlMdUhGVWFuUzRKUGJBdFhTOW1yR2hVblYyQTVENXVnY293Nm5Bbm1mbFpmWnpyS2pfWmgtM3lGTy1ESjhDdWxkSkFIVVdjSkpnU0RQY1F4d2dJaUo3eG1RSm5xLWZqcw?oc=5"
+      "titulo": "Superando los sesgos invisibles en la comunicación de equipos",
+      "por_que": "Mejorar la claridad y reducir los malentendidos interpersonales previene conflictos innecesarios y optimiza el rendimiento general del equipo de trabajo.",
+      "explicacion": "En la gestión de equipos, uno de los mayores obstáculos no es la falta de capacidad técnica, sino los patrones de comunicación defensivos o las respuestas automáticas ante situaciones de presión social o laboral. Analizar cómo ciertos hábitos ocultos de interacción generan fricciones permite al líder fomentar un entorno de seguridad psicológica. Cuando las personas dejan de protegerse defensivamente de opiniones divergentes, la colaboración y la resolución conjunta de problemas mejoran de manera sustancial.",
+      "conexion": "Conecta con la inteligencia emocional directiva y la creación de una cultura de retroalimentación constructiva dentro de la organización.",
+      "pregunta": "¿Cómo impacta la creación de un entorno seguro en la calidad de la resolución de problemas de un equipo?",
+      "fuente": "BBC",
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbUEyWnZqX3F5QTl0MXVyY2NlMHJyb3NlREliZGdKZXZjUTR6YVJlZE9RV2REcmdtLWRBZU5pSTVqeHNjMWtUcFZMWkNDTzRhSUtuLW14R2JjbXRK0gFiQVVfeXFMTmlVUmpoX2VpTkk2VDJ6LW5PMDFIM05kV3ctei1BX0hYQ25UQ1VVckJCalpYbHZHMVdLU0Izb29POFpXdVJKVzhHbkhpOEdjT1VMSmhuQlBrUTdaM1ZsTkFtU2c?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "Modelos de inflación y el impacto disruptivo de la tecnología",
-      "por_que": "Comprender la macroeconomía y cómo los modelos tradicionales de los bancos centrales pueden fallar ayuda a anticipar cambios en las tasas de interés y el coste del capital para tu empresa.",
-      "explicacion": "Analistas financieros y figuras como Bill Ackman han advertido recientemente que la Reserva Federal podría cometer errores en sus previsiones si los modelos de inflación tradicionales no logran contabilizar las enormes ganancias de productividad y deflacción de costes impulsadas por la inteligencia artificial. En economía, esto demuestra que las variables estructurales cambian, y los indicadores clásicos a veces interpretan mal las nuevas realidades tecnológicas.",
-      "conexion": "Conecta la macroeconomía global con la planificación financiera empresarial a medio y largo plazo.",
-      "pregunta": "¿Por qué un aumento masivo de la productividad gracias a la tecnología podría alterar las previsiones tradicionales de inflación?",
-      "fuente": "TradingView",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON2FGR3VWWV8ycWJxVXFnQ0hUQmoxbDNnRjJ6WmV1ekRvaXBLQW11X2pGM0g1OWlKSlZzNkdQMUZBazdzanFQcnd5UHV0SW5mNmd5dzVjc0k0UHEwOVgxalFlZnRZYlI2Q1pma3U1UFZaVkhyRlQ5bThRckdGLTZrcjRkUkk1cWRibFk4OVBTQlh0STBNLW5Za25RRUMyVDdTTTlMclFyY2hkWll1Rk9DY2t2V24yeUc5aXJvQXFEM1dHLUw1S3N6OTU0VS1vTUExdUpidGRiQkNCQ3pzclE?oc=5"
+      "titulo": "La dinámica inflacionaria global y su impacto indirecto en la cadena de suministro",
+      "por_que": "Comprender los desajustes en la inflación y los costes logísticos internacionales te ayuda a anticipar fluctuaciones en el precio de materias primas y suministros para tu negocio.",
+      "explicacion": "Recientes datos económicos globales muestran cómo factores complejos, desde tensiones geopolíticas hasta la volatilidad en las tarifas de fletes marítimos, alteran el comercio internacional y la estabilidad de precios en diferentes regiones. Por ejemplo, variaciones en las exportaciones de energía y materias primas impactan directamente en los costes de transporte a nivel mundial. Para un empresario, entender que la inflación no es solo un número local, sino el resultado de cadenas globales de valor, es vital para planificar inventarios y fijar precios con mayor realismo.",
+      "conexion": "Conecta con la estrategia financiera y la gestión de riesgos en la cadena de suministro de cualquier empresa comercial o industrial.",
+      "pregunta": "¿Por qué las variaciones en los costes logísticos y de transporte internacional afectan a la planificación financiera de una empresa local?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "La tokenización de los mercados de capitales y el trading 24/7",
-      "por_que": "Entender la evolución de los mercados financieros permite conocer hacia dónde se dirige la liquidez global y la digitalización de activos, un tema central para los próximos años según instituciones como Deutsche Bank.",
-      "explicacion": "Informes recientes de entidades como Deutsche Bank y plataformas de mercado señalan que la tokenización de activos bursátiles y la negociación continua (24/7) se perfilan como el núcleo de los mercados de capitales para la próxima década. La tokenización consiste en representar digitalmente activos reales en una red de bloques, lo que reduce intermediarios, acelera las liquidaciones y abre el acceso a nuevos inversores.",
-      "conexion": "Relaciona la tecnología blockchain y los activos digitales con la evolución histórica de las bolsas de valores tradicionales.",
-      "pregunta": "¿Qué ventaja operativa principal aporta la tokenización frente a los sistemas tradicionales de compensación y liquidación bursátil?",
+      "titulo": "Tokenización de mercados financieros: hacia el trading continuo 24/7",
+      "por_que": "La evolución tecnológica de los mercados anticipa cambios profundos en cómo se negocian los activos, un fenómeno relevante para entender el futuro de la liquidez global.",
+      "explicacion": "Informes recientes de plataformas financieras señalan el avance de la tokenización de mercados bursátiles, un proceso mediante el cual las acciones e instrumentos financieros se representan mediante tokens digitales en infraestructuras descentralizadas. Esto abre la puerta a la negociación ininterrumpida las 24 horas del día, los 7 días de la semana, eliminando las limitaciones horarias de las bolsas tradicionales. Aunque en una fase de desarrollo y adopción gradual, este cambio promete transformar radicalmente conceptos tradicionales como la liquidez y la formación de precios en los mercados de capitales.",
+      "conexion": "Se relaciona con la innovación financiera y la digitalización de activos, conectando la tecnología blockchain con los mercados tradicionales.",
+      "pregunta": "¿Qué implicación principal tiene la tokenización para el concepto tradicional de horario de mercado bursátil?",
       "fuente": "TradingView",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2tBaHlEMFdWLWs0eElSdUw5X3RaNmN3S3Z5YklkWlJDSjNUMVUyR0Q4SVVnbGd2LWdCbGNyMWRINUp1X09KN2NObTN6eFE2SzZrbGFMckZpN1FMMXctRzFwbEhqYzdMNmZiX3dPX2d3TkhpUlZPR3NPdXBTdkZ3S0lnRnF4MkRiUnhvbVJlNzQzY1lWcVotRTZqZTBGWnJGN0h2dkhReERpZ1BNWUthTmw2bDNqOXhEZkp6bXhDSnBxM0Vk?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
       "titulo": "Motores de buje frente a motores centrales en vehículos eléctricos ligeros",
-      "por_que": "Conocer los fundamentos mecánicos y eléctricos básicos de la propulsión ligera amplía tu criterio técnico al evaluar soluciones de movilidad eléctrica.",
-      "explicacion": "Fabricantes líderes como Bosch han introducido recientemente innovaciones en motores de buje (ubicados en el centro de la rueda) para vehículos ligeros, destacando por su ligereza y simplicidad frente a los motores en el pedalier central. Mecánicamente, un motor de buje transmite la fuerza directamente a la rueda sin pasar por la cadena de transmisión, lo que reduce el desgaste de los componentes de la cadena pero modifica la distribución de pesos del vehículo.",
-      "conexion": "Conecta la ingeniería mecánica tradicional con la eficiencia de los sistemas de tracción eléctrica directa.",
-      "pregunta": "¿Dónde se localiza físicamente un motor de buje y qué ventaja principal ofrece respecto al desgaste de la transmisión?",
+      "por_que": "Conocer las diferencias mecánicas básicas entre los distintos tipos de propulsión eléctrica te ayuda a evaluar con criterio técnico soluciones de movilidad y transporte ligero.",
+      "explicacion": "En el sector de la movilidad ligera y las bicicletas o vehículos asistidos, la industria ha diversificado la ubicación de los motores eléctricos. Por un lado están los motores de buje, integrados directamente en el centro de la rueda, que destacan por su simplicidad mecánica, menor desgaste de la cadena y ligereza general. Por otro lado, los motores de posición central transmiten la fuerza a través de la propia transmisión del vehículo, ofreciendo un comportamiento más natural y equilibrado en pendientes. Entender esta arquitectura mecánica ayuda a identificar qué solución se adapta mejor a un uso específico.",
+      "conexion": "Conecta con la física aplicada a la transmisión de potencia y la eficiencia energética en vehículos de dos ruedas.",
+      "pregunta": "¿Cuál es la principal diferencia de ubicación y funcionamiento entre un motor de buje y un motor central?",
       "fuente": "Mundo Deportivo",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3MwMWx0TUJTTjFjYW5EOE1lY1lmVm91bm5NQk5YRzFFbWl6cTlWRTdrN2NWQy1MLTFaN2RGblFpZTdFcjZBak9rLU1RbjRYQXREV1lNWjJsSm00OW9lVnNrcTA4RG5FTnJiQ05pcDRqMHU2ZGQtVGRGRkNYN0R0dVpLRVNISGhwbFlyT0F4WGFIUjRxNDJqY05MYUItMk9JTWlfa1kyb0TSAbYBQVVfeXFMTmVnT0hPZEw5cWpMazE3Z1NGWEYtQ1hVSEluS3FlSDdpNTRTVF9Jd1JORWVTSTlua1pWSVk5R08xSkxSZzZLVk81RTNJMFhjbU9KTjlxeEVVWW5LMHAybHFINDBHS09tbkJKQzJPeTRKdDZvQ3hzTm11bWNBNmxYNHJRV3lPWWhmd0hjSmJwY29QM1Q1czRfRDFHQ3BvV0xyVWRYZm9GLWhaaXhrYUl2R1JIN0VSNnc?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3MwMWx0TUJTTjFjYW5EOE1lY1lmVm91bm5NQk5YRzFFbWl6cTlWRTdrN2NWQy1MLTFaN2RGblFpZTdFcjZBak9rLU1RbjRYQXREV1lNWjJsSm00OW9lVnNrcTA4RG5FTnJiQ05pcDRqMHU2ZGQtVGRGRkNYN0R0dVpLRVNISGhwbFlyT0F4WGFIUjRxNDJqY05MYUItMk9JTWlfa1kyb0TSAbYBQVVfeXFMTmVnT0hPZEw5cWpMazE3Z1NGWEYtQ1hVSEluS3FlSDdpNTRTVF9Jd1JORWVTSTlua1pWSVk5R08xSkxSZzZLVk81RTNJMFhjbU9KTjlxeEVVWW5LMHAybHFINDBHS09tbkJKQzJPeTRKdDZvO3hzTm11bWNBNmxYNHJRV3lPWWhmd0hjSmJwY29QM1Q1czRfRDFHQ3BvV0xyVWRYZm9GLWhaaXhrYUl2R1JIN0VSNnc?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "Las partículas fantasma y la comprensión del cosmos",
-      "por_que": "Desarrollar una cultura general amplia implica conocer los hitos de la ciencia fundamental que explican la estructura íntima del universo, estimulando el pensamiento abstracto.",
-      "explicacion": "Recientes reconocimientos internacionales, como el Premio Nobel de Física otorgado a científicos como Francis Halzen, han puesto el foco en los neutrinos, conocidos popularmente como las 'partículas fantasma'. Estas diminutas partículas atraviesan la materia ordinaria de casi todo el universo sin dejar rastro, y su estudio permite a los astrofísicos observar fenómenos lejanos del espacio profundo que los telescopios ópticos tradicionales no pueden captar.",
-      "conexion": "Conecta la física cuántica y la astrofísica con la evolución de los métodos de observación científica a lo largo de la historia.",
-      "pregunta": "¿Por qué los neutrinos son denominados popularmente 'partículas fantasma' en la física moderna?",
+      "titulo": "El impacto de la catálisis asimétrica en la síntesis de compuestos complejos",
+      "por_que": "Ampliar tu cultura científica te otorga una perspectiva más amplia sobre cómo la investigación básica transforma industrias enteras, desde la farmacéutica hasta la de materiales avanzados.",
+      "explicacion": "La investigación científica premiada recientemente con galardones internacionales de gran prestigio ha puesto de relieve la importancia de la catálisis asimétrica. En química, muchas moléculas esenciales existen en dos formas que son imágenes especulares la una de la otra, como nuestras manos. A menudo, solo una de estas formas tiene el efecto biológico deseado, mientras que la otra puede ser inútil o perjudicial. Los métodos desarrollados por estos científicos permiten fabricar selectivamente la forma correcta de manera eficiente, revolucionando la producción de medicamentos, fragancias y nuevos materiales industriales.",
+      "conexion": "Conecta con la historia de la innovación industrial y el impacto de la química fina en la economía moderna.",
+      "pregunta": "¿Por qué es tan importante para la fabricación de medicamentos obtener una estructura molecular específica en lugar de una mezcla de formas especulares?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BblFaZE5tQWZvV1lfUUpQclh4WXR3Nkh5U3pPZWhXQ2l3b3VwQ3R5b1B3MW9tSmZ0VFRQWFBncmhYV0c3SmhfdTZHVkcxcDVzR0x0cjRuOUxJazNZ0gFiQVVfeXFMT2J3ZDRvRWp1ZzhwVlEwZ1Y4VmpkcnltUnZJUEt4TWN6WnhjUG1sU25QWWRwYk12bTloUHVfSlFjaExiWGZzQkV2Y0xLczBSRWotM1Uxa0hwbV9GWE5fSWF5b3N6QVRzWDBXUVFvOHF0X2JzSWg?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bTd3bzlYUHFpbnE4cjh2MmUzQ3BiUTJnVjVTSG1DQm1XXy1remhlUF9FT1VCYlRsN0dtQkFnb0hoRUZQNHJIR3BqQ0hqanNfNnB3WDBnaFJVUHZK0gFiQVVfeXFMTktCTFUzUVdpU0xrWVJ6VG5PQ2FCQ1NnWXkyc0tvb2d3M1VpMkZjSXZ6U2tDWDZXX3RTbHlfa2VZcmRsNzdmQnZuaUxMZk1kSklhR2diczlOZ3RYdTRuUWpfOGc?oc=5"
     }
   ]
 }
