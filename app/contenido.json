@@ -1,74 +1,74 @@
 {
   "titulo": "Briefing Personal de Aprendizaje para Pedro",
-  "fecha": "2026-10-13",
+  "fecha": "2026-10-14",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Alianzas estratégicas y diversificación en entornos complejos",
-      "por_que": "Como directivo, entender cómo estructurar colaboraciones entre grandes actores te ayuda a visualizar acuerdos de cooperación en tu propia cadena de valor.",
-      "explicacion": "Informes recientes indican que se promueven mayores vínculos transfronterizos entre compañías energéticas. En la dirección empresarial, una alianza estratégica permite compartir riesgos y acelerar el acceso a nuevos mercados sin necesidad de asumir toda la inversión en solitario. La clave reside en alinear los incentivos de ambas partes desde el inicio para evitar conflictos operativos.",
-      "conexion": "Se relaciona con los modelos de crecimiento inorgánico y la teoría de juegos aplicada a las negociaciones B2B.",
-      "pregunta": "¿Cuál es la principal ventaja de una alianza estratégica frente a una adquisición total?",
-      "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3FaaF9LRXZRSk5zZWY4WmYwd3hWbmQxSEUtc0JVdXhxNllkNkIwSnNFZ2U2MGozd1RJTUlQa1laUjU2Q0RsRk1LU2otV2dpSjF1dDZzam9QQ2ZWRWprVFQ3djgtdXJzQ1I0T182eHJHTUowYS13T19rQ0Y4UUh6QTlLUHlVbURZS2c0WmFEbWpZaVB5SUNTUVlUQ3pNRnJGOUl1MUtxb0FlOWN2NGxoWi1vY1BpTGxKV21lZWNDWWZFc28?oc=5"
+      "titulo": "El peligro de operar con baja velocidad en entornos complejos",
+      "por_que": "Como director, entender cómo la lentitud operativa lastra la competitividad te ayuda a identificar cuellos de botella antes de que hundan los márgenes.",
+      "explicacion": "Al analizar las dificultades estructurales de economías en baja velocidad como la mexicana o contextos industriales complejos, se observa un patrón común: la falta de agilidad en la toma de decisiones y en la actualización de procesos operativos. Cuando una organización se enlentece, pierde la capacidad de adaptarse a los cambios del mercado, lo que genera una reacción en cadena que afecta la rentabilidad y la motivación interna.",
+      "conexion": "Se conecta directamente con la gestión del tiempo directivo y la eliminación de burocracia innecesaria en los procesos internos.",
+      "pregunta": "¿Qué proceso clave en tu empresa actual está operando con marchas lentas y podría frenar tu crecimiento?",
+      "fuente": "Baker Institute",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjZHbk01WUlLQ2o2Y21qd283YVRBd1RkQklPVjRJOEczbXFMVDJTN3A3aUpTT3pHSDhwTG5HZnhtTktiUURWUVFNdWZqYVFobzdRU0FhZk9uMWIwS3ZqYksyN1NiNC1sZUNmNVVyb1A4eHpiUW5KdkN5eTRndXRXME5lRlViaGNPZkE?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "El debate sobre los límites de seguridad y el 'Interruptor de Emergencia' en IA",
-      "por_que": "A medida que automatizas procesos con inteligencia artificial, es vital comprender los protocolos de gobernanza y control para mitigar fallos sistémicos.",
-      "explicacion": "Recientemente, líderes tecnológicos han intensificado el debate sobre la necesidad de integrar mecanismos de parada de emergencia en sistemas avanzados de IA. En automatización industrial y de procesos, esto se traduce en el principio de 'fail-safe' o diseño seguro ante fallos, asegurando que ante una anomalía el sistema humano pueda retomar el control absoluto de forma inmediata.",
-      "conexion": "Conecta directamente con la gestión de riesgos operativos y la ciberseguridad en entornos empresariales hiperconectados.",
-      "pregunta": "¿Qué significa que un sistema automatizado esté diseñado bajo el principio de 'fail-safe'?",
-      "fuente": "Yahoo",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1MWdOQUVGRTdaVWZaWGNmZHJ0RFRUZlItSFlqMlVoMEplNlZIMlI4MHJVU0hfN3dyUHgyM2dhYVR4djc1UjhKaXVJSFY3cG5VYWNvUTJyQmdJODVCcFA3WHJfSFdZY2tGZFpnaGJzcUo5ODZBUmh1dHp3SVk?oc=5"
+      "titulo": "Hacia el sistema operativo guiado por inteligencia artificial",
+      "por_que": "Para un nivel medio-bajo en automatización, comprender el concepto de 'AI-First' es fundamental para no invertir en herramientas aisladas, sino en arquitecturas que escalen el negocio.",
+      "explicacion": "El Foro Económico Mundial ha publicado directrices sobre el uso de sistemas operativos guiados por IA ('AI-First'). La automatización moderna ya no consiste simplemente en programar tareas repetitivas mediante macros o scripts básicos, sino en integrar modelos capaces de tomar decisiones basadas en flujos de datos complejos. Esto significa rediseñar el modelo operativo desde cero para que la tecnología actúe como el núcleo de la empresa y no como un simple parche.",
+      "conexion": "Conecta con la transformación digital y la integración de software en los procesos comerciales.",
+      "pregunta": "¿Tus iniciativas de automatización actuales resuelven tareas aisladas o están diseñadas como parte de un sistema central?",
+      "fuente": "El Foro Económico Mundial",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGVRcjI5RHk0ZXJHOGxzZ3B0V1BsVUFacWV6azMyX2RHeDN5akVwWC1acFlfSVhQMHpVaGlIMW1UVGZDVThEMFMtYWxoa19QMTZGWEd3TDl3bkQyY1Y0eXRjNElSR1ZTLUdXcHd6ZHlpUjlyOU5mYXVDckwwMTVVOEpHalVLejlzaHVPU0pXZWVrNzJ6RkpqM3BxWTBsNmdFanNDWHhLRnRCUzN6S2JUcFZ1ZmZ4US16c0tZMl8ySQ?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "La superación de sesgos históricos en el liderazgo y el reconocimiento del talento",
-      "por_que": "Para construir equipos de alto rendimiento, debes aprender a identificar y corregir sesgos invisibles que limitan el acceso y la retención del mejor talento.",
-      "explicacion": "Análisis recientes sobre galardones internacionales de prestigio ponen de relieve la baja representación histórica de ciertos colectivos en disciplinas científicas y directivas. En la gestión de equipos, esto demuestra que la excelencia está ampliamente distribuida, pero las oportunidades a menudo no lo están. Como líder, estructurar procesos de evaluación objetivos ayuda a descubrir talento desaprovechado.",
-      "conexion": "Se vincula con la meritocracia real, la psicología organizacional y la diversidad cognitiva en juntas directivas.",
-      "pregunta": "¿Cómo puede un directivo estructurar evaluaciones más objetivas para evitar sesgos en su equipo?",
-      "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1icDNsRl83RjZTZ1NadHdINkwtM18waDQtR1FfTWp2NTBUZUFZWGFkaWVzT05LanN0N09YX3VEeFJWcl9oYkNaR25VWVBBT1VsUEtyWV9WbUhSUmta0gFiQVVfeXFMTnJ4cUdYSTFBU3dnUktvb2liVTZSWHJVTmduTlpaTEVsMHBYeG5FZk4zUDVoUE5ydWpEbWpzMGJudU1ZeU1jbDZ6T21hSGI3N0Y4TXVsTjNMVmI2ZjVHVHo5cHc?oc=5"
+      "titulo": "Preparando el relevo generacional y la retención del talento",
+      "por_que": "Como directivo, la gestión del talento a largo plazo y la sucesión son temas críticos que evitan la pérdida de conocimiento clave en las organizaciones.",
+      "explicacion": "Ante los retos actuales de gestión de capital humano en distintos sectores, el enfoque se centra en cómo las empresas abordan la sucesión generacional. Dirigir equipos no es solo coordinar el día a día, sino estructurar planes de mentoría y transferencia de conocimiento para que la salida o incorporación de perfiles clave no desestabilice la operación ni merme la cultura de la compañía.",
+      "conexion": "Se relaciona con los modelos de liderazgo y la retención del conocimiento tácito dentro de la empresa.",
+      "pregunta": "¿Existe en tu equipo actual un plan claro de transferencia de conocimiento si una persona clave decide marchar?",
+      "fuente": "todoalicante.es",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnAtUGpRZ3o3ZjVGUzRhZ0pPUElSbHFRQTBSR1ZhMmtLaWpWZ1l6TXVnX2lHSW9zMFg4b2NhajVqS3E1WG8xeDNNdlRmWTNfTi0zRmIzblNsazhzcUc5LTZhYlNNVHFwMnB0Qy1ZTEtUWVNxNVlEenI5V0JGTm5UbVozUS0tUXU4ZnRYZDEtLXRkaUhRQnpB0gGcAUFVX3lxTE1YWjdkU3E5UU1UUGN1c1JwZUpua2NTcDl4ZWxXUFU2QmNXMlRXdnJCTHBmSU9feXI5cVZ0ZnlMdUhGVWFuUzRKUGJBdFhTOW1yR2hVblYyQTVENXVnY293Nm5Bbm1mbFpmWnpyS2pfWmgtM3lGTy1ESjhDdWxkSkFIVVdjSkpnU0RQY1F4d2dJaUo3eG1RSm5xLWZqcw?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "Resiliencia económica global frente a la restricción monetaria",
-      "por_que": "Comprender el contexto macroeconómico global te permite anticipar fluctuaciones en costes de financiación y planificar la tesorería de tu empresa.",
-      "explicacion": "Los análisis económicos recientes ponen a prueba la resiliencia global ante entornos de endurecimiento financiero. Cuando los bancos centrales ajustan las condiciones de liquidez, el coste del capital aumenta para las empresas, obligándolas a priorizar la eficiencia operativa y la rentabilidad a corto plazo frente al crecimiento expansivo basado en deuda.",
-      "conexion": "Conecta con la planificación financiera estratégica y la gestión del fondo de maniobra en las pequeñas y medianas empresas.",
-      "pregunta": "¿Cómo afecta habitualmente un endurecimiento de las condiciones monetarias a la capacidad de inversión de una empresa?",
+      "titulo": "Resiliencia económica global ante nuevas presiones inflacionarias",
+      "por_que": "Entender el impacto macroeconómico y los shocks financieros te permite anticipar fluctuaciones en costos, cadenas de suministro y poder adquisitivo de tus clientes.",
+      "explicacion": "Los reportes recientes sobre la economía estadounidense y global señalan nuevas presiones e impactos financieros que absorben los consumidores y las empresas. Cuando el entorno macroeconómico experimenta este tipo de ajustes, la resiliencia de los negocios se pone a prueba. No se trata solo de inflación, sino de cómo los cambios en los costes globales alteran la demanda agregada y obligan a repensar las estructuras de precios.",
+      "conexion": "Conecta con la estrategia de precios y la planificación financiera a medio plazo en tu empresa.",
+      "pregunta": "¿De qué manera protege tu modelo de negocio actual ante un incremento repentino en los costes generales del mercado?",
       "fuente": "TradingView",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ011cnFtYWJZUU1CN2pKeDZfeVFaREt5YUR3Z2lUVy1QSmVwVkQtblNEUVhsSlc4aFZ3aF9HZHFyNHVza2Q4cVB1bUV1SGVLWXlRRmYxaW5KTEdJR1ZRZEg1OVFiY3k5UkdGdGJUN3BKOUJtV0xyNFpPeFE1RHZnU0xDNGVHRTJNX1JqNVJVa3VfWWNqdlJwanpaeV85dWdpU1VjczJqNA?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGVCX0FVVXVxbDhRanF6WWl2WE5ESFlFOUtsYU5ab00xNmpqQnU0SHUxTXJob2gtcXh1by1YalZfWjI0cVFjdFQ2Ry1DWjhVRE9pR0kwT1ZNZGhTWUJWczJMY3lGZDVNdXJ6dlNRNkZtcV9vS2pYbTkwRzRWa2dhbzRzcTRfZDJUWF9PakhvdjZvQUFSVDZZVjNMRDZGQWRQSUF6R0x6dmQ5NXhKd1o1dzVaQ19pMkk?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "La tokenización de activos: hacia el trading bursátil 24/7",
-      "por_que": "La evolución tecnológica de los mercados financieros transforma la liquidez global y abre nuevos paradigmas en la emisión y custodia de activos.",
-      "explicacion": "Informes de mercados señalan un avance hacia la tokenización de los mercados de valores tradicionales para permitir operaciones continuas. La tokenización consiste en representar digitalmente un activo real en una blockchain, fraccionándolo para facilitar su transmisión instantánea y su liquidez sin depender de los horarios tradicionales de las bolsas físicas.",
-      "conexion": "Se relaciona con la tecnología blockchain, los mercados privados y la disrupción de las infraestructuras financieras tradicionales.",
-      "pregunta": "¿Qué beneficio principal aporta la tokenización en términos de disponibilidad operativa para los inversores?",
-      "fuente": "TradingView",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2tBaHlEMFdWLWs0eElSdUw5X3RaNmN3S3Z5YklkWlJDSjNUMVUyR0Q4SVVnbGd2LWdCbGNyMWRINUp1X09KN2NObTN6eFE2SzZrbGFMckZpN1FMMXctRzFwbEhqYzdMNmZiX3dPX2d3TkhpUlZPR3NPdXBTdkZ3S0lnRnF4MkRiUnhvbVJlNzQzY1lWcVotRTZqZTBGWnJGN0h2dkhReERpZ1BNWUthTmw2bDNqOXhEZkp6bXhDSnBxM0Vk?oc=5"
+      "titulo": "Rotación de carteras: buscando valor en tiempos de turbulencia",
+      "por_que": "Conocer los movimientos de los inversores institucionales ayuda a comprender cómo se reasigna el capital global según el ciclo económico.",
+      "explicacion": "En los mercados financieros, los análisis recientes muestran cómo los inversores realizan rotaciones hacia acciones de valor ('value stocks') ante la volatilidad en sectores tecnológicos o de alto crecimiento. Este fenómeno de rotación sectorial refleja el cambio en la psicología del mercado: cuando la incertidumbre aumenta, el capital tiende a huir de la especulación a corto plazo para refugiarse en empresas con flujos de caja sólidos y valoraciones estables.",
+      "conexion": "Se conecta con el análisis fundamental y la distinción entre crecimiento especulativo y valor real.",
+      "pregunta": "¿Qué diferencia fundamental existe entre una empresa orientada al crecimiento y una orientada al valor según la estabilidad de sus beneficios?",
+      "fuente": "Yahoo Finance",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVpxakxybzRJemJyWVdfQmlsYnVJdXYzT2JlM21KNkt0Q2JxQnM3am5FUlgtQ2VzdlFFODhNdDJJdzBWdVVIMGJZRkQxZWdMQmQ5QlF5Y2RpUXJ1RTJzS2xGYmEySHJWLVRtNjdKUkJkQmdCZWZDM3k2YkE2NGdGalJLMGVXWGR1Tkx5WUlrbWdYNks1bGc?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Sistemas de asistencia eléctrica avanzada: motores integrados en bujes",
-      "por_que": "Entender la ingeniería detrás de la transmisión de potencia te ayuda a comprender la evolución de la mecánica ligera y la eficiencia energética.",
-      "explicacion": "En la ingeniería actual de vehículos ligeros y e-bikes se utilizan cada vez más motores ubicados directamente en el buje de la rueda (Hub Drive). A diferencia de los motores de pedalier central, el motor en el buje aplica la fuerza motriz directamente sobre la rueda, simplificando la transmisión mecánica tradicional y reduciendo el desgaste directo sobre la cadena.",
-      "conexion": "Conecta con la termodinámica, la eficiencia en la conversión de energía eléctrica y el diseño mecánico de vehículos compactos.",
-      "pregunta": "¿Dónde se sitúa físicamente un motor tipo Hub Drive y qué ventaja principal ofrece respecto a la cadena?",
-      "fuente": "Brujulabike.com",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EWnVFOFlnMTdBakpPak5aeDVOUTFiQmxpdkVaXzZMSVRTakpoaC1ob2pnZ3lsdXliZ0RpcElwUTRiOVJUS2l1RnRsUm83V0ZUUHk2RDc2LWR6Q2t3UGZjdWVXbXV1aVNyb3RqRGVsSzRzR2xTeTJncnFobzI?oc=5"
+      "titulo": "La evolución de la asistencia eléctrica: entendiendo los motores en buje ('Hub Drive')",
+      "por_que": "Conocer los fundamentos mecánicos y eléctricos de la propulsión ligera amplía tu criterio técnico sobre sistemas de movilidad eficiente.",
+      "explicacion": "Recientes innovaciones en la industria de la movilidad ligera, como las propuestas de grandes marcas de ingeniería, han popularizado los motores de buje ('Hub Drive'). A diferencia de los motores situados en el eje central del pedalier, el motor en buje se ubica directamente en el centro de la rueda (generalmente la trasera). Mecánicamente, esto simplifica la transmisión de fuerza al no depender de la cadena, aunque altera la distribución de pesos y la inercia de la rueda trasera.",
+      "conexion": "Conecta con los principios de transmisión de potencia y eficiencia mecánica aplicados a vehículos ligeros.",
+      "pregunta": "¿Cuál es la principal diferencia de ubicación entre un motor central y un motor de buje en cuanto a la transmisión de fuerza?",
+      "fuente": "Mundo Deportivo",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3MwMWx0TUJTTjFjYW5EOE1lY1lmVm91bm5NQk5YRzFFbWl6cTlWRTdrN2NWQy1MLTFaN2RGblFpZTdFcjZBak9rLU1RbjRYQXREV1lNWjJsSm00OW9lVnNrcTA4RG5FTnJiQ05pcDRqMHU2ZGQtVGRGRkNYN0R0dVpLRVNISGhwbFlyT0F4WGFIUjRxNDJqY05MYUItMk9JTWlfa1kyb0TSAbYBQVVfeXFMTmVnT0hPZEw5cWpMazE3Z1NGWEYtQ1hVSEluS3FlSDdpNTRTVF9Jd1JORWVTSTlua1pWSVk5R08xSkxSZzZLVk81RTNJMFhjbU9KTjlxeEVVWW5LMHAybHFINDBHS09tbkJKQzJPeTRKdDZvQ3hzTm11bWNBNmxYNHJRV3lPWWhmd0hjSmJwY29QM1Q1czRfRDFHQ3BvV0xyVWRYZm9GLWhaaXhrYUl2R1JIN0VSNnc?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "La poesía y el ensayo como herramientas de pensamiento crítico",
-      "por_que": "Ampliar tu cultura general mediante el estudio de grandes autores te otorga perspectivas humanísticas profundas aplicables al análisis del entorno.",
-      "explicacion": "Recientemente se ha otorgado el Premio Nobel de Literatura a figuras destacadas de la poesía y el ensayo como Anne Carson. La literatura de ensayo y la poesía clásica o contemporánea no solo cultivan la sensibilidad estética, sino que entrenan la capacidad de observar la complejidad humana, desentrañar metáforas complejas y argumentar con precisión conceptual.",
-      "conexion": "Se conecta con la filosofía, la retórica empresarial y el desarrollo del pensamiento lateral y crítico.",
-      "pregunta": "¿Por qué puede ser útil la lectura de ensayos y poesía para un directivo que busca mejorar su pensamiento crítico?",
+      "titulo": "El valor de la poesía y el ensayo contemporáneo: la voz de Anne Carson",
+      "por_que": "Desarrollar una cultura general amplia permite conectar disciplinas humanísticas con el pensamiento crítico empresarial y la creatividad directiva.",
+      "explicacion": "La concesión del Premio Nobel de Literatura a la poeta y ensayista canadiense Anne Carson pone de relieve la importancia del pensamiento profundo y la reinterpretación de los clásicos en la cultura contemporánea. La obra de Carson destaca por fusionar la erudición clásica con formas literarias modernas, demostrando que el estudio de la historia y la filosofía no es un ejercicio estéril, sino una herramienta para entender la complejidad del comportamiento humano actual.",
+      "conexion": "Se conecta con el desarrollo del pensamiento crítico y la capacidad de mirar los problemas desde perspectivas no convencionales.",
+      "pregunta": "¿De qué manera puede influir la lectura de humanidades y literatura en la capacidad de liderazgo y empatía de un empresario?",
       "fuente": "AP News",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFl5cjVGdUMyQm5NWTA5dmNJSlVNNGM2cGtzZk1WbXVoQkZ5cWFvanZMRi1KQllvZkJpdDhiVVBVdmVtS0lkSzFaOENEdFlrQmFuZWtlZ2xSTWJmUnlyNVlNQkR0QkFvQ0d6VEJWblJtcU9kVjBVQzJ1a200SjdLczJZZ2F1V3BTLXBuUS0wenpESGstajFIbkRQWWp6OFRTX1NRZDctVEQtZkFrelUwaXJoSHhiU1U?oc=5"
     }
