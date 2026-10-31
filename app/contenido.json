@@ -1,76 +1,76 @@
 {
   "titulo": "Briefing Personal de Aprendizaje para Pedro",
-  "fecha": "2026-10-30",
+  "fecha": "2026-10-31",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "La gestión de crisis y la sucesión en momentos de cambio estratégico",
-      "por_que": "Para un directivo, entender cómo afrontar la sucesión y los momentos de transición es vital para garantizar la continuidad del negocio sin depender exclusivamente de una sola figura.",
-      "explicacion": "Recientemente se ha debatido en diversos foros sobre cómo las empresas familiares y organizaciones complejas abordan la sucesión y el talento ante retos generacionales. En dirección empresarial, la falta de un plan de relevo genera un riesgo operativo inmenso. No se trata solo de encontrar un sustituto, sino de documentar procesos y descentralizar el conocimiento crítico para que la organización funcione de manera autónoma.",
-      "conexion": "Se conecta directamente con la gestión de equipos y el liderazgo, ya que un buen líder diseña sistemas que no colapsan en su ausencia.",
-      "pregunta": "¿Qué proceso clave en tu empresa actual depende exclusivamente de ti y debería ser documentado o delegado?",
-      "fuente": "todoalicante.es",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnAtUGpRZ3o3ZjVGUzRhZ0pPUElSbHFRQTBSR1ZhMmtLaWpWZ1l6TXVnX2lHSW9zMFg4b2NhajVqS3E1WG8xeDNNdlRmWTNfTi0zRmIzblNsazhzcUc5LTZhYlNNVHFwMnB0Qy1ZTEtUWVNxNVlEenI5V0JGTm5UbVozUS0tUXU4ZnRYZDEtLXRkaUhRQnpB0gGcAUFVX3lxTE1YWjdkU3E5UU1UUGN1c1JwZUpua2NTcDl4ZWxXUFU2QmNXMlRXdnJCTHBmSU9feXI5cVZ0ZnlMdUhGVWFuUzRKUGJBdFhTOW1yR2hVblYyQTVENXVnY293Nm5Bbm1mbFpmWnpyS2pfWmgtM3lGTy1ESjhDdWxkSkFIVVdjSkpnU0RQY1F4d2dJaUo3eG1RSm5xLWZqcw?oc=5"
+      "titulo": "Escalar ecosistemas de innovación: lecciones desde Medellín",
+      "por_que": "Para entender cómo una empresa puede apalancarse en ecosistemas locales para conseguir financiación récord y escalar más rápido.",
+      "explicacion": "Recientemente, una empresa basada en tecnología en Medellín ha asegurado la mayor inversión jamás recaudada por una compañía de su tipo en la ciudad, marcando un hito en su ecosistema de innovación. Para un directivo, esto enseña que el crecimiento no depende únicamente del esfuerzo interno, sino de saber integrarse en polos de desarrollo y hubs regionales que atraen capital de riesgo global. Las empresas que logran posicionarse como líderes en sus regiones emergentes suelen captar la atención de inversores internacionales que buscan alternativas a los mercados tradicionales saturados.",
+      "conexion": "Se conecta con el área de economía al analizar cómo fluye el capital de riesgo hacia regiones en desarrollo durante periodos de tipos de interés elevados.",
+      "pregunta": "¿Qué ventaja competitiva busca un fondo de inversión internacional al invertir en un hub tecnológico emergente en lugar de en mercados tradicionales?",
+      "fuente": "Ruta N",
+      "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONG5BZDNYczc4NnNOLXFpQS1XdS0zeElFb1l1WU1NcTJ6Z2FjT2hYUV9Wb2NDNFpIYk1uVHpSWEt1UXkwUEhQVGZnWnRMLXpNMWJLb1dMVU9LaDNLaGVhZWZXM3BleV9NSTA3VW4xVWE4QUNjd1FIZ3hXSTRUamZsaDJVYmkxV1FPQ0g0T0pzcXdJOW80Y2Z4cTRxRHQ1eGdRYzRmbW01SWhmUlMzb1FveFAzVHhkQlpaWTlrR0h6MDU2MjMyN1NvZTI5WFloOXhjVTVQU3hIS1ZOY1lPc291cVlrOVMtWFZwakd4ZzJlSnVlWWZVWDRLN1ExMFd1MTdoYmlpZjk4LUF5Q3UxMDBVam03bnFSczjSAacCQVVfeXFMTkxtaGJJUXZvZHJOUDh5WmFiVmNyMEpRSTQyMHhXSS1ZRGc0Z2NSZDRCMGxVOV9nWFphYzZ6ZXU5ZE1IWW53TU5Sa2xtemdSU3VQMG5kNmI3NmJBR2FGS0Z4bU1TSWRMZV83ZVp2cGxJdkxIeWhGSkNSNUFKOV90OFBwZWowVzFhWGNqNlVGWVA2UE1JNFVFRmcyX2VZejFUcUVsMkNCOGl2VUNtZFdRa2JqMjNBdUg3a1BNeXY3Q0o1UVpwSzdfMURTMmN4SG5yc0M0MTBmTUZOMHBhSWZnZUtpMWZGVnlzcFdEdUk3SGoySWJGRmFreVhobXgxUEd0d3NiWVJKVE5wdXgyc3pORjhBbzJ2My1DVkpMaXp1S2d4RUNJMldzNA?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "Eficiencia operativa frente a la reducción de costes impulsada por la tecnología",
-      "por_que": "Comprender cómo las grandes corporaciones integran la tecnología ayuda a dimensionar el impacto real de la automatización en los procesos de negocio.",
-      "explicacion": "Informes recientes señalan que grandes empresas tecnológicas están reestructurando plantillas mientras integran herramientas avanzadas y automatización. Para un empresario de nivel medio, esto enseña que la automatización no debe verse solo como una forma de recortar gastos, sino como un medio para reasignar talento humano hacia tareas de mayor valor estratégico y creativo.",
-      "conexion": "Conecta con la economía y la gestión de recursos humanos, evaluando el ROI (retorno de inversión) de la tecnología frente al coste humano.",
-      "pregunta": "¿En qué área operativa de tu negocio podrías aplicar automatización para liberar tiempo humano en tareas estratégicas?",
+      "titulo": "El peligro del 'tokenmaxxing' y la eficiencia operativa en IA",
+      "por_que": "Para evitar desperdiciar recursos económicos y computacionales al implementar automatizaciones con inteligencia artificial sin una estrategia clara.",
+      "explicacion": "Amazon ha comenzado a tomar medidas estrictas contra el uso ineficiente de la inteligencia artificial conocido como 'tokenmaxxing', que consiste en generar un volumen masivo e innecesario de datos y consultas (tokens) a los modelos de lenguaje. En la gestión empresarial, esto demuestra que automatizar por automatizar puede salir caro. No se trata de utilizar la mayor cantidad posible de tecnología, sino de diseñar prompts y flujos de trabajo precisos que resuelvan problemas con el menor consumo de recursos computacionales posibles.",
+      "conexion": "Se conecta con la dirección empresarial al analizar el control de costes operativos ocultos en la adopción de nuevas tecnologías.",
+      "pregunta": "¿Qué métrica principal deberías vigilar para saber si una automatización basada en IA está siendo realmente eficiente en costes?",
+      "fuente": "TradingView",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1dTYl92RkFGek00TkE2X3BVcy1oQlh4MS1oNzZHSlhOUzJLRWxWZ1cyTkZ5cWdBQWtNdlNwcVlHVGtWR3ZQeG1XZVpjZ184V2NGRmFpanZmNHFSQkoyNVhyX012c3hlV1E1dGZZbk5iMHRObHJObnJxaEhfMU9TNThMMmc2WWR2QVo4emJVc1JlbktOZ1Y4aTVrbjdvZGU2aFE?oc=5"
+    },
+    {
+      "area": "Gestión de equipos",
+      "titulo": "Reestructuración y talento: liderar equipos en la era de la IA",
+      "por_que": "Para comprender cómo las grandes corporaciones están rediseñando sus plantillas y cómo mantener la motivación del equipo en tiempos de cambio tecnológico.",
+      "explicacion": "Grandes tecnológicas como Microsoft, Amazon, Meta y Netflix continúan recortando miles de empleos en medio de la transición hacia la era de la inteligencia artificial. Para un directivo de nivel medio-bajo, esta realidad subraya la importancia de fomentar la adaptabilidad y el aprendizaje continuo (reskilling) dentro de sus propios equipos. Cuando la tecnología redefine los puestos de trabajo, el rol del líder no es infundir miedo al cambio, sino guiar a las personas hacia tareas de mayor valor añadido donde la empatía y la estrategia humana sean irremplazables.",
+      "conexion": "Se relaciona con la automatización al examinar el impacto directo de la optimización tecnológica en los recursos humanos de una organización.",
+      "pregunta": "¿Cuál debe ser la prioridad principal de un líder al comunicar una reestructuración impulsada por la adopción de nuevas tecnologías?",
       "fuente": "ViveUSA.mx",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0VsUkhuQkd6dUhKSE1UbWFtR0d4cUp4X3lKUmJEV3Exd1hWRWcyZFVxdmxyZmJtRU9wZ0psYktnVTJMd2hhcmtQeTNRUWY5TnRKbVA4VFhwVVNtcGJCc2ZWelZ0SkVVeXVwMkh1bGRqMXVVQUZSRmJCaXZSMDJxdTQ5R3FmNVY3VjAxbGl3ekRJZ0pPNG9XVDFWSkRKUlJ2RHp2LWdndzNuczQzU0IxdTBaYTAwRnhKQUNubFJvZlBvWmZ5M2dTZXZoVHVadzB4aVNBTHFwLXZLRDg3?oc=5"
     },
     {
-      "area": "Gestión de equipos",
-      "titulo": "Mitigar el riesgo de dependencia del talento clave mediante la estandarización",
-      "por_que": "Un equipo de alto rendimiento no puede depender de héroes individuales; necesita sistemas robustos.",
-      "explicacion": "A partir de los análisis sobre la necesidad de reemplazar infraestructuras críticas y evitar puntos únicos de fallo en las organizaciones, extrapolamos un principio de gestión: el 'riesgo de bus' (el impacto si una persona clave desaparece de la organización). Un buen directivo gestiona este riesgo creando redundancia formativa, manuales de procesos claros y fomentando la colaboración transversal.",
-      "conexion": "Se relaciona con la automatización, ya que documentar un proceso es el paso previo indispensable antes de automatizarlo.",
-      "pregunta": "¿Qué miembro de tu equipo posee un conocimiento que, si faltase mañana, pondría en riesgo la operativa diaria?",
-      "fuente": "Conocimiento general",
-      "enlace": ""
-    },
-    {
       "area": "Economía",
-      "titulo": "Tipos de interés, inflación y su impacto en el crecimiento empresarial",
-      "por_que": "Las decisiones de los bancos centrales afectan directamente al coste de financiación, la liquidez del mercado y la capacidad de inversión de las empresas.",
-      "explicacion": "Los reportes recientes sobre las reuniones de política monetaria y la evolución de la inflación muestran un escenario de tipos elevados que ralentiza el crecimiento económico global hasta los próximos años. Para un empresario, esto significa que la planificación financiera debe ser conservadora, priorizando el flujo de caja operativo frente al endeudamiento agresivo.",
-      "conexion": "Conecta directamente con los mercados financieros y la estrategia de tesorería a corto y largo plazo.",
-      "pregunta": "¿Cómo afecta un entorno de financiación más cara a las previsiones de inversión de tu empresa para el próximo año?",
+      "titulo": "Tipos de interés e inflación: el dilema de los bancos centrales",
+      "por_que": "Para entender cómo las decisiones macroeconómicas sobre tipos de interés impactan directamente en el coste de financiación de tu negocio.",
+      "explicacion": "Los análisis económicos recientes y las reuniones del FOMC ponen el foco en las decisiones de la Reserva Federal ante el repunte de la inflación, lo que mantiene los tipos de interés elevados para enfriar la economía. Para un empresario, comprender esto es vital: cuando los tipos de interés suben, el dinero se encarece, el consumo se desacelera y las líneas de crédito para las pymes se vuelven más restrictivas. Esto obliga a las empresas a gestionar con extrema prudencia su flujo de caja (cash flow) en lugar de depender de financiación externa barata.",
+      "conexion": "Se conecta con los mercados financieros al observar cómo la política monetaria de los bancos centrales mueve las valoraciones bursátiles globales.",
+      "pregunta": "¿Qué efecto directo tiene un entorno de tipos de interés altos sobre el capital de trabajo de una pequeña y mediana empresa?",
       "fuente": "TradingView",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVRTbU83dVpWX2diREtvVmFBQUEza0xJeVNfN3FwRHdvRjZGR204X3hhSVhhQnRnVGxiTnJnQmd5TkFiSW12UWhocHByWGVxVk81XzhTd01UX2Uxc1NhQjdLM044dUZNT2N1eWlwLVJIQjlJYi1qRXBUMTZTZEZnWGZSWlJxR0NSeHVaSW05cjA1WXFVaGxzOThuMF92alo5VFZGM3U1bURudW5tNmFLSTFhakxEM3RET19lWEhJVEVkdVBfZDVPS3duTQ?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "La tokenización y la evolución hacia mercados financieros 24/7",
-      "por_que": "Entender las innovaciones en la infraestructura de los mercados ayuda a visualizar hacia dónde se dirige la liquidez global y los activos digitales.",
-      "explicacion": "Analistas del sector financiero discuten la llegada inminente de la tokenización de los mercados de valores, permitiendo operaciones continuas 24/7 mediante tecnología de registro distribuido. Este concepto transforma un mercado tradicional de horarios rígidos en un ecosistema de liquidez permanente, reduciendo intermediarios y cambiando las dinámicas de valoración y liquidación de activos.",
-      "conexion": "Conecta con la tecnología blockchain y la evolución de los mercados privados y públicos.",
-      "pregunta": "¿Qué ventaja principal ofrece la liquidación continua frente a los tradicionales horarios de apertura y cierre de las bolsas?",
-      "fuente": "TradingView",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2tBaHlEMFdWLWs0eElSdUw5X3RaNmN3S3Z5YklkWlJDSjNUMVUyR0Q4SVVnbGd2LWdCbGNyMWRINUp1X09KN2NObTN6eFE2SzZrbGFMckZpN1FMMXctRzFwbEhqYzdMNmZiX3dPX2d3TkhpUlZPR3NPdXBTdkZ3S0lnRnF4MkRiUnhvbVJlNzQzY1lWcVotRTZqZTBGWnJGN0h2dkhReERpZ1BNWUthTmw2bDNqOXhEZkp6bXhDSnBxM0Vk?oc=5"
+      "titulo": "Interpretando la volatilidad y las caídas en los índices europeos",
+      "por_que": "Para familiarizarte con el lenguaje y el comportamiento de los mercados bursátiles internacionales sin caer en especulaciones.",
+      "explicacion": "Los informes de cierre de bolsa muestran jornadas de pérdidas en índices europeos importantes, como el FTSE 100 en Reino Unido o el índice de Italia, reflejando la cautela de los inversores ante el panorama macroeconómico. En el análisis bursátil, una caída generalizada no siempre indica el fracaso de una empresa en particular, sino un movimiento de reasignación de activos donde los inversores reducen su exposición al riesgo. Aprender a leer estos movimientos ayuda a un directivo a entender el sentimiento económico general del mercado.",
+      "conexion": "Se conecta con la economía al servir los mercados como un barómetro anticipado de la salud y las expectativas del sector empresarial.",
+      "pregunta": "¿Qué representa por lo general una bajada generalizada en los principales índices bursátiles de un país?",
+      "fuente": "Investing.com México - Finanzas, Bolsa y Forex",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3l0OWlBMmZneW4zUTQyZzJWdlFwWmVKczlSTDRaUHhpeEVHZldnXzktQkJjY0E2U182OEFqTUk2M2VxQkhwM2JLOEFVdFZxaEZMWEVrdVkwZ2xGWEdhS0VzbUprZ0ZKUm1YSlFrX0lESGhwOUh4R1BQSTNkUHVZWFJKMy1paWxJZF9PWlBoQnlsckM3MGQ1emhRczNZenhFbEhLSmIxVVZfb2xjdjRPVUtFM2ZqUWpQaGtlRmpUbEtYRno2dDV4NVpOT2JibDVQbWRsUXJLNnQ2QWxRM0FSM3BZYkt2alQ1VTRZWTJ0OA?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Entendiendo la diferencia clave entre potencia (W) y par motor (Nm)",
-      "por_que": "Conocer los fundamentos mecánicos permite evaluar con criterio técnico cualquier tipo de motorización, ya sea en motocicletas o en vehículos asistidos.",
-      "explicacion": "En la ingeniería de motores, a menudo se confunden dos términos esenciales: el par motor (Newton-metro) y la potencia (Vatios). El par motor es la fuerza de giro bruta, la capacidad del motor para vencer la resistencia y arrancar desde parado o subir una pendiente pronunciada. La potencia, en cambio, mide la rapidez con la que se puede aplicar ese trabajo, determinando la velocidad máxima. En términos sencillos: el par empuja con fuerza; la potencia mantiene la velocidad.",
-      "conexion": "Se relaciona con la física aplicada y la eficiencia mecánica en sistemas de propulsión.",
-      "pregunta": "Si necesitas arrancar una moto cargada en una pendiente muy empinada, ¿qué dato técnico del motor te interesa más consultar: el par motor (Nm) o la potencia máxima (W)?",
+      "titulo": "Potencia frente a par motor: descifrando la fuerza en vehículos y e-bikes",
+      "por_que": "Para adquirir cultura técnica básica sobre motores, entendiendo la diferencia fundamental entre la velocidad máxima y la capacidad de arrastre.",
+      "explicacion": "Al analizar las especificaciones técnicas de vehículos de dos ruedas asistidos y e-bikes, los fabricantes destacan dos conceptos clave: la potencia (medida en vatios) y el par motor (medido en Nm o Newton-metro). El par motor es la fuerza pura de giro que permite arrancar desde parado o subir una pendiente pronunciada sin esfuerzo, mientras que la potencia determina la velocidad máxima que puede alcanzar el vehículo. Entender esta distinción mecánica básica ayuda a comprender cómo operan los motores térmicos y eléctricos en cualquier máquina.",
+      "conexion": "Se conecta con la automatización y la ingeniería al valorar cómo el diseño técnico optimiza el rendimiento energético de los motores modernos.",
+      "pregunta": "Si necesitas que un vehículo mueva una carga pesada en una pendiente pronunciada, ¿qué cifra técnica te interesa más consultar: la potencia o el par motor?",
       "fuente": "TodoMountainBike",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmjqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "La importancia de la infraestructura de transporte y su impacto socioeconómico",
-      "por_que": "Ampliar la cultura general incluye entender cómo las grandes redes físicas estructuran la economía y la conectividad de las naciones.",
-      "explicacion": "Recientes análisis periodísticos y técnicos sobre la red de alta velocidad en España y sus retos operativos recuerdan que las infraestructuras complejas requieren un equilibrio constante entre velocidad, mantenimiento preventivo y seguridad. Históricamente, desde las calzadas romanas hasta los modernos trenes de alta velocidad, el desarrollo de las vías de comunicación ha sido el motor fundamental del comercio, la unificación cultural y el crecimiento demográfico.",
-      "conexion": "Conecta con la historia económica y la gestión de proyectos de ingeniería a gran escala.",
-      "pregunta": "¿Qué factor histórico suele ser el principal detonante para que una civilización invierta masivamente en grandes redes de transporte?",
+      "titulo": "El mito de Frankenstein y la responsabilidad ética ante la creación",
+      "por_que": "Para enriquecer tu cultura general y conectar clásicos de la literatura con dilemas modernos sobre la tecnología y la innovación.",
+      "explicacion": "Análisis recientes sobre la obra maestra de Mary Shelley recuerdan que 'Frankenstein' no es una simple historia de terror, sino una profunda reflexión sobre la responsabilidad del creador respecto a su criatura y las consecuencias descontroladas de la ciencia. Para un empresario y directivo actual, este clásico plantea un modelo mental eterno: cualquier innovación o sistema que creamos (ya sea un producto, una empresa o una inteligencia artificial) requiere una gestión ética y un control riguroso, ya que el verdadero peligro no reside en la tecnología en sí, sino en el abandono de la responsabilidad sobre sus consecuencias.",
+      "conexion": "Se conecta con la inteligencia artificial y la dirección empresarial al debatir los límites éticos y la responsabilidad corporativa en la creación de nuevas herramientas.",
+      "pregunta": "¿Qué lección sobre la responsabilidad del liderazgo empresarial nos deja la premisa central de la novela de Mary Shelley?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tYWtYemVERE9VYkM3UlNIN0NOaWZPS2N6RGlFQ2JCNGg1NEZ5WVFveDQwb29MZXhRVGhhd1lIeHlyaGFQb29VTGlyWXVtN0N6eGNUR25razNfaUxT?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IQlJnaV9uMjd4QmptMnQwRFVnVDQtYXJjbnpDQXgxNDBOdnV1T1Jyb096VXcxLUVLa0szd0l4SWtuZTc1cmxnZk1Ta1FINkFGeS15azhaMEFlSVQ20gFiQVVfeXFMUGxIejUwS1JmN2dtcWd5RUxCLWpRMENVOXl2WjRNdU90VTEzVHItWWIxcDR3bHVGT3pranEzeUJVcmprOE5fUC1tVUdubDF6cGZONUxpUGpsOUdvbVpRMkpPRnc?oc=5"
     }
   ]
 }
