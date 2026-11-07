@@ -1,76 +1,76 @@
 {
   "titulo": "Briefing Diario de Aprendizaje de Pedro",
-  "fecha": "2026-11-06",
+  "fecha": "2026-11-07",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Estrategia y dependencia operativa: el riesgo de ser solo un proveedor de bajo coste",
-      "por_que": "Como directivo, entender cómo evitar la trampa de la baja aportación de valor es crucial para asegurar la supervivencia y el margen a largo plazo de cualquier negocio.",
-      "explicacion": "Recientemente, la economista Mariana Mazzucato señalaba que el mayor riesgo para economías y empresas es conformarse con ser meros fabricantes de bajo coste para corporaciones más grandes. En la dirección empresarial, esto se traduce en el peligro de depender de un único gran cliente o de competir exclusivamente por precio en lugar de por diferenciación, innovación o propiedad intelectual. Cuando una empresa no construye activos propios o marcas fuertes, queda totalmente a merced de los vaivenes y recortes de sus compradores.",
-      "conexion": "Se conecta directamente con los modelos de ventaja competitiva y diferenciación de Michael Porter.",
-      "pregunta": "¿Qué estrategia puedes aplicar en tu negocio para dejar de competir únicamente por precio y aportar mayor valor añadido?",
-      "fuente": "EL PAÍS English",
-      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQUEzcWk2OW5RbmV2UTVkUWJ1LW5xbk50VXdvdUEwbnhyZXE2Q0hwcEwzRE05ai1Ga3FyRVluNjhIVUlfOTB3ZUl6bTY0VGxNbmE3c2ptT211M2tYWTVxRHliNkZZWlp6aWowSTVKWjA2bHI5TklDUlVKYmdrZ1JRX2xtQTRtT05oaGNnVURhZDc5QUpleTRoYXFhTnJ0UXVWU21EWll0OHNMWi04bVVsRnhxd3VaSmVOV1ZRUDZYWTlnLTE0UGNnQlkwdlU4azBSX2VWc1dfTzA0V1JYNFhkZXZZaTNjU2FqZTR3RzR5OGpUQk82Zml0WmZIUUVHVkZfbzRFSVp3cUtaV3Y20gGgAkFVX3lxTFBwejQtTlgwMWN2S0swSnBPV2Y4OE5CWHlZOUtkZVJXMTduS3AtbktpcWNLaDBnVGZUNUxaRTlsM2VnS09DOUJhRm5mWV9TX3lBa3pRLVZ6UWNZNmJGWkUxTlVTcVhaaGdJSlkydVdoWkUwY215RWtXcS03bTc5RjczQjV6ODJNXzBjTnRrZzBCRVduZzhISTRfLURtZ2M4Y1dDcnFUblFzWWVnSThXaHhycUZ4WVR1dUp2dlQxUktlbGRRdTJTY1d3bUh4LWxieWpHeEpiaENqQ1M2SlVRemRNTG0xSE9FUUhyNWoybFpsYTlCZngwNmhvcU1udDJhOGlUM1hXSjdNTUZTdTl4UndHRDlSRE90WnJ2UkdfOTdwcA?oc=5"
+      "titulo": "Estrategia y resiliencia: la gestión de riesgos geopolíticos en proyectos internacionales",
+      "por_que": "Como directivo, entender cómo las empresas navegan cambios regulatorios y de gobierno en entornos volátiles te ayuda a anticipar riesgos en tus propias operaciones.",
+      "explicacion": "Tomando como referencia el contexto actual donde empresas como ONGC buscan operar proyectos petroleros en Venezuela bajo complejas negociaciones internacionales, el aprendizaje central radica en la evaluación de riesgos políticos y regulatorios. Cuando una empresa expande operaciones o depende de socios en jurisdicciones inestables, debe calcular el costo de oportunidad frente al riesgo de expropiación o cambios drásticos de leyes. En la dirección empresarial, esto enseña la importancia de diversificar mercados y diseñar planes de contingencia legales antes de comprometer capital crítico.",
+      "conexion": "Se conecta directamente con la gestión financiera y el análisis de riesgos en economía internacional.",
+      "pregunta": "¿Qué factor legal o político principal debe evaluarse antes de invertir en proyectos ubicados en mercados con alta volatilidad gubernamental?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "La era de los agentes autónomos de IA en los procesos de negocio",
-      "por_que": "La automatización ya no trata solo de seguir reglas fijas, sino de integrar sistemas capaces de tomar decisiones y ejecutar flujos de trabajo complejos de forma autónoma.",
-      "explicacion": "El Foro Económico Mundial ha publicado directrices sobre la transformación digital en la era agéntica. A diferencia de la automatización tradicional basada en macros o scripts rígidos, los agentes de inteligencia artificial actuales pueden coordinar múltiples tareas, interactuar con diferentes plataformas y resolver problemas operativos imprevistos. Para un empresario, esto significa pasar de automatizar tareas aisladas a diseñar arquitecturas donde los procesos operan con supervisión humana mínima.",
-      "conexion": "Vincula la automatización de procesos con los modelos de eficiencia operativa y reducción de costes fijos.",
-      "pregunta": "¿Cuál es la diferencia fundamental entre un script automatizado tradicional y un agente autónomo de IA?",
+      "titulo": "La era de los agentes autónomos de IA en los negocios",
+      "por_que": "La automatización ya no es solo programar tareas repetitivas; entender los agentes de IA te permitirá rediseñar procesos complejos y escalar la eficiencia operativa de tu empresa.",
+      "explicacion": "El Foro Económico Mundial ha señalado los impulsores clave para la verdadera transformación en la era de los agentes de IA ('agentic age'). A diferencia de los programas tradicionales que solo ejecutan órdenes estáticas, un agente de IA puede percibir su entorno, tomar decisiones basadas en objetivos y ejecutar flujos de trabajo completos de principio a fin de forma autónoma. Para un empresario, esto significa pasar de automatizar simples clics a delegar procesos enteros —como atención al cliente avanzada o análisis de cadenas de suministro— en sistemas inteligentes que aprenden y optimizan su rendimiento continuamente.",
+      "conexion": "Vinculado con la dirección empresarial y la optimización de costes operativos mediante tecnología.",
+      "pregunta": "¿Qué diferencia fundamental existe entre un software de automatización tradicional y un agente de inteligencia artificial?",
       "fuente": "World Economic Forum",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaE9WTmhxUURjZU9DdkROT3dieDBVN1ZyZEl1WXBqNVR1dktja3IzY0dKVEtpNUpnM3ZMYkRfUjFqa3p2SWpjbGpPSzJubjRMbzZGTHVVZGZMd0dWVWpvNlBGSVVtVTQzTHFuX1ZMdGtWc29zTXFtZUZHb2ZCcUdnUHNRbjd0WkItblUxZzZVa1hqR29ibXhtbkphMTBiaXF0S0NJRDBOeUZybExTaS1lNlVRM1ZJSDRQUlAtOU50WDFzbGFp?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "El impacto del colapso institucional y financiero en la estabilidad de las organizaciones",
-      "por_que": "Cuando ocurren crisis sistémicas o intervenciones financieras drásticas, la incertidumbre se apodera de los empleados, requiriendo una sólida gestión de la comunicación interna.",
-      "explicacion": "Recientemente, la intervención de Ueno Bank en Paraguay por parte del Banco Central sacudió a miles de clientes y generó un clima de profunda angustia social y laboral. Para un directivo, este tipo de eventos externos ilustra la fragilidad de la confianza. Si una empresa se ve envuelta en crisis de liquidez o turbulencias de mercado, la falta de transparencia y una mala gestión de la comunicación interna pueden destruir la moral del equipo y provocar la fuga inmediata del talento clave.",
-      "conexion": "Conecta la gestión de crisis financieras con la inteligencia emocional y la comunicación directiva en momentos de máxima presión.",
-      "pregunta": "¿Qué pauta de comunicación interna es vital mantener con un equipo cuando el entorno externo de la empresa sufre una crisis severa?",
-      "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TeTU4ZFZaS2tkUV84ai1pZzBvbUJTby1pRUtUa2VMV1V6NUtnU28wQW5TNXJ2bTVxQzVJSzVYeVotWG9GZVRUWGlIbzRKUGlfd21yZThXY1RIcVY40gFiQVVfeXFMT3RDZ0dzUFpKOUsxWERxZTZKTE5oUElhaTFlVU1FREx0VHd2emsyT0FsbnJOSWIzMnVVSndmdlZ2cFN0UjdRZzJJc0dsNi0zMG1CRVhJRlZUM1MwMG1reml5QUE?oc=5"
+      "titulo": "Liderazgo en tiempos de crisis: lecciones desde el colapso institucional",
+      "por_que": "Un mal liderazgo y la pérdida de confianza en la cúpula directiva pueden destruir una organización rápidamente; aprender de crisis externas fortalece tu criterio como líder de equipos.",
+      "explicacion": "Analizando la reciente crisis institucional y el arresto del expresidente de Paraguay en medio de un colapso financiero y protestas, se observa cómo la falta de transparencia y la quiebra de la confianza erosionan cualquier estructura de poder. En la gestión de equipos, el principio clave es la rendición de cuentas ('accountability') y la comunicación transparente. Cuando un directivo oculta problemas o pierde la brújula ética, el equipo pierde el compromiso, se genera incertidumbre tóxica y el rendimiento colapsa. Un buen líder mantiene la cohesión interna protegiendo los valores y la claridad operativa ante la adversidad.",
+      "conexion": "Conectado con la dirección empresarial y la cultura organizacional.",
+      "pregunta": "¿Por qué la pérdida de transparencia en la cúpula directiva afecta de manera directa la motivación y el rendimiento del equipo de trabajo?",
+      "fuente": "AP News",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3VhNVNTaDFTakVsMEcwem81cmNSeDNod2Fjd2ZOY1RYSTVsc0tKbmgwX1l1b0k5X0V6TXdtRGpKZUNuWFduVmtLNm9FblZhQkllcHB4SEFJamgya3MzUUxZaDB3X1k5ZlctdnV4WVh4TW1qNzd1d21meTJHSHZwc0o2RkxtOG82MmVlNjFtc0ZJNkMwSzdGbjFzREtDZ0VIR0tSdVZ6SFp3Zzh5N1ZWNzFKcHo?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "Deuda soberana, préstamos puente y el rescate de equilibrios macroeconómicos",
-      "por_que": "Comprender cómo los países gestionan sus impagos internacionales y buscan financiación de emergencia ayuda a entender los flujos de capital globales y el riesgo país.",
-      "explicacion": "Informes recientes indican que Venezuela busca préstamos puente en Qatar para saldar atrasos con el Banco Interamericano de Desarrollo (BID), mientras se modifican restricciones de inversión estadounidense. En economía, un préstamo puente es una financiación a corto plazo diseñada para cubrir obligaciones inmediatas mientras se negocia una reestructuración de deuda a largo plazo o se recupera el acceso a los mercados internacionales. Este mecanismo demuestra cómo la liquidez temporal es vital para evitar el colapso financiero definitivo de una entidad o nación.",
-      "conexion": "Se conecta con los conceptos de riesgo soberano, liquidez frente a solvencia y balanza de pagos.",
-      "pregunta": "¿Cuál es el objetivo principal de utilizar un préstamo puente en una situación de crisis de deuda?",
-      "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzcxOU92RVJXd2JmQWs2Zk40dmRBdExvaFVkOXp6OGNkVkMwckwwRE94RjAydWtDc050QVVrMmV3WW5hT0QxdjN5b1RCMHZrUGpBZE5nRGRsNV85RHQydTRzS2RsdUR3WVc4SU9oMnE0RU44OThiNTRjdXFnZGk1RFhKTEx3YmxMS0F2RzJLa1o2aVZnQnFiQk9ReVF6YkhXczRKdGxUSHlRV1dWZXhFTmc3aw?oc=5"
+      "titulo": "Tipos de interés y su impacto en la ralentización del crecimiento económico",
+      "por_que": "Comprender la macroeconomía te permite anticipar los costos de financiamiento para tu negocio y entender el comportamiento de compra de tus clientes.",
+      "explicacion": "Los análisis económicos recientes señalan que la persistencia de una inflación moderada combinada con tipos de interés elevados continuará frenando el crecimiento económico global en los próximos años. Cuando los bancos centrales mantienen las tasas altas para controlar la inflación, encarecen el crédito tanto para las familias como para las empresas. Esto reduce la inversión privada y el consumo general. Como directivo, entender este ciclo es vital para no endeudarse de manera excesiva y ajustar la estrategia de precios y liquidez de tu compañía.",
+      "conexion": "Conectado directamente con los mercados financieros y las decisiones de inversión en bolsa.",
+      "pregunta": "¿Qué efecto directo provoca una subida o mantenimiento de tipos de interés altos sobre la inversión y el consumo de las empresas?",
+      "fuente": "todoalicante.es",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxRmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Análisis fundamental vs. ruido postelectoral: cómo reacciona el mercado ante caídas sectoriales",
-      "por_que": "Ayuda a evitar decisiones impulsivas en bolsa al comprender que las caídas de valoraciones tras eventos políticos a menudo generan oportunidades de análisis fundamental para inversores institucionales.",
-      "explicacion": "Un claro ejemplo reciente se observa en las recomendaciones de grandes entidades financieras, como Deutsche Bank sugiriendo comprar acciones de determinadas compañías tecnológicas tras correcciones postelectorales. En los mercados financieros, es fundamental distinguir entre la volatilidad emocional a corto plazo provocada por noticias políticas y el valor intrínseco a largo plazo de una empresa. El análisis profesional evalúa los fundamentales del negocio ignorando el ruido mediático temporal.",
-      "conexion": "Conecta la psicología de masas en los mercados con la valoración de activos por flujos de caja descontados.",
-      "pregunta": "En los mercados financieros, ¿por qué se aconseja separar el ruido político temporal del análisis de los fundamentales de una empresa?",
-      "fuente": "Mercados",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlJITFk2LUlJdjNOTC1YNmRKeWg2RWREUzFmNTh0WTlucjlUcWV4elFvVmxVNTBBUHVrRHVQYldMVGtZeWZQN2F2YnpRT2FYaHNMZUQ5QTdGVFdpZDFyeThnTmdIQTZlN0FwVHVNUDNZZ3hfdnVuYURyZEF2Z05kNW5qR21wWEhjcmtRMXVyTzJUVER1OUNqejNJU2VvcEFmb0ZFZi01bC1za181ZWlNZkkza3R4bEkxQVJvaVBHaEt0b29BT3AtbXViUXk?oc=5"
+      "titulo": "Lectura de los movimientos bursátiles: la correlación entre índices globales",
+      "por_que": "Aprender a interpretar las caídas en las bolsas internacionales te ayuda a entender el sentimiento macroeconómico sin caer en el ruido de los titulares diarios.",
+      "explicacion": "Recientemente se ha observado cómo los principales índices bursátiles, como la Bolsa Mexicana de Valores y mercados en Europa y Reino Unido, han registrado descensos arrastrados por la tendencia general de Wall Street. En los mercados financieros, este fenómeno demuestra que las bolsas rara vez se mueven en aislamiento; existe una fuerte correlación global impulsada por fondos de inversión internacionales y factores macroeconómicos como la liquidez y las tasas de interés. Comprender esto evita el pánico y enseña que las caídas generalizadas suelen reflejar ajustes sistémicos más que problemas particulares de una sola empresa.",
+      "conexion": "Relacionado estrechamente con los ciclos económicos y la salud financiera global.",
+      "pregunta": "¿Qué suele indicar una caída simultánea en múltiples bolsas de valores internacionales de diferentes regiones?",
+      "fuente": "Investing.com España",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXpQaDRkenUxNGp0RXdNYk16MHdTWjhXYXFHdUhaMU5LMzFqakRkSnFxenNVWmFyb2N0a1JaZjdQRzZDc1ZQRHJXdGZ0aE9jS3kzQTdMaEZkSkgzZXZiMUZNbkwzOUpuVUZTTzYtY1BndE9TdTYtYktHZkZObGhDbVFPbUJfNkx3VUpWdUJpb0xaa3hwZnV1MHgxYnNkbjE2cml5aHNSQ2hKMTByaVpUUXZQcV9laU1Sal9ZQ3ltUGpLaWdyQzUxdHhwbnNLV2JaU2pF?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "La diferencia técnica entre motores de dos tiempos y cuatro tiempos",
-      "por_que": "Comprender la arquitectura básica de los motores térmicos amplía la cultura técnica y permite entender el rendimiento, la potencia y el mantenimiento de diferentes vehículos.",
-      "explicacion": "Aunque la industria avanza hacia la electrificación y la alta ingeniería de dos tiempos ultra radical en prototipos, los fundamentos mecánicos siguen divididos. Un motor de cuatro tiempos realiza el ciclo completo (admisión, compresión, explosión y escape) en dos vueltas del cigüeñal y lubrica mediante un cárter de aceite independiente, ofreciendo mayor durabilidad y entrega de par lineal. En contraste, el motor de dos tiempos realiza el ciclo en una sola vuelta del cigüeñal, mezclando el aceite con la gasolina para la lubricación, lo que le otorga una relación peso-potencia explosiva pero mayor simplicidad mecánica y desgaste.",
-      "conexion": "Se relaciona con los principios de termodinámica, rendimiento volumétrico y eficiencia mecánica.",
-      "pregunta": "¿Cuántas vueltas de cigüeñal necesita un motor de dos tiempos para completar su ciclo de combustión?",
-      "fuente": "La Moto",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjhNZXJybnNPRkx5ZHNFbTEzRjhLTWR4WWI0cGVXbl9JWFpnVXBidF9tbU55NU1xMWY4ZW8tam03djVJc3d3LXJ0RTVHYmY2N2NsYlFWYzNnMlBISHJnOUpJcnJLRS1uaHd0cmJEanFCVGdodnFMcGNGU2NCR2J2T2tHcG9feGlfQ3Azc1Y3SWgybENMTlV4SkFWTW9sRjRxVGdRM1RySDVuOTNOWnh2ZlBPQm5JeHZlR0swTFJiUER0Zw?oc=5"
+      "titulo": "Entendiendo la asistencia y el par motor en sistemas de propulsión modernos",
+      "por_que": "Dominar los conceptos mecánicos básicos de la fuerza y la potencia te ayuda a comprender la ingeniería detrás de cualquier vehículo motorizado.",
+      "explicacion": "Al analizar las especificaciones de motores modernos, ya sea en motocicletas de alta cilindrada o en sistemas de asistencia eléctrica avanzados (como los propulsores de e-Bikes de marcas como Bosch o desarrollos tecnológicos recientes), destacan dos conceptos fundamentales: la potencia (medida en caballos o vatios) y el par motor (torque, medido en Nm). El par motor es la fuerza bruta de giro que permite arrancar desde parado o subir una pendiente pronunciada con facilidad, mientras que la potencia determina la velocidad máxima que el motor puede mantener. Un motor con gran par ofrece una respuesta inmediata y contundente al acelerador.",
+      "conexion": "Conectado con la física aplicada y la evolución de la ingeniería mecánica e industrial.",
+      "pregunta": "¿Cuál es la diferencia práctica entre el par motor (torque) y la potencia máxima de un motor?",
+      "fuente": "TodoMountainBike",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "El reto de la diversidad cultural y religiosa en los estados latinoamericanos modernos",
-      "por_que": "Desarrollar una perspectiva sociopolítica amplia permite entender mejor el comportamiento de las sociedades y los desafíos de gobernanza en el continente.",
-      "explicacion": "Un ejemplo actual analizado por medios internacionales es el desafío geopolítico y pastoral que enfrenta la Iglesia al visitar Uruguay, considerado históricamente el país menos católico de América Latina debido a su fuerte tradición de laicismo estatal desde principios del siglo XX. Conocer cómo diferentes naciones configuran su identidad cultural y su separación entre religión y política ayuda a entender la evolución de los derechos civiles, las leyes y las mentalidades colectivas en distintas regiones del mundo.",
-      "conexion": "Conecta la historia institucional latinoamericana con la sociología de la religión y la secularización del Estado.",
-      "pregunta": "¿Qué característica histórica distingue principalmente a Uruguay en términos de laicismo dentro de América Latina?",
+      "titulo": "La relatividad del tiempo: el curioso caso de la isla que quiso abolir los relojes",
+      "por_que": "Explorar eventos históricos y culturales singulares amplía tu perspectiva mental y fomenta el pensamiento lateral fuera de los esquemas convencionales de la gestión empresarial.",
+      "explicacion": "Existen lugares en el mundo, como la remota isla noruega de Sommarøy, que en su momento protagonizaron iniciativas mediáticas para 'abolir el tiempo' oficial durante los meses de verano, cuando el sol nunca se pone debido a su ubicación en el círculo polar ártico. Aunque logísticamente es imposible eliminar los horarios en una sociedad moderna, esta idea refleja cómo el concepto de tiempo es una construcción social adaptada al entorno natural. Para un directivo, entender que las normas temporales y los ritmos de trabajo varían según la cultura y el contexto ayuda a cuestionar la rigidez de los procesos y a diseñar organizaciones más flexibles y humanas.",
+      "conexion": "Conectado con la filosofía, la sociología y la historia de la organización social.",
+      "pregunta": "¿Qué factor geográfico motivó la curiosa propuesta de ignorar los horarios convencionales en esa región de Noruega?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxZFc5MUZJNXFoTHhZLUhtV2ZpOERzM2xjU2tDSVZCQ1Y1X3QtZjgyMWIzelJROUVyenJyT3FITlZ4cTRwNEZQTjJUaTBUXzJVQ1pRaTFnWlJab25w0gFiQVVfeXFMT25DaFdvT05lWHpzeG1JSzhoU095T1hXRFFzVVZMdExUMHI1R05UcGJpdVc3QTZsUTlDd0ZvSzZncHozVVlUWkIwbEJrenNCMk5reG5CVm9BZjlrUGZES3FRRHc?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KLXdzTFZJeW92TGhmQ24xX2hMVFBSa3lnNFNNYWZ3RzJWTzBDdmh3c1VfbDIyT0NERVBDdVU3WFR5Y2lOX0hwdFVCOUZWVEFLTFJIWTktVFlYSUo50gFiQVVfeXFMTklnQzh3ZlJOLWQwbU54WngtZExBTFFPUklLdU1HLTJoSW1yNlRCZG11Ri02Q2NTQ1MtSm1jM1VuWHFTcjQ0MDV3VmpLUEExSnZPNFY2SkRLMkh3NEM1LTBIV1E?oc=5"
     }
   ]
 }
