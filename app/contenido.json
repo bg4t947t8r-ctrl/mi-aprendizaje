@@ -1,76 +1,76 @@
 {
-  "titulo": "Briefing Personal de Aprendizaje para Pedro",
-  "fecha": "2026-11-08",
+  "titulo": "Briefing de Aprendizaje de Pedro",
+  "fecha": "2026-11-09",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Estrategias de salida y rentabilidad en mercados complejos",
-      "por_que": "Como empresario, entender cuándo desinvertir en un mercado o proyecto que no aporta valor estratégico es tan importante como saber invertir, ya que libera capital y enfoque para la rentabilidad general.",
-      "explicacion": "Recientemente se ha reportado que la cadena hotelera española Meliá ha vuelto a registrar beneficios netos tras completar su salida del mercado de Cuba. En el ámbito empresarial, operar en entornos con alta fricción regulatoria o baja rentabilidad puede lastrar los recursos de toda la organización. La decisión de salir de un mercado no debe verse como un fracaso, sino como una maniobra táctica de reasignación de capital y enfoque directivo para proteger la salud financiera global de la compañía.",
-      "conexion": "Se conecta con el concepto de Coste de Oportunidad en economía, donde mantener un recurso en un proyecto de bajo rendimiento impide aprovechar oportunidades más lucrativas en otro lugar.",
-      "pregunta": "¿Por qué la salida de un mercado geográfico o sector no rentable puede mejorar el beneficio neto global de una empresa?",
+      "titulo": "El límite del poder: lecciones de liderazgo para un empresario",
+      "por_que": "Como directivo, entender dónde terminan tus atribuciones y comienza la responsabilidad sistémica evita abusos de autoridad y previene crisis de gobernanza.",
+      "explicacion": "Recientemente, el Papa León XIV recordó al presidente argentino Javier Milei que los líderes deben conocer los límites de su poder. En el ámbito corporativo, esto significa que un director general o empresario no puede operar bajo la ilusión de que su voluntad es absoluta. Un poder sin límites claros destruye el pensamiento crítico del equipo, genera dependencia excesiva y suele derivar en decisiones erróneas que nadie se atrevió a cuestionar. Ejercer una dirección madura implica construir marcos institucionales y gobernanza interna que regulen incluso al propio fundador.",
+      "conexion": "Se conecta directamente con la gestión de equipos, ya que un líder que comprende los límites de su autoridad fomenta la autonomía y la seguridad psicológica en lugar del miedo.",
+      "pregunta": "¿Qué mecanismo de gobernanza puedes establecer en tu empresa para asegurar que tus decisiones como director tengan contrapesos saludables?",
       "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3duTlYyeGo0a0p0cWpQSnFiSXVsT2wycVBKcFNPWjV1ZmxBbkZ6STN5enRHVmdNcE9LMk9aSUwydmNZdHlCOFJMWGUzdG1LbXB0QmpuZnF3eE5qRDFLcG8zRnhsNXBmWC03UnhSRldZQzVPZmVoQkVTMkZHMjJWY1ZxQS0wRTF6M0UtQmR5LTk5SVU2cExsQWx2NkxhdW5f?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "La centralización de los sistemas de seguridad y control en la IA",
-      "por_que": "A medida que integras herramientas automatizadas e Inteligencia Artificial en tus operaciones, debes comprender los riesgos de la centralización excesiva de los controles y la dependencia de organismos externos.",
-      "explicacion": "Informes recientes señalan que el personal del centro de seguridad de inteligencia artificial de EE. UU. ha comenzado a reportar directamente a la Casa Blanca, lo que ha generado serias preocupaciones sobre la pérdida de independencia técnica de los organismos reguladores. En el terreno de la automatización y la tecnología empresarial, trasladar el control crítico a una única entidad o punto centralizado elimina los contrapesos y expone los procesos a vulnerabilidades operativas si esa única autoridad falla o cambia sus criterios.",
-      "conexion": "Tiene relación con el concepto de 'Punto Único de Fallo' (Single Point of Failure) tanto en arquitectura de software como en la toma de decisiones organizacionales.",
-      "pregunta": "¿Qué riesgo operativo principal introduce la centralización excesiva del control en los sistemas tecnológicos o de automatización?",
-      "fuente": "La Nación",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkxvc1pfUUd5Nl9xeUZybUVfTHlNd09yZGhRdXZtaGJWT3g0czNQS0xfNERIQ0lndVFOWHd6b3pKYkN0Mm5RQnZVWVpxTWxHMnFHaTMyOG5yOVVkSHFsaUhTdVR2cDBmSDBuRDh4TlhRUlMyLTJmSlRYc1hTd3NVcVFDUnJEeVdWeGRoX1pxR185N2VvbllTWENtN0dsV1FSS05FZ1dNc1RPMXZleXRobFpGWlZueHdPeC1lSEZXaW1NTnVzTkFtVkdBOUlQcnpyZk1rRWhsMDdtQlF1?oc=5"
+      "titulo": "Del software aislado a la infraestructura autónoma en los negocios",
+      "por_que": "Para escalar operaciones con un nivel medio-bajo de automatización, debes dejar de ver las herramientas como simples parches y empezar a entender los sistemas autónomos.",
+      "explicacion": "En el ecosistema tecnológico actual surgen iniciativas empresariales enfocadas en convertir toda la infraestructura de una compañía en un sistema autónomo. Esto va más allá de automatizar tareas repetitivas individuales; implica diseñar flujos donde la información fluye, se valida y se actúa sobre ella sin intervención humana constante. Para un empresario, el reto no es usar más software, sino integrar los procesos para que operen como un ecosistema cohesivo que reduzca los cuellos de botella operativos.",
+      "conexion": "Se conecta con la economía y la eficiencia de costes, ya que reducir la fricción operativa mediante sistemas autónomos protege los márgenes empresariales en tiempos de alta inflación.",
+      "pregunta": "¿Cuál es el proceso actual en tu negocio que más tiempo humano consume y que podría transformarse en un flujo autónomo?",
+      "fuente": "HackerNoon",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnhReEVtcHZTS1NPQjBwdkg5Yi1fdWtsU1NydnNuR1hLRjBXS1ZrVm1qTGJWUGJfN0hhZDVKTjFBVDByVVc1emd6VlhZcl92dmtsc2sybm5KZURUTjlySllhX3V4NUJ2NHRGNXo2ZGx6NHh4SzhKY3BndVB3c0lpNGh2UE42Q3lOWC1RR1ZTOEF5Qm5lRFNoeUNWVmozMGNCaVY3dVZIS0J6UWkxbXdpTFFoRkpUSXVpVlN1U1hSRnA3Rnp0OElqbExn?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "Estructuras de liderazgo ágiles y descentralizadas",
-      "por_que": "Para escalar un negocio sin perder agilidad, es fundamental aprender a delegar mediante células o equipos autónomos en lugar de depender de jerarquías rígidas.",
-      "explicacion": "Diversas tendencias y análisis sobre innovación corporativa destacan el uso de 'Corporate Venturing Squads' o equipos operativos especializados para escalar la innovación a través de fronteras y departamentos. Para un directivo, la lección clave es que los equipos de alto rendimiento no deben gestionarse mediante microgestión centralizada, sino mediante la asignación de misiones claras, recursos definidos y autonomía operativa. Esto fomenta la responsabilidad individual y acelera la resolución de problemas.",
-      "conexion": "Conecta con el modelo de gestión 'Span of Control' (tramo de control) en dirección de empresas.",
-      "pregunta": "¿Cuál es la principal ventaja de utilizar células o equipos autónomos especializados en lugar de canales burocráticos tradicionales para innovar?",
-      "fuente": "World Economic Forum",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGIyWjR5ZE0yTE1xencxUnZkYW1xc2NHUTRtU19uVGtMXy1rWXRFd1BfQ0hkQWp5MWRUSjN2SEJlaG9tQ0gzTWFlU2xfRkxxazA0M3hWQ1RNcnV0VjRBQkRTSFV6SVh1QkJjYkx0Zm5WcWdOLTF6ZGdvYUpRaGF6dXdDRQ?oc=5"
+      "titulo": "La madurez directiva ante la complejidad institucional",
+      "por_que": "La estabilidad de cualquier organización depende de cómo su liderazgo gestiona las crisis de confianza y los momentos de colapso institucional.",
+      "explicacion": "Recientemente se han registrado situaciones de colapso institucional y bancario en Paraguay que han llevado a crisis políticas y arrestos de altos cargos. En el plano de la gestión de equipos, estos eventos extremos ilustran un principio universal: cuando los sistemas de control fallan, la tensión recae inmediatamente sobre las personas. Un directivo debe aprender a identificar los puntos de estrés en su organización antes de que se conviertan en fallas sistémicas, manteniendo canales de comunicación claros y transparentes con su equipo para preservar la confianza en momentos de incertidumbre.",
+      "conexion": "Se conecta con la dirección empresarial y la cultura organizacional, vinculando la estabilidad interna con la capacidad de resiliencia ante entornos externos adversos.",
+      "pregunta": "¿Qué señal temprana de alerta en tu equipo o procesos estás ignorando actualmente?",
+      "fuente": "AP News",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3VhNVNTaDFTakVsMEcwem81cmNSeDNod2Fjd2ZOY1RYSTVsc0tKbmgwX1l1b0k5X0V6TXdtRGpKZUNuWFduVmtLNm9FblZhQkllcHB4SEFJamgya3MzUUxZaDB3X1k5ZlctdnV4WVh4TW1qNzd1d21meTJHSHZwc0o2RkxtOG82MmVlNjFtc0ZJNkMwSzdGbjFzREtDZ0VIR0tSdVZ6SFp3Zzh5N1ZWNzFKcHo?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "El impacto de los tipos de interés elevados en el crecimiento a largo plazo",
-      "por_que": "Comprender la macroeconomía te permite anticipar cómo el coste del dinero afectará el consumo de tus clientes, el acceso a financiación y la planificación de tu negocio.",
-      "explicacion": "Los análisis económicos recientes coinciden en señalar que las tasas de inflación persistentes y los tipos de interés elevados están configurando un escenario de crecimiento económico moderado que se extenderá durante los próximos años. Cuando los bancos centrales mantienen los tipos altos para enfriar la economía y contener los precios, el crédito se encarece tanto para las familias como para las empresas. Esto obliga a los directivos a replantear sus estrategias de apalancamiento y priorizar la autofinanciación y la eficiencia operativa sobre la expansión agresiva basada en deuda.",
-      "conexion": "Se relaciona directamente con la política monetaria y su impacto en el ciclo de crédito empresarial.",
-      "pregunta": "¿Cómo afecta habitualmente un entorno prolongado de tipos de interés altos a la estrategia de financiación de las pequeñas y medianas empresas?",
+      "titulo": "El impacto real de la inflación persistente y los tipos de interés",
+      "por_que": "Comprender la macroeconomía te permite anticipar cómo el coste del dinero afectará el consumo de tus clientes y la financiación de tu negocio.",
+      "explicacion": "Los análisis económicos actuales coinciden en que la combinación de una alta inflación y tipos de interés elevados seguirá frenando el crecimiento económico global en los próximos años. Para un empresario, esto significa que el dinero ya no es barato y el acceso a financiación requiere proyectos con un retorno de inversión muy claro. Las empresas que sobreviven y crecen en este entorno son aquellas que optimizan su capital de trabajo, vigilan estrictamente su flujo de caja y evitan endeudarse en proyectos especulativos.",
+      "conexion": "Se conecta directamente con los mercados financieros y la bolsa, donde los inversores reaccionan ajustando las valoraciones de las empresas según su capacidad para generar caja en entornos restrictivos.",
+      "pregunta": "¿Cómo afecta un escenario de tipos de interés altos a la estrategia de inversión y endeudamiento de tu empresa?",
       "fuente": "todoalicante.es",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxRmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxFmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Valoraciones exigentes y resistencia en OPVs tecnológicas",
-      "por_que": "Entregar valoraciones realistas en los mercados de capitales es vital para entender la psicología de los inversores y las expectativas de retorno en activos de alto crecimiento.",
-      "explicacion": "Informes de los mercados financieros indican que empresas del sector de la inteligencia artificial, como Anthropic, están encontrando resistencia por parte de los inversores institucionales ante valoraciones muy ambiciosas en sus procesos de Oferta Pública de Venta (OPV). En los mercados financieros, cuando las expectativas de crecimiento futuro superan con creces la capacidad actual de generar flujos de caja reales, los inversores comienzan a exigir mayores primas de riesgo o a cuestionar los precios de salida, lo que suele generar correcciones o ajustes en las valoraciones del sector.",
-      "conexion": "Conecta con el concepto de 'Burbuja especulativa' y la relación entre precio (P/E ratio) y valor fundamental en renta variable.",
-      "pregunta": "¿Qué suele ocurrir en los mercados de valores cuando los inversores perciben que la valoración de una empresa en su salida a bolsa está desconectada de sus fundamentales actuales?",
-      "fuente": "Investing.com España",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa1BGQTIxQ19kS0NrLUV0WFRIa3lvOGVaYW1iUEtSSTlwVXcwcXcyMUlKa015bDZpVXlHREpBZXpUR0JJUm5ldXVsOGlHQXQtRnhuNDJtTi00U1JzZDlGVjdkZzUyWmtSS2xDWW1kMkNHOGE4TWpBc3RJS0IxM2N3NXlrblBndDBkems3OW9lSnRKR2tGSWpoX1VoUUF6Tm50WGZHTEVfTExPTWpBUUprNU95NVBJQm5JTEJKVGxqWXJ2NzNUZWlNb0pwZVpNc1pKamg3QQ?oc=5"
+      "titulo": "Entendiendo las fluctuaciones bursátiles impulsadas por la tecnología",
+      "por_que": "Conocer los mecanismos básicos de la bolsa te ayuda a interpretar las grandes tendencias globales y entender cómo se valora la innovación en los mercados.",
+      "explicacion": "Los mercados bursátiles globales muestran constantes movimientos de recuperación y volatilidad, especialmente impulsados por el sector tecnológico y la inteligencia artificial. Cuando una acción se dispara o cae bruscamente tras la publicación de resultados, refleja las expectativas del mercado sobre el valor futuro de esa compañía. Para alguien con nivel bajo en finanzas, es vital entender que el precio de una acción en bolsa no solo mide lo que una empresa gana hoy, sino la confianza colectiva en su capacidad futura de generar beneficios en un mercado competitivo.",
+      "conexion": "Se conecta con la tecnología y la economía, mostrando cómo la inversión masiva en sectores punteros influye en los índices bursátiles internacionales.",
+      "pregunta": "¿Qué diferencia fundamental existe entre el valor contable actual de una empresa y su valoración en el mercado bursátil?",
+      "fuente": "La Nación",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkRQLTFJalRldkRubE15d2h5LW84ZjEyWGhpS2NsUDBzX3BzQU1Fdk5jbjRkbDNWa28xeDQybV9JVVhXU0FqUWRzX3dmS1BoWHBBTFp4YVlvb0hJblZLNzZvcC1UNWVZS1EySUY4cHJLRjIwbjlvaGFOX3Y3U1ZaWFZVTmtneUswYlhUSUZONkJsa056ZnlrQm5mcktSNHRZMFhjbFFtNkdSWmJHVW92QkJmYXczUnM?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Cómo interpretar las cifras clave: potencia frente a par motor",
-      "por_que": "Entregar claridad sobre las especificaciones mecánicas te ayuda a desarrollar una mentalidad analítica sobre la maquinaria, aplicable tanto a vehículos como a procesos industriales.",
-      "explicacion": "Al analizar especificaciones de motores térmicos o eléctricos, es común confundir la potencia máxima con el par motor (torque). El par motor es la fuerza de giro pura que es capaz de entregar el motor desde parado —fundamental para arrancar con peso o acelerar en pendientes bajas—, mientras que la potencia mide la velocidad a la que se realiza ese trabajo, determinando la velocidad punta. Comprender esta distinción técnica permite evaluar con precisión qué tipo de respuesta mecánica ofrece un motor antes de conducirlo.",
-      "conexion": "Se conecta con la física básica de la palanca, el trabajo y la transmisión de fuerzas en sistemas mecánicos.",
-      "pregunta": "¿Cuál es la diferencia fundamental entre el par motor (torque) y la potencia a la hora de evaluar el comportamiento de un motor?",
+      "titulo": "Interpretando la potencia y el par motor en sistemas de propulsión",
+      "por_que": "Conocer los conceptos fundamentales de la mecánica de motores te otorga criterio técnico para entender la eficiencia y el rendimiento de cualquier vehículo.",
+      "explicacion": "Al analizar especificaciones técnicas de motores modernos —ya sean de combustión o asistencia eléctrica—, es común encontrar dos términos clave: potencia (medida en kilovatios o caballos) y par motor (medido en Nm o Newton metro). El par motor representa la fuerza de giro y la capacidad del motor para vencer la resistencia inicial desde parado o en pendiente, mientras que la potencia determina la velocidad máxima y el rendimiento sostenido a altas revoluciones. Comprender esta distinción ayuda a entender por qué un motor con menos potencia declarada puede sentirse mucho más ágil y contundente en aceleración si ofrece un par motor elevado a bajas vueltas.",
+      "conexion": "Se conecta con la automatización y la ingeniería de sistemas, donde el concepto de par (fuerza de empuje) y potencia (velocidad de ejecución) también se aplica al rendimiento operativo.",
+      "pregunta": "¿Qué diferencia práctica hay entre un motor con alto par motor a bajas revoluciones frente a uno enfocado puramente en alta potencia?",
       "fuente": "TodoMountainBike",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "El impacto de la presión evolutiva en la historia natural de la humanidad",
-      "por_que": "Ampliar tu cultura general con conceptos de antropología y evolución te otorga una perspectiva profunda sobre cómo los retos del entorno moldean el comportamiento y las estructuras a largo plazo.",
-      "explicacion": "Investigaciones recientes publicadas sobre la evolución humana y la fauna ancestral revelan cómo la presencia de grandes depredadores ápice, como águilas gigantes en épocas prehistóricas, moldeó de manera directa los comportamientos de supervivencia, la socialización y el desarrollo cognitivo de los primeros homínidos. Lejos de ser meras anécdotas zoológicas, estos estudios demuestran que la presión selectiva del entorno físico y biológico es el motor principal que obliga a cualquier especie a desarrollar estrategias avanzadas de cooperación y adaptación para prevalecer.",
-      "conexion": "Conecta con el principio de adaptación al entorno y la teoría de la selección natural aplicada a sistemas complejos.",
-      "pregunta": "¿De qué manera influyen las presiones extremas del entorno (como la presencia de depredadores) en el desarrollo de la cooperación social en una especie?",
+      "titulo": "La transición energética global: el fenómeno de la energía solar de bajo coste",
+      "por_que": "Ampliar tu cultura general incluye comprender las grandes transformaciones tecnológicas y energéticas que están redesignando la geopolítica y la economía mundial.",
+      "explicacion": "En los últimos años, el despliegue de la energía solar ha desafiado todas las proyecciones previas debido a una reducción drástica y acelerada de sus costes de producción. Este fenómeno, descrito a menudo como energía 'escandalosamente barata', está transformando la matriz energética de numerosos países y alterando los costes industriales tradicionales. Para un empresario y ciudadano con visión amplia, entender este cambio es fundamental, ya que abata los costes operativos futuros y redefine las ventajas competitivas de las regiones industriales en el escenario internacional.",
+      "conexion": "Se conecta con la economía y la sostenibilidad, vinculando la innovación tecnológica con la reducción de costes estructurales a escala global.",
+      "pregunta": "¿Cómo puede influir la caída radical en el coste de las energías renovables en la competitividad de las empresas industriales en la próxima década?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04RlZBTml2VDY0TXYycHlPUEVYRHhJZVFKMUI1Vnl5d2loZ3dOUHM0eVpFVjdBOHRlZWczNVBsbktoY1lNdHJEbHNXSDBsT29MRTZMU0U5OS1OWjFm0gFiQVVfeXFMTVVhYk02cUNuWktQb0lGbWZ0SkFSTDgyOEVDQU04RXRZSkZlY1o3ZXAxUjFPamJQQko5SXVhVllURzhpNjFQX181ekFOZGprM2RwV3BKOUdCZ0hDT3kxRkcyV1E?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Zmcwc3JNaUFSSmRkTWhMYWhxcUVoRFdvTmFPUEpXbnhlWTQtbTVsbl9VNXl6S0hjc196REtuemZYaVFlRC1TMHNYM245VjNoZHVMRWx5U3pZUEZI0gFiQVVfeXFMT1pFVmI4VmFYYUJSV1RSYUc5NkRZbjJ1OHNYRGdxRzVlNlBwS0s3MjBBMkhOeVB3UUEwVmhqUG9wdy12UnFxTGFsanJubjJSQkN3aUNGUWFfc01sX2w2MDBsd3c?oc=5"
     }
   ]
 }
