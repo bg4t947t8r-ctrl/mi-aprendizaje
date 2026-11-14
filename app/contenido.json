@@ -1,76 +1,76 @@
 {
-  "titulo": "Briefing Diario de Aprendizaje de Pedro",
-  "fecha": "2026-11-13",
+  "titulo": "Briefing de Aprendizaje de Pedro",
+  "fecha": "2026-11-14",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Apertura de sectores estratégicos a la inversión privada",
-      "por_que": "Como empresario, entender cómo los gobiernos abren sectores históricamente monopólicos u obsoletos te permite identificar oportunidades de negocio en nichos desatendidos.",
-      "explicacion": "Recientemente, legisladores en Venezuela han decidido abrir el sector eléctrico, severamente afectado por crisis, a la inversión privada. Esto demuestra que cuando los modelos estatales colapsan por falta de recursos o ineficiencia, la única vía de rescate suele ser la introducción de capital y gestión privada. Para un directivo, esto enseña que los monopolios públicos o la falta de competencia terminan destruyendo la infraestructura, y que entender los momentos de desregulación abre ventanas masivas para la innovación y la entrada a nuevos mercados.",
-      "conexion": "Se conecta directamente con la teoría económica de la liberalización de mercados y la teoría de la agencia en la administración pública frente a la privada.",
-      "pregunta": "¿Qué ocurre habitualmente con la eficiencia operativa cuando un mercado monopolizado pasa a manos de la gestión privada?",
+      "titulo": "Planificación presupuestaria y contención del déficit estatal",
+      "por_que": "Comprender cómo los gobiernos ajustan sus presupuestos te ayuda a entender las dinámicas macroeconómicas que impactan el poder adquisitivo de tus clientes y los costes operativos de tu empresa.",
+      "explicacion": "En el proyecto de presupuesto de México para 2027, el gobierno ha proyectado un crecimiento económico moderado de hasta el 2.5% junto con un déficit fiscal más estrecho. Para un directivo, esto significa que la política fiscal busca enfriar el endeudamiento público para estabilizar la moneda y controlar la inflación. Reducir el déficit implica menor gasto gubernamental directo, lo que exige a las empresas privadas buscar eficiencias internas en lugar de depender de contratos o estímulos estatales.",
+      "conexion": "Se conecta directamente con la gestión de tesorería y la previsión de demanda en entornos de bajo crecimiento económico.",
+      "pregunta": "¿Qué implicación directa tiene para una empresa privada que un gobierno reduzca su déficit fiscal mediante menor gasto público?",
       "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY01UNlVSYm43NkhaRFIzMEI1bVpkY0FORzUtS0YtRHAtQ2c3N0s1NzVhdkozaHZsWVo1dkRWU20yRHNhUmsyYzFQUV82M0NINE5CcEFFb2NlSGUxbGF3RjBFN2ZrQzNOUHNYaFhZdVR4aV9oVC11bi1QRS1MR2xXQ3NaTkt4T2xLWi1Fb1ZZVEttVlg3SjJ5cVFSZ1NQelk5bi1yQnduLWVtaVdvTHZxdnMyeVlRRkZBR1Q5Qg?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdGZSSDF6akVGUUJ6R1ZlVkhtbXFmTW1DRGxqYXhlOVlrMEVIWWdJaGhTQjVhN014WXd5Z1QxTGE5ZGdhS0Q2RHVhUUJ3cWVLTHplVDNkbFVieTdOMmNMYlFRdmFFb2l5QmowZDZFSG4zNy1MVXZ6T1I3b3BKdDFWRkwya3dodk5jT2ZhTXQzQ3l3R09RMjhuOU1vS3NJemJ3NWZMal9mM2hXTVllUVVROGM2VGdYNjM3dUdLa0Z1eTFRdw?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "Resiliencia digital y el impacto de las caídas de infraestructura global",
-      "por_que": "La dependencia tecnológica es total en los negocios modernos. Conocer los riesgos de infraestructura te ayuda a diseñar planes de contingencia para que tus operaciones no se detengan.",
-      "explicacion": "Microsoft ha estado trabajando intensamente en restaurar sus servicios tras una falla global que afectó gravemente a empresas y gobiernos. Este tipo de incidentes demuestra que la automatización y la digitalización, aunque mejoran la productividad, también introducen puntos únicos de fallo catastróficos. Para un directivo, no basta con adoptar herramientas en la nube; es vital contar con redundancia, copias de seguridad locales y planes de continuidad del negocio ante interrupciones de proveedores externos.",
-      "conexion": "Se relaciona con la gestión de riesgos tecnológicos y el concepto de redundancia en sistemas complejos.",
-      "pregunta": "¿Qué es la redundancia operativa y por qué protege a una empresa frente a fallos de proveedores externos?",
+      "titulo": "Resiliencia y mitigación de fallas sistémicas globales",
+      "por_que": "Como directivo, dependes críticamente de infraestructuras digitales de terceros. Entender cómo mitigar riesgos tecnológicos evita parálisis operativas catastróficas.",
+      "explicacion": "Recientemente, una falla global en los servicios de Microsoft afectó gravemente a empresas y gobiernos alrededor del mundo, obligando incluso a suspensiones masivas de operaciones críticas como la de despegues aéreos en Estados Unidos debido a sistemas sobrecargados. El aprendizaje clave para un empresario no es evitar usar la nube, sino diseñar redundancias operativas y planes de contingencia (como servidores locales secundarios o procesos manuales alternativos) para que la caída de un proveedor único no detenga toda la operación de la compañía.",
+      "conexion": "Se relaciona con el concepto de 'punto único de fallo' (Single Point of Failure) en la arquitectura tecnológica y de procesos.",
+      "pregunta": "¿Qué es un punto único de fallo y cómo se puede mitigar en la infraestructura digital de una empresa mediana?",
       "fuente": "AP News",
       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFptNHBkczU2OFdhVWdia0NOQTJLODNWOW9jSWJ1aW5mTERJbWdPY25tMDdVb01qSlpQOFpWVUpXbjV3LWwyM1RtT1pZR3ZNc0oxOHp3bUxkUUJldGdReUx0V09IYTE3eGl4M3ktQ3Jqa1lpODRzRnlOLW9ybXZPcUFCR2ZndGhudURtdEY1TlJrQ0p2dXYwRlZLUjFqa2VB?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "Liderazgo en entornos de crisis y la presión sobre los mandos directivos",
-      "por_que": "Un líder debe mantener la calma y tomar decisiones bajo presión extrema. Estudiar cómo reaccionan las organizaciones ante caídas sistémicas entrena tu templanza directiva.",
-      "explicacion": "Ante una falla global de software que paraliza operaciones corporativas enteras, los equipos de trabajo entran en pánico operativo. El rol del directivo en esos momentos no es resolver técnicamente el error, sino coordinar la comunicación, priorizar tareas de emergencia y calmar a la plantilla. La gestión de equipos bajo presión requiere una jerarquía clara de toma de decisiones para evitar que el ruido y la desesperación empeoren el problema técnico.",
-      "conexion": "Conecta con la psicología de crisis y los modelos de respuesta rápida en la dirección de operaciones.",
-      "pregunta": "¿Cuál debe ser la prioridad principal de un director de equipos durante una crisis tecnológica imprevista?",
-      "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUlliTGZ4Y2FSaFV2NUhjOC1VUG0xWXc2am5JMGphZDI3aTRLaTBjTURpaHg1ZUVxWl9aVjAxWGRLdW90TldmR0l3eXBnanl3eHpndHdEZm1qVE1E0gFiQVVfeXFMTjI5dHZTQ1lZMDdqRlRiVXVUS2NIdmFSbVIwb0dzeFVlbjZVWllaa01XMlZXbjBVR1MwSXlVeDZ3aHhOUjVmbzZmaUVfRy12QlZUZXkxaUpKNU9UcFpfSVdVM3c?oc=5"
+      "titulo": "Liderazgo y los límites éticos del ejercicio del poder",
+      "por_que": "Un directivo con un nivel medio-bajo de gestión de equipos suele caer en el autoritarismo o en la falta de límites claros. Comprender el equilibrio de autoridad es vital para retener talento.",
+      "explicacion": "En el ámbito geopolítico y directivo, figuras de liderazgo global han recibido advertencias claras sobre la necesidad de conocer los límites del poder, como se evidenció recientemente en las reflexiones institucionales sobre estilos de mando autoritarios. En una empresa, un líder que ejerce poder sin límites genera un clima de miedo, alta rotación de personal y destrucción de la iniciativa propia. El liderazgo moderno requiere autoridad basada en competencia y respeto mutuo, no en la imposición jerárquica absoluta.",
+      "conexion": "Conecta la dirección de personas con la cultura organizacional y la inteligencia emocional aplicada al management.",
+      "pregunta": "¿Por qué el ejercicio desmedido de la autoridad desgasta la motivación intrínseca de los equipos de trabajo?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "La relación entre presiones inflacionarias y decisiones de bancos centrales",
-      "por_que": "Las tasas de interés y la inflación dictan el coste del dinero, afectando directamente la capacidad de endeudamiento y expansión de tu empresa.",
-      "explicacion": "Los mercados y analistas económicos vigilan constantemente las reuniones del FOMC y las decisiones de la Reserva Federal (Fed) ante indicios de aumento de la inflación. Cuando la inflación sube, los bancos centrales suelen mantener o elevar las tasas de interés para enfriar la economía. Para un empresario, comprender esto es fundamental: un entorno de tipos altos encarece el crédito, por lo que la gestión del flujo de caja (cash flow) debe volverse mucho más conservadora y eficiente.",
-      "conexion": "Se vincula con la macroeconomía y la planificación financiera a medio plazo de cualquier compañía.",
-      "pregunta": "¿Cómo afecta habitualmente una subida de tipos de interés por parte del banco central al coste de financiación de las empresas?",
-      "fuente": "Economía",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVRTbU83dVpWX2diREtvVmFBQUEza0xJeVNfN3FwRHdvRjZGR204X3hhSVhhQnRnVGxiTnJnQmd5TkFiSW12UWhocHByWGVxVk81XzhTd01UX2Uxc1NhQjdLM044dUZNT2N1eWlwLVJIQjlJYi1qRXBUMTZTZEZnWGZSWlJxR0NSeHVaSW05cjA1WXFVaGxzOThuMF92alo5VFZGM3U1bURudW5tNmFLSTFhakxEM3RET19lWEhJVEVkdVBfZDVPS3duTQ?oc=5"
+      "titulo": "Transiciones políticas y la apertura de nuevos mercados internacionales",
+      "por_que": "Los cambios geopolíticos abren ventanas de oportunidad para la expansión comercial o la inversión en mercados emergentes antes inaccesibles.",
+      "explicacion": "Ante la reciente transición política en Venezuela y el interés de inversores extranjeros y corporaciones energéticas internacionales (como la india ONGC) por retomar operaciones petroleras en el país, se observa cómo los cambios en las reglas del juego geopolítico transforman el mapa económico global. Para un empresario, esto ilustra cómo la economía está sujeta a shock políticos repentinos que reconfiguran las rutas de suministro energético y la asignación global de capitales.",
+      "conexion": "Se conecta con el análisis de riesgo país y la diversificación geográfica en las estrategias de internacionalización empresarial.",
+      "pregunta": "¿Qué factores de riesgo principal debe evaluar un inversor al entrar en un mercado que atraviesa una transición política reciente?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Volatilidad bursátil y reacción del inversor ante eventos corporativos",
-      "por_que": "Entender por qué suben o bajan las acciones de empresas tecnológicas o fintech te ayuda a leer la psicología de los mercados de valores.",
-      "explicacion": "En los mercados financieros, las fluctuaciones diarias de plataformas de inversión o empresas tecnológicas (como se observa frecuentemente en movimientos de valores minoristas y fintech) reflejan cambios en las expectativas de beneficios futuros más que en el valor contable actual. Para alguien con nivel bajo en bolsa, es vital comprender que el precio de una acción en el corto plazo está altamente influenciado por el sentimiento del inversor y las noticias regulatorias, lo cual genera alta volatilidad.",
-      "conexion": "Conecta con la valoración de activos financieros y la hipótesis de los mercados eficientes.",
-      "pregunta": "¿Qué factor suele impulsar con mayor fuerza las caídas bruscas en el precio de una acción tecnológica a corto plazo?",
-      "fuente": "Mercados",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmdpM0FJU3paTmJSVGdObXVIZW9lajBDaVlRMW5DZXR5c0wyNkUzN2xkcTYzRFNDcjhRTTNaX0pWR2lsM2dPNFpUOWJJd0ZpNVlYdGlmNF9qSXBlUVlGV3daV3REcVRfQ0t1VklKQkVaQkJjNW03a1dfMFFzZG1DQk9YeFg3ZWg3ajExdVZxbHFrTXNOb3EtYVBzQ1F4alB0ZlMwemhIOXJLazQ?oc=5"
+      "titulo": "Concentración sectorial y distorsión económica en los mercados bursátiles",
+      "por_que": "Para entender la bolsa más allá de la especulación, es fundamental comprender cómo sectores específicos pueden distorsionar el valor y la estabilidad de economías enteras.",
+      "explicacion": "Informes recientes sobre economías altamente industrializadas, como el caso de Corea del Sur, muestran cómo la dependencia extrema de un solo sector tecnológico (como la fabricación masiva de chips de memoria) puede distorsionar por completo los indicadores macroeconómicos y la volatilidad bursátil del país. En los mercados financieros, invertir o analizar empresas sin mirar la concentración de riesgos sectoriales expone a los inversores a correcciones violentas cuando la demanda de ese producto específico fluctúa.",
+      "conexion": "Se conecta con la teoría de diversificación de carteras y la asignación de activos en función del riesgo sistémico.",
+      "pregunta": "¿Por qué representa un peligro para una economía o cartera de inversión depender excesivamente de un único sector industrial?",
+      "fuente": "Asociación Almendrón",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFd4XzRNLUQ1UzExWUFISWtjVFd2SDVkbHY4dktvRnVoajI3NjdJN1FUT255dVZyZ1FCSFFuQVVodGplQWh5enFGaFc1dWxEYmFUTlEyMlhCUmliVGFKcnNNSFRLU3YxcDJ5d0Nta25sU2doMmpvOE50dlNwR3gtaldIM1V1VU1kbFFKNlcweVV1MzcyNHQ0czRB?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Interpretación técnica de potencia y par motor en propulsores modernos",
-      "por_que": "Comprender los conceptos físicos de fuerza y potencia en motores te otorga criterio técnico básico aplicable a cualquier vehículo de combustión o eléctrico.",
-      "explicacion": "Al analizar las especificaciones técnicas de motores modernos, ya sea en motocicletas o sistemas de asistencia eléctrica, es común confundir potencia (caballos de fuerza o vatios) con par motor (torque en Nm). El par motor es la fuerza bruta de giro que permite arrancar desde cero o subir pendientes con soltura, mientras que la potencia determina la velocidad máxima que se puede alcanzar de forma sostenida. Para alguien con nivel bajo en mecánica, diferenciar ambos conceptos ayuda a entender el comportamiento dinámico de un vehículo.",
-      "conexion": "Se conecta con la física elemental aplicada a la ingeniería mecánica y la termodinámica.",
-      "pregunta": "¿Qué magnitud física mide la capacidad de aceleración y fuerza de arranque de un motor desde parado?",
-      "fuente": "Motociclismo",
+      "titulo": "Interpretación de cifras técnicas: potencia versus par motor",
+      "por_que": "Entregar conceptos mecánicos básicos te permite entender la física detrás de los vehículos de dos ruedas, mejorando tu criterio técnico general.",
+      "explicacion": "Al analizar especificaciones técnicas de motores térmicos o eléctricos, es común confundir la potencia (medida en caballos de fuerza o kilovatios) con el par motor (torque, medido en Nm). El par motor es la fuerza de giro bruta que empuja la moto desde parado o recupera velocidad en pendientes; la potencia determina la velocidad máxima que puede alcanzar el vehículo al multiplicar ese par por las revoluciones por minuto. En la práctica, una moto con buen par motor ofrecerá una respuesta inmediata y contundente al acelerar en ciudad, ideal para salidas rápidas.",
+      "conexion": "Se conecta con la física elemental aplicada a la termodinámica y la eficiencia mecánica de los motores.",
+      "pregunta": "¿Cuál es la diferencia fundamental entre el par motor (torque) y la potencia a la hora de conducir una motocicleta?",
+      "fuente": "TodoMountainBike",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "La superación de la pobreza extrema y la movilidad social en América Latina",
-      "por_que": "Desarrollar una cultura general amplia incluye comprender las realidades socioeconómicas complejas de nuestra región más allá de las estadísticas empresariales.",
-      "explicacion": "Estudios sociológicos a largo plazo sobre familias en situación de vulnerabilidad en países como Colombia revelan que la salida de la pobreza extrema no depende de un solo factor aislado, sino de la combinación de educación estructurada, estabilidad institucional, redes de apoyo familiar y acceso a oportunidades de capital inicial. Para un empresario, conocer estas dinámicas sociales amplía su perspectiva humana y fomenta una visión más profunda del entorno social en el que operan sus empresas.",
-      "conexion": "Conecta con la sociología económica y el estudio del desarrollo humano regional.",
-      "pregunta": "¿Qué factores combinados suelen ser determinantes para lograr la movilidad social ascendente en contextos de vulnerabilidad?",
-      "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZTRGM1U1dllYVXlUUWhsRlptQzg0eFpxdmNwZzEzQTB6Smx0dk83M3dKSU1iQkFoWE1meDMtdndUbzBJekFzMVF1cmlod1oyOFJ3TjRxVlB4NEpq0gFiQVVfeXFMTkRZMVR6NjVzMkZDclduSFo4Yzk4SkJweUgtWFlGVnVud1k2SDV0RDZMbm45aDFaOUIzNkVwQ0QySDcyS2p5OF9NNzBVTHF6cUdwRndRbTlJVTA3Yko5MGh0WXc?oc=5"
+      "titulo": "Geopolítica del desarrollo y la estabilidad regional en el Caribe",
+      "por_que": "Ampliar tu cultura general te otorga una perspectiva global más rica, permitiéndote entender cómo los problemas estructurales de los países vecinos influyen en la estabilidad geopolítica regional.",
+      "explicacion": "Los recientes movimientos de intervención y cooperación en materia de seguridad en el Caribe y Centroamérica ponen de relieve los complejos desafíos que enfrentan los estados frágiles frente al crimen organizado transnacional. Comprender la historia política y social de naciones como Haití y las estrategias de seguridad implementadas por gobiernos vecinos ayuda a entender los flujos migratorios, las crisis humanitarias y la cooperación internacional en el continente americano.",
+      "conexion": "Se relaciona con la ciencia política, la sociología internacional y el estudio de los estados fallidos.",
+      "pregunta": "¿Qué factores históricos y sociales suelen propiciar la aparición de crisis crónicas de gobernabilidad en una nación?",
+      "fuente": "AP News",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzFORTR0QWZlVThyVEdqdV9HcXVfLTVsTUFCclltUFZWYUh4YU12N1ZfVTYtVDhRcVV0YUhHUFJIaFI4T3VmQUdSZWZxNmZqamxNQXpyVDhObmRQLWpDSzZNbEM5cmpjbVlfM2pIbTNyTTRoclRrdzBnQVp3d2diN2hDYm1qQ0tNVTVoQ1hEUW1EQXRCMXRrME4zQVF6T0xnZm1wbw?oc=5"
     }
   ]
 }
