@@ -1,76 +1,76 @@
 {
-  "titulo": "Briefing de Aprendizaje de Pedro",
-  "fecha": "2026-11-17",
+  "titulo": "Briefing Personal de Aprendizaje para Pedro",
+  "fecha": "2026-11-18",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "Unicorn Entrepreneurship: Qué separa a los líderes de los seguidores",
-      "por_que": "Como empresario, entender los pasos que diferencian a una empresa excepcional de una ordinaria te permite enfocar tus recursos y liderazgo de manera estratégica.",
-      "explicacion": "El artículo de Forbes titulado 'Unicorn Entrepreneurship: 5 Steps That Separate Leaders From Followers' analiza los factores clave que permiten a ciertas empresas destacar sobre el resto. La idea central no es tener una idea brillante, sino la ejecución rigurosa, la capacidad de adaptación al entorno y la construcción de una cultura organizacional sólida que permita escalar sin perder la agilidad inicial.",
-      "conexion": "Se conecta directamente con la gestión eficiente de equipos y la correcta asignación de recursos económicos en fases de crecimiento.",
-      "pregunta": "¿Cuál es el factor principal que distingue a los líderes empresariales según el enfoque de emprendimiento unicornio?",
-      "fuente": "Forbes",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlFwSkdmZ3NOb19JZ1QxY2tnUFJYeVpTdVdKT3RRX3owc29xNUVNeC1Bb1FFcjJOX2ZxTVRtTFRjUW1RaWVfazJPemgwWVVMYWVyTWFlN1ZvNHBBVFowZ0NlZHY0TGFmZUNMUFNMRHNKc2x4ZWw5RWhQSXR6c0VxYUE2ZmFnckZzYmRyeEZhSmtob1k3N2FpYzB0c3F5RnZRUU5HeG5HV2VHVDQ2SlE2a3pqRUtVbzBsaUMtYg?oc=5"
+      "titulo": "La importancia de la administración judicial y la continuidad del negocio",
+      "por_que": "Como directivo, debes entender qué ocurre cuando una empresa entra en procesos legales complejos y cómo afecta a su estabilidad.",
+      "explicacion": "Recientemente se ha analizado el impacto que tiene la administración judicial en empresas de rápido crecimiento como Revolut. Cuando una organización se enfrenta a procesos de esta magnitud, se pone a prueba la resiliencia de su estructura de gobernanza y la capacidad de la dirección para mantener la confianza de clientes y reguladores.",
+      "conexion": "Se conecta directamente con la gestión de riesgos legales y la solidez operativa que toda empresa necesita para evitar parálisis.",
+      "pregunta": "¿Qué aspecto clave de la gobernanza se pone a prueba durante una intervención judicial?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "El coste real de implementar Inteligencia Artificial en las empresas",
-      "por_que": "Implementar tecnología y automatización sin calcular los costes de mantenimiento operativo puede destruir la rentabilidad de un negocio en crecimiento.",
-      "explicacion": "Un reciente análisis de Revista Merca2.0 señala que tras la euforia inicial de invertir millones en Inteligencia Artificial, las empresas se enfrentan a una nueva y compleja pregunta: ¿cuánto cuesta realmente utilizarla en el día a día? Más allá de la inversión inicial en software o licencias, automatizar procesos conlleva costos ocultos en computación, optimización de modelos, soporte técnico y supervisión humana.",
-      "conexion": "Relacionado con la economía de escala y el control financiero operativo de las inversiones tecnológicas.",
-      "pregunta": "¿Qué costes ocultos suelen pasarse por alto al automatizar procesos con inteligencia artificial?",
-      "fuente": "Revista Merca2.0",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1pNdTdBUnZ6eDFuZGJ5RHhEd3hMamd2V3BJVHQzMldJSElFUWRQc1hIZ0N5WEtDLW9wcDV5ZGZWM2p1d1FNN2Q2RDhGOGNpZjZpT2NaanF1aU1TbWpmSmZ4WjJxS2hBRFNBRm91N2lWeldUTnVtMm4wY1IxNTlQOUxwSnNwZTR4T0stLU1NNlk5Skk4VUltOGM1Qjk3RnR1TGdobzEtOV9pRzFQZm5kZmdSNVloa25ZYzV1QUZ1UmVLdjNI?oc=5"
+      "titulo": "La vulnerabilidad invisible de los sistemas interconectados",
+      "por_que": "A medida que automatizas procesos y dependes de software, la ciberseguridad deja de ser un tema técnico para convertirse en un riesgo directivo crítico.",
+      "explicacion": "Se ha reportado un ciberataque contra los sistemas informáticos de Equinor, evidenciando que la automatización y la digitalización aumentan la superficie de exposición ante amenazas externas. Para un empresario, esto significa que cada nueva herramienta automatizada debe venir acompañada de estrictos protocolos de auditoría y protección de datos.",
+      "conexion": "Relacionado con la resiliencia tecnológica y la continuidad operativa ante fallos de sistemas.",
+      "pregunta": "¿Por qué un mayor nivel de automatización e interconexión incrementa el riesgo de ciberseguridad?",
+      "fuente": "Reuters",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "La diversidad laboral como palanca de rendimiento y cultura empresarial",
-      "por_que": "Un equipo directivo que fomenta la diversidad real de perfiles evita el pensamiento de grupo y mejora la toma de decisiones estratégicas.",
-      "explicacion": "A raíz de declaraciones recientes en el ámbito del deporte de élite publicadas por AP News, donde figuras como Lewis Hamilton señalan que la Fórmula 1 aún tiene 'mucho por hacer' en diversidad laboral, se abre una reflexión aplicable a la empresa privada. La diversidad no es una cuota estética, sino una herramienta de gestión para incorporar diferentes perspectivas, resolver problemas complejos con mayor creatividad y conectar mejor con un mercado global y heterogéneo.",
-      "conexion": "Conecta con la dirección empresarial y la construcción de culturas corporativas resilientes.",
-      "pregunta": "¿Por qué la diversidad laboral es una ventaja competitiva para la toma de decisiones en una empresa?",
-      "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUhqQl9QRmpMbUw3M2NSelhnSENLM1BSSUhvaV9mbG5tazE3MDB0Y1o1NkIwUndYU0MtdkJ0RGkxaVBmMFpCLWVoZHVxdmFpSGNCX2FTX3djTmxxU3JjYTEwdEltdF9ESm9xVWVDeU9reTdHSGMtQkd5SER2ZkJFYTNvcUVIVFNQYnphdkpFTUp0Zw?oc=5"
+      "titulo": "El peligro invisible del 'Value Drift' en organizaciones asistidas por IA",
+      "por_que": "La cultura y los valores de tu equipo pueden diluirse silenciosamente si introduces herramientas tecnológicas sin una alineación adecuada.",
+      "explicacion": "Expertos en prevención y gestión han señalado el riesgo del 'value drift' o deriva de valores al integrar inteligencia artificial en las organizaciones. Cuando los equipos delegan decisiones operativas en algoritmos sin supervisión humana basada en principios claros, la cultura corporativa y la cohesión interna pueden desviarse de su propósito original.",
+      "conexion": "Conecta la tecnología con la psicología organizacional y el liderazgo basado en valores.",
+      "pregunta": "¿Qué nombre recibe el fenómeno donde los valores de la organización se desvían sutilmente al integrar inteligencia artificial?",
+      "fuente": "Prevención Integral",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORUxhMG5FT2QzTU05cm1BbHZ1bTdMaXVob2tCX2FJS0JvaWFjaVl4Q29CMzRUQVNEczFNMndoX3lHanFFR1VnSDVSR25FdnQ2ei0tTEhSUkt6RHFsVHdRbVI1ek84UmM3Ykdud09yQ3dXaW1UWkRXMTJTYTFlMmswSEV1QkdQUnUzOEdDZzZQd0psTVRFS3hIVzhMX0xTd05wcWx5OUpXYXdoN2Z4ajdaakYzZTZwMWhiY3hyUlZhcWRRdk9feEJxdTZOSXJOc1JUbmJNSUxCZ2o1RXYtYTJ5dUlYRzZ3YkZEU21ZZWpBckIzdw?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "Factores que determinan la persistencia de la inflación y tipos de interés altos",
-      "por_que": "Como directivo, entender cómo la macroeconomía afecta los costes de financiación y el poder adquisitivo de tus clientes es vital para planificar presupuestos.",
-      "explicacion": "Diversos análisis económicos recientes destacan cómo las presiones inflacionarias globales y la evolución de los tipos de interés condicionan el crecimiento empresarial a medio plazo. Cuando los costes de la energía y las materias primas fluctúan debido a tensiones geopolíticas o ajustes monetarios, los márgenes de beneficio de las pymes se comprimen, obligando a repensar las estrategias de precios.",
-      "conexion": "Se relaciona con los mercados financieros y la planificación financiera estratégica de la empresa.",
-      "pregunta": "¿Cómo afecta directamente una inflación elevada y unos tipos de interés altos a la estrategia de precios de una empresa?",
-      "fuente": "Economía",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxRmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
+      "titulo": "El impacto inflacionario de los conflictos geopolíticos globales",
+      "por_que": "Comprender la macroeconomía te permite anticipar subidas de costes en materias primas, energía y financiación para tu negocio.",
+      "explicacion": "Los bancos centrales y organismos internacionales continúan ajustando sus previsiones de inflación debido a la incertidumbre generada por conflictos internacionales. Estos escenarios alteran las cadenas de suministro globales, encareciendo los costes de producción y obligando a mantener tipos de interés elevados para contener la subida de precios.",
+      "conexion": "Vinculado con la planificación financiera a corto y medio plazo para empresas expuestas a costes energéticos.",
+      "pregunta": "¿Qué efecto directo suelen tener los conflictos geopolíticos globales sobre las previsiones de inflación?",
+      "fuente": "Le Monde.fr",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnRXcVRQaUJvOE1ncGtyaloxS0FSSWVOWExvVTNQZzdjTHdGMDczRnlIcWdrZkZROTNscDRnWmtUSDVJS0ctMm1yVzE5Q25kdy1DR1V4ZTM2Qks2cDBTV05XN25lU1JiUmZNaXZocm5wV0Z6cWFlTUhNcE9ZMXNRM1d0dVYtTGFjRTV0SlI3UmNmVF9Mc0M5Z2FXdWNLb1pid3VURlR2bTJEaVYtWHBtR2F6OXhPcFBnVHV4eHk2Uy1NbmdXdGJsd2tCMA?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Gestión de carteras institucionales: El movimiento de los grandes inversores",
-      "por_que": "Observar cómo operan los grandes inversores institucionales ayuda a entender el concepto de rotación de activos y gestión del riesgo en los mercados.",
-      "explicacion": "Información reciente de mercados recogida por Investing.com España señala movimientos significativos de grandes inversores, como la reducción de posiciones en valores tecnológicos punteros como Nvidia antes de cambios directivos clave. En los mercados financieros, este tipo de decisiones responde a estrategias de toma de beneficios, rebalanceo de carteras y gestión prudente del riesgo ante valoraciones exigentes, más que a un juicio absoluto sobre el futuro de una compañía.",
-      "conexion": "Conecta con la economía global y el análisis del comportamiento del inversor ante la incertidumbre.",
-      "pregunta": "¿Qué objetivo persigue generalmente un gran inversor al reducir parcialmente su posición en un activo altamente valorado?",
+      "titulo": "Lectura de mercado: cómo reaccionan las acciones industriales ante la incertidumbre",
+      "por_que": "Observar el comportamiento bursátil de empresas de bienes de capital ayuda a entender las expectativas reales sobre la economía real.",
+      "explicacion": "Recientemente se han registrado caídas y movimientos analíticos en acciones de grandes corporaciones industriales como Caterpillar. En los mercados financieros, el comportamiento de este sector suele actuar como un termómetro de la inversión en infraestructuras y la actividad económica global, reflejando el optimismo o la cautela de los inversores institucionales.",
+      "conexion": "Conecta el análisis bursátil con los ciclos económicos macroeconómicos y la salud del sector industrial.",
+      "pregunta": "¿Qué suele reflejar el comportamiento bursátil de grandes empresas industriales sobre la economía?",
       "fuente": "Investing.com España",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1k1azRaVkdROWhKRXc0SVUyUUF2ZzV0LTBERzRJNTcweE1tNHRTVEFod3VkMmYtQV95VUh3Ry05cjd6cURvQ1IycEg1RTY4a0JCbjE5dFNHNjI4d0FOQUc4RGRnc2xQTjhZenc3WkJsU0dxYkpiMEJ4SmM3eWdUajVEX1U5X1RSY09EdkVyOXlidGZkVkRzOE8zb3B1RjVkWWVZVmRtaGNWeXVhWnNPX1pwLXYtWEgtMzY4T3BVc0JZaEVDYWc?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQm9BQXhnYWRSejJIYk1ScThjV2gwNTNXNklUM19QOEhtZXZZZ1BaRFN5RnVPZnB1Y0NYOW9kSGlTemJfbzdULVNhdEJjM2NqejA5SHZZMEFNWlJzMzNhOXUtY2pLdG04Z3U2czdaeU1tM3dzUzY2Y1RmUGNaOHBzS2w1b0U2Sjl4OFZVcmtIa0FNWFFESVI1SnZjNW9iT0xmNmxub2JiRDE?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Interpretación técnica: Potencia, par motor y asistencia en sistemas de propulsión",
-      "por_que": "Comprender la diferencia entre potencia y par motor es un principio mecánico básico que se aplica tanto al diseño de bicicletas asistidas y motocicletas como a motores industriales.",
-      "explicacion": "A partir de análisis técnicos sobre sistemas de propulsión moderna publicados en medios especializados como TodoMountainBike, resulta fundamental distinguir entre dos conceptos mecánicos clave. El par motor (torque) mide la fuerza de giro y determina la capacidad de aceleración desde parado o en pendientes pronunciadas, mientras que la potencia indica la cantidad de trabajo que el motor puede realizar por unidad de tiempo, afectando principalmente a la velocidad máxima.",
-      "conexion": "Se conecta con la física aplicada y la ingeniería mecánica básica de vehículos de dos ruedas.",
-      "pregunta": "¿Cuál es la diferencia práctica principal entre el par motor (torque) y la potencia en un motor?",
+      "titulo": "Interpretación de cifras técnicas: potencia, par motor y asistencia",
+      "por_que": "Entender la física detrás de los motores eléctricos y térmicos te otorga criterio técnico para evaluar rendimientos mecánicos.",
+      "explicacion": "En el análisis de vehículos y sistemas de propulsión modernos, es fundamental distinguir entre potencia (la velocidad a la que se realiza un trabajo) y par motor o torque (la fuerza de giro que permite mover peso desde parado). Mientras que la potencia define la velocidad máxima, el par motor determina la capacidad de aceleración y respuesta bajo carga.",
+      "conexion": "Se relaciona con los principios básicos de la física mecánica aplicados a cualquier motor.",
+      "pregunta": "¿Qué mide exactamente el par motor o torque en un sistema de propulsión?",
       "fuente": "TodoMountainBike",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "Geopolítica y transición política en América Latina: El caso de Venezuela",
-      "por_que": "Desarrollar una cultura general amplia implica comprender los procesos de transición política y económica que transforman el panorama regional y las relaciones internacionales.",
-      "explicacion": "Medios internacionales como Reuters han reportado sobre el interés de inversores extranjeros y organismos multilaterales como el BID en el contexto de la transición política y económica en Venezuela. Estos procesos complejos combinan la reconstrucción de infraestructuras, la estabilización institucional y la reactivación de flujos comerciales internacionales tras años de aislamiento económico.",
-      "conexion": "Conecta con la economía internacional y el impacto de los cambios de régimen político en los mercados globales.",
-      "pregunta": "¿Qué papel juegan los organismos multilaterales de desarrollo en los procesos de transición política y económica de un país?",
-      "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZERTZGhOX0VNTVExQ19HN0xWOURhLVUySWZlMlgzQ2NGcE16eFRFMHJvVzBycnY2QUZhQ3VZWVdYRlVQaXZzMEJUU0d1Zkk3Ym90N3Y3REg1bm1lcXdFNDhldVdwNmdBVXBKcHltdnhySDBSZ09nTDFrSmJocm9IMzFpcmRPTDNRS3hDdTA3RTBycWg3TjRqalYyVQ?oc=5"
+      "titulo": "El origen de la industria del entretenimiento interactivo global",
+      "por_que": "Conocer la historia de industrias creativas masivas amplía tu perspectiva sobre cómo nacen y escalan los modelos de negocio disruptivos.",
+      "explicacion": "Estudios históricos sobre el desarrollo de grandes franquicias de videojuegos, como los inicios de Grand Theft Auto por pequeños estudios en Escocia, muestran cómo la creatividad audaz y la asunción de riesgos transformaron un sector marginal en la industria de entretenimiento más lucrativa del mundo actual, superando al cine.",
+      "conexion": "Conecta la dirección de industrias creativas con la evolución de la economía digital moderna.",
+      "pregunta": "¿Qué factor impulsó principalmente el éxito inicial de los primeros desarrolladores independientes en esta industria?",
+      "fuente": "BBC",
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aHBfUUJtZkl3TERIdHkzLUIxdXJVT2hUeERENnVBM0NYYUxmWFU1dlNOc25KY1lKejU2ZEUxTHVQX3BFeE5iR2JHR0ZjRWs5dDc3VWpFTkR4Y2RW0gFiQVVfeXFMTXpoUWlaX0hIeEpKaUNOeGZJd21HaXJvS1A5Qkk2NF9QUFRmQVcwZ3Jkb0lLVmlBR1I4d0g5M3NWU3NJNkNXZmhLT2VNWXgzVV9ybm5FTzZfM1czUkpYNWdKOUE?oc=5"
     }
   ]
 }
