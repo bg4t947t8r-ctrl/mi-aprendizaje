@@ -1,76 +1,76 @@
 {
   "titulo": "Briefing Personal de Aprendizaje para Pedro",
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-19",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "La importancia de la administración judicial y la continuidad del negocio",
-      "por_que": "Como directivo, debes entender qué ocurre cuando una empresa entra en procesos legales complejos y cómo afecta a su estabilidad.",
-      "explicacion": "Recientemente se ha analizado el impacto que tiene la administración judicial en empresas de rápido crecimiento como Revolut. Cuando una organización se enfrenta a procesos de esta magnitud, se pone a prueba la resiliencia de su estructura de gobernanza y la capacidad de la dirección para mantener la confianza de clientes y reguladores.",
-      "conexion": "Se conecta directamente con la gestión de riesgos legales y la solidez operativa que toda empresa necesita para evitar parálisis.",
-      "pregunta": "¿Qué aspecto clave de la gobernanza se pone a prueba durante una intervención judicial?",
+      "titulo": "La importancia de la diversificación y la gestión de riesgos geopolíticos en la estrategia de expansión",
+      "por_que": "Como empresario, entender cómo los cambios en las relaciones internacionales y los acuerdos comerciales afectan a las cadenas de suministro y a la estabilidad de los mercados te permite anticiparte a las crisis y proteger tu negocio frente a imprevistos externos.",
+      "explicacion": "Recientemente, líderes globales como los de EE. UU., México y otros países se han reunido en cumbres como la APEC para negociar acuerdos comerciales cruciales. A nivel empresarial, esto demuestra que ninguna compañía opera en el vacío; las decisiones macroeconómicas y los tratados internacionales alteran directamente los costos de importación, las regulaciones y la competencia. Un buen directivo no solo optimiza sus procesos internos, sino que analiza constantemente el entorno político y económico global para diversificar sus proveedores y mercados.",
+      "conexion": "Se conecta directamente con el área de economía y mercados financieros, ya que las tensiones geopolíticas y los acuerdos comerciales influyen de manera inmediata en la inflación y en las decisiones de los bancos centrales sobre los tipos de interés.",
+      "pregunta": "¿Por qué un empresario debería vigilar los acuerdos comerciales internacionales aunque su negocio opere principalmente a nivel local?",
       "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUtHTXhXeG5haF9PeGN6aWVDRzdwejZOZHNyWmZTTXpKc2Fwa3VsZ0Q1VnZNc3lVSmltbFdzMjQtQ2E1ZGxhZlJjX19yRHVKNmF1QmZ1eEJ3UVh2eW1HUU5qMnctQXp1d1NUNkk4XzJ4TWlibHRPXzZmOWdIdU5fdFo4d2h2M1ZhbHpGNmtGZWdGMTg2bFNGV0Z4MzNDd2syblpaa0NmeHhScmRmb0lR?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "La vulnerabilidad invisible de los sistemas interconectados",
-      "por_que": "A medida que automatizas procesos y dependes de software, la ciberseguridad deja de ser un tema técnico para convertirse en un riesgo directivo crítico.",
-      "explicacion": "Se ha reportado un ciberataque contra los sistemas informáticos de Equinor, evidenciando que la automatización y la digitalización aumentan la superficie de exposición ante amenazas externas. Para un empresario, esto significa que cada nueva herramienta automatizada debe venir acompañada de estrictos protocolos de auditoría y protección de datos.",
-      "conexion": "Relacionado con la resiliencia tecnológica y la continuidad operativa ante fallos de sistemas.",
-      "pregunta": "¿Por qué un mayor nivel de automatización e interconexión incrementa el riesgo de ciberseguridad?",
-      "fuente": "Reuters",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5"
+      "titulo": "Integración de Inteligencia Artificial en procesos industriales para ganar eficiencia",
+      "por_que": "La automatización avanzada con IA ya no es exclusiva de las grandes multinacionales; entender cómo aplicar estas tecnologías en la industria permite reducir errores operativos, optimizar inventarios y escalar operaciones con menor coste marginal.",
+      "explicacion": "Recientemente, diversas empresas tecnológicas están impulsando plataformas de inteligencia artificial diseñadas específicamente para optimizar la industria y los procesos operativos estadounidenses. Para un directivo de nivel medio-bajo en automatización, el concepto clave es pasar de tareas repetitivas manuales a flujos donde la IA analiza datos operativos en tiempo real para tomar decisiones o sugerir mantenimientos preventivos. La clave no es automatizar por automatizar, sino identificar cuellos de botella donde el software y los algoritmos aporten mayor velocidad y precisión.",
+      "conexion": "Se relaciona con la dirección empresarial y la gestión de equipos, ya que la introducción de herramientas automatizadas exige redefinir los roles del personal para que se centren en tareas de mayor valor añadido.",
+      "pregunta": "¿Cuál es la principal diferencia entre automatizar una tarea repetitiva mediante software tradicional y utilizar inteligencia artificial?",
+      "fuente": "TradingView",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXh0RXB2aE9tZWgtZzZ2a0pZVXZTS3lyNlZyNThwdDMwNlR4ckpjTXhpWS1TZ3FQelpTZk1QZ1ZqS190TlJ1NF9XS0IzUUF4WWRBSndYQXlyM0d3OEdnaktQSTJ4R3JOa24zckJCc0hnRTZFdVNJc1FTUEo4cEdzUVd4Y2doS2VTWnBRUy0yQVNkMTVvMW1FRXktTTNwZW1JTGxiOHlsU2VfcTFWa2s0RUpPUldMN21haFdSclRR?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "El peligro invisible del 'Value Drift' en organizaciones asistidas por IA",
-      "por_que": "La cultura y los valores de tu equipo pueden diluirse silenciosamente si introduces herramientas tecnológicas sin una alineación adecuada.",
-      "explicacion": "Expertos en prevención y gestión han señalado el riesgo del 'value drift' o deriva de valores al integrar inteligencia artificial en las organizaciones. Cuando los equipos delegan decisiones operativas en algoritmos sin supervisión humana basada en principios claros, la cultura corporativa y la cohesión interna pueden desviarse de su propósito original.",
-      "conexion": "Conecta la tecnología con la psicología organizacional y el liderazgo basado en valores.",
-      "pregunta": "¿Qué nombre recibe el fenómeno donde los valores de la organización se desvían sutilmente al integrar inteligencia artificial?",
-      "fuente": "Prevención Integral",
-      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORUxhMG5FT2QzTU05cm1BbHZ1bTdMaXVob2tCX2FJS0JvaWFjaVl4Q29CMzRUQVNEczFNMndoX3lHanFFR1VnSDVSR25FdnQ2ei0tTEhSUkt6RHFsVHdRbVI1ek84UmM3Ykdud09yQ3dXaW1UWkRXMTJTYTFlMmswSEV1QkdQUnUzOEdDZzZQd0psTVRFS3hIVzhMX0xTd05wcWx5OUpXYXdoN2Z4ajdaakYzZTZwMWhiY3hyUlZhcWRRdk9feEJxdTZOSXJOc1JUbmJNSUxCZ2o1RXYtYTJ5dUlYRzZ3YkZEU21ZZWpBckIzdw?oc=5"
+      "titulo": "La diversidad laboral como motor de innovación y retención del talento",
+      "por_que": "Un equipo homogéneo tiende a cometer los mismos sesgos y errores. Fomentar la diversidad de perfiles, orígenes y formas de pensar mejora la resolución de problemas complejos y aumenta el compromiso de los empleados.",
+      "explicacion": "El piloto de Fórmula 1 Lewis Hamilton ha señalado recientemente que el sector del motor y las grandes organizaciones aún tienen un amplio margen de mejora en cuanto a la diversidad laboral. En el ámbito de la gestión de equipos, esto nos enseña que la diversidad no es una simple métrica de relaciones públicas, sino una ventaja competitiva. Los equipos diversos aportan perspectivas variadas que ayudan a detectar riesgos que otros pasan por alto y fomentan una cultura de innovación continua, fundamental para cualquier empresa en crecimiento.",
+      "conexion": "Conecta con la cultura general y la dirección empresarial, al entender cómo los sesgos cognitivos grupales (groupthink) limitan el éxito de una organización.",
+      "pregunta": "¿Cómo puede un directivo fomentar la diversidad de opiniones en un equipo que tiende a estar siempre de acuerdo con su jefe?",
+      "fuente": "AP News",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUhqQl9QRmpMbUw3M2NSelhnSENLM1BSSUhvaV9mbG5tazE3MDB0Y1o1NkIwUndYU0MtdkJ0RGkxaVBmMFpCLWVoZHVxdmFpSGNCX2FTX3djTmxxU3JjYTEwdEltdF9ESm9xVWVDeU9reTdHSGMtQkd5SER2ZkJFYTNvcUVIVFNQYnphdkpFTUp0Zw?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "El impacto inflacionario de los conflictos geopolíticos globales",
-      "por_que": "Comprender la macroeconomía te permite anticipar subidas de costes en materias primas, energía y financiación para tu negocio.",
-      "explicacion": "Los bancos centrales y organismos internacionales continúan ajustando sus previsiones de inflación debido a la incertidumbre generada por conflictos internacionales. Estos escenarios alteran las cadenas de suministro globales, encareciendo los costes de producción y obligando a mantener tipos de interés elevados para contener la subida de precios.",
-      "conexion": "Vinculado con la planificación financiera a corto y medio plazo para empresas expuestas a costes energéticos.",
-      "pregunta": "¿Qué efecto directo suelen tener los conflictos geopolíticos globales sobre las previsiones de inflación?",
-      "fuente": "Le Monde.fr",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnRXcVRQaUJvOE1ncGtyaloxS0FSSWVOWExvVTNQZzdjTHdGMDczRnlIcWdrZkZROTNscDRnWmtUSDVJS0ctMm1yVzE5Q25kdy1DR1V4ZTM2Qks2cDBTV05XN25lU1JiUmZNaXZocm5wV0Z6cWFlTUhNcE9ZMXNRM1d0dVYtTGFjRTV0SlI3UmNmVF9Mc0M5Z2FXdWNLb1pid3VURlR2bTJEaVYtWHBtR2F6OXhPcFBnVHV4eHk2Uy1NbmdXdGJsd2tCMA?oc=5"
+      "titulo": "El impacto de la inflación persistente y los tipos de interés en la planificación a largo plazo",
+      "por_que": "Para un empresario, comprender cómo interactúan la inflación y los tipos de interés es vital para gestionar la tesorería, fijar precios de forma correcta y decidir cuándo endeudarse para crecer o cuándo conservar liquidez.",
+      "explicacion": "Los análisis económicos recientes coinciden en que la combinación de una alta inflación y tipos de interés elevados ralentiza el crecimiento económico global y encarece el coste del dinero. Cuando los bancos centrales mantienen los tipos altos para enfriar la subida de precios, financiarse se vuelve más costoso tanto para las familias como para las empresas. Esto obliga a los directivos a ser extremadamente rigurosos con el capital de trabajo, priorizando la rentabilidad por encima del crecimiento desordenado basado en deuda barata.",
+      "conexion": "Tiene una conexión directa con la bolsa y los mercados financieros, ya que el coste del dinero determina la valoración de las empresas y el atractivo de invertir en renta fija frente a renta variable.",
+      "pregunta": "¿Qué ocurre generalmente con el coste de financiación de una empresa cuando un banco central decide mantener los tipos de interés elevados para combatir la inflación?",
+      "fuente": "Economía",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxRmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Lectura de mercado: cómo reaccionan las acciones industriales ante la incertidumbre",
-      "por_que": "Observar el comportamiento bursátil de empresas de bienes de capital ayuda a entender las expectativas reales sobre la economía real.",
-      "explicacion": "Recientemente se han registrado caídas y movimientos analíticos en acciones de grandes corporaciones industriales como Caterpillar. En los mercados financieros, el comportamiento de este sector suele actuar como un termómetro de la inversión en infraestructuras y la actividad económica global, reflejando el optimismo o la cautela de los inversores institucionales.",
-      "conexion": "Conecta el análisis bursátil con los ciclos económicos macroeconómicos y la salud del sector industrial.",
-      "pregunta": "¿Qué suele reflejar el comportamiento bursátil de grandes empresas industriales sobre la economía?",
-      "fuente": "Investing.com España",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQm9BQXhnYWRSejJIYk1ScThjV2gwNTNXNklUM19QOEhtZXZZZ1BaRFN5RnVPZnB1Y0NYOW9kSGlTemJfbzdULVNhdEJjM2NqejA5SHZZMEFNWlJzMzNhOXUtY2pLdG04Z3U2czdaeU1tM3dzUzY2Y1RmUGNaOHBzS2w1b0U2Sjl4OFZVcmtIa0FNWFFESVI1SnZjNW9iT0xmNmxub2JiRDE?oc=5"
+      "titulo": "Entendiendo las fluctuaciones bursátiles y la reacción de los inversores ante resultados corporativos",
+      "por_que": "Aunque no operes en bolsa a diario, entender por qué suben o bajan las acciones te ayuda a comprender cómo valora el mercado la salud y el futuro de las empresas, ofreciéndote lecciones aplicables a la gestión de tu propio negocio.",
+      "explicacion": "Las variaciones diarias en los mercados de valores, como las caídas o subidas puntuales en acciones de sectores específicos o tecnológicas, suelen reflejar cambios en las expectativas de futuro más que en el rendimiento pasado. Los inversores compran o venden basándose en previsiones de beneficios, tipos de interés y riesgos sectoriales. Para un empresario, esto enseña una lección clave: el mercado (ya sean inversores, socios o clientes) siempre valora el potencial futuro y la certidumbre, castigando la falta de claridad o los riesgos imprevistos.",
+      "conexion": "Conecta con la economía y la dirección empresarial, vinculando la salud financiera macroeconómica con la valoración microeconómica de las compañías.",
+      "pregunta": "En los mercados financieros, ¿por qué el precio de una acción puede caer incluso cuando la empresa ha tenido buenos resultados en el último trimestre?",
+      "fuente": "Mercados",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjRwWTBxMkJCdF9FNG16bU1laTkzbVotaXg0VExwQnlEUlhWNXZ2Smxiem5nRVNhUmhibzBTU1preTY4UGZtZ2dhSUd3LW5nN2M1MnE3REFiWE81NGp3cXdZOC1FLXNTdksyRWVySFQ5bm5qb1V0WDlaMU1TLU9UNWFLWEpXVUZ0VVpHaGxSOUsxcmZ1RnVQSURqRWF5bmktYjlNSjktOWtqZlpqY0E?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Interpretación de cifras técnicas: potencia, par motor y asistencia",
-      "por_que": "Entender la física detrás de los motores eléctricos y térmicos te otorga criterio técnico para evaluar rendimientos mecánicos.",
-      "explicacion": "En el análisis de vehículos y sistemas de propulsión modernos, es fundamental distinguir entre potencia (la velocidad a la que se realiza un trabajo) y par motor o torque (la fuerza de giro que permite mover peso desde parado). Mientras que la potencia define la velocidad máxima, el par motor determina la capacidad de aceleración y respuesta bajo carga.",
-      "conexion": "Se relaciona con los principios básicos de la física mecánica aplicados a cualquier motor.",
-      "pregunta": "¿Qué mide exactamente el par motor o torque en un sistema de propulsión?",
-      "fuente": "TodoMountainBike",
+      "titulo": "Cómo interpretar las cifras clave: potencia frente a par motor en sistemas de propulsión",
+      "por_que": "Comprender la diferencia mecánica entre la potencia máxima y el par motor te ayuda a entender cómo se comportan los vehículos, permitiéndote tomar mejores decisiones técnicas al evaluar motores térmicos o eléctricos.",
+      "explicacion": "Al analizar especificaciones técnicas de vehículos, es común confundir la potencia (medida en caballos o kilovatios) con el par motor (el momento de fuerza medido en Nm). La potencia determina la velocidad máxima que puede alcanzar el vehículo y cómo se desenvuelve a altas revoluciones. Por el contrario, el par motor es la fuerza de giro instantánea, la cual define la capacidad de aceleración desde parado y la soltura para superar pendientes pronunciadas sin esfuerzo. En mecánica, un motor con alto par ofrece una respuesta más directa y ágil a bajas vueltas.",
+      "conexion": "Se conecta con la automatización y la ingeniería industrial, donde los conceptos de par y velocidad angular se aplican directamente al diseño de servomotores y maquinaria automatizada.",
+      "pregunta": "¿Qué magnitud mecánica explica que un vehículo tenga una gran capacidad de aceleración desde parado en una cuesta empinada: la potencia o el par motor?",
+      "fuente": "Motociclismo",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "El origen de la industria del entretenimiento interactivo global",
-      "por_que": "Conocer la historia de industrias creativas masivas amplía tu perspectiva sobre cómo nacen y escalan los modelos de negocio disruptivos.",
-      "explicacion": "Estudios históricos sobre el desarrollo de grandes franquicias de videojuegos, como los inicios de Grand Theft Auto por pequeños estudios en Escocia, muestran cómo la creatividad audaz y la asunción de riesgos transformaron un sector marginal en la industria de entretenimiento más lucrativa del mundo actual, superando al cine.",
-      "conexion": "Conecta la dirección de industrias creativas con la evolución de la economía digital moderna.",
-      "pregunta": "¿Qué factor impulsó principalmente el éxito inicial de los primeros desarrolladores independientes en esta industria?",
+      "titulo": "El valor histórico y los dilemas éticos detrás de la preservación del patrimonio artístico mundial",
+      "por_que": "Desarrollar una cultura general sólida amplía tu pensamiento crítico, mejora tus habilidades de conversación en círculos ejecutivos y te ayuda a comprender la compleja historia que ha dado forma a la sociedad actual.",
+      "explicacion": "Recientes acontecimientos en el mundo del arte, como la subasta histórica de obras maestras de Vincent van Gogh por sumas récord, suelen venir acompañados de complejos trasfondos históricos, debates sobre la procedencia de los bienes y su paso por diferentes contextos geopolíticos a lo largo del siglo XX. Estudiar estos eventos no solo cultiva la sensibilidad estética, sino que entrena la mente para analizar la procedencia de los activos, la memoria histórica y cómo el valor de los bienes culturales es una construcción social influenciada por la escasez, el prestigio y el contexto temporal.",
+      "conexion": "Conecta con la economía y los mercados de inversión alternativa, donde el arte y los bienes de lujo funcionan como refugios de valor y símbolos de estatus a lo largo de las décadas.",
+      "pregunta": "¿Por qué obras de arte de un mismo autor histórico pueden alcanzar valoraciones multimillonarias extraordinarias en comparación con otras de calidad técnica similar?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aHBfUUJtZkl3TERIdHkzLUIxdXJVT2hUeERENnVBM0NYYUxmWFU1dlNOc25KY1lKejU2ZEUxTHVQX3BFeE5iR2JHR0ZjRWs5dDc3VWpFTkR4Y2RW0gFiQVVfeXFMTXpoUWlaX0hIeEpKaUNOeGZJd21HaXJvS1A5Qkk2NF9QUFRmQVcwZ3Jkb0lLVmlBR1I4d0g5M3NWU3NJNkNXZmhLT2VNWXgzVV9ybm5FTzZfM1czUkpYNWdKOUE?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWGV6d1UwSURQclgtVFBlQ21LLWJ3SnBsam9vNlNtVzVPREJiX3I0UktDMXZwVkRXQUJkU2gyLXFnY1lBaU5NWmtZdGNqdHZNSE01QUppY2I1cXlS0gFiQVVfeXFMTUR0N0dSMnJRVE05V2ZYbVFlLXpWQWFjTUlnWjJCYjBRbm1YaUtTRlNvQ1lvbWx0cFpZb3ozdDY2bU4wUWFjdDJtRVFxZVVtTThJVDgxODd2UWFjQS11S3Q1cHc?oc=5"
     }
   ]
 }
