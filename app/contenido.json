@@ -1,76 +1,76 @@
 {
-  "titulo": "Briefing Personal de Aprendizaje para Pedro",
-  "fecha": "2026-11-19",
+  "titulo": "Briefing Diario de Aprendizaje de Pedro",
+  "fecha": "2026-11-20",
   "items": [
     {
       "area": "Dirección empresarial",
-      "titulo": "La importancia de la diversificación y la gestión de riesgos geopolíticos en la estrategia de expansión",
-      "por_que": "Como empresario, entender cómo los cambios en las relaciones internacionales y los acuerdos comerciales afectan a las cadenas de suministro y a la estabilidad de los mercados te permite anticiparte a las crisis y proteger tu negocio frente a imprevistos externos.",
-      "explicacion": "Recientemente, líderes globales como los de EE. UU., México y otros países se han reunido en cumbres como la APEC para negociar acuerdos comerciales cruciales. A nivel empresarial, esto demuestra que ninguna compañía opera en el vacío; las decisiones macroeconómicas y los tratados internacionales alteran directamente los costos de importación, las regulaciones y la competencia. Un buen directivo no solo optimiza sus procesos internos, sino que analiza constantemente el entorno político y económico global para diversificar sus proveedores y mercados.",
-      "conexion": "Se conecta directamente con el área de economía y mercados financieros, ya que las tensiones geopolíticas y los acuerdos comerciales influyen de manera inmediata en la inflación y en las decisiones de los bancos centrales sobre los tipos de interés.",
-      "pregunta": "¿Por qué un empresario debería vigilar los acuerdos comerciales internacionales aunque su negocio opere principalmente a nivel local?",
+      "titulo": "Negociación comercial internacional y resiliencia estratégica",
+      "por_que": "Como directivo, entender cómo las altas esferas gubernamentales y empresariales estructuran acuerdos comerciales te permite anticipar cambios regulatorios y proteger tu cadena de suministro.",
+      "explicacion": "Recientemente, la presidenta de México, Claudia Sheinbaum, declaró que las conversaciones comerciales con Estados Unidos están muy avanzadas tras reunirse con Donald Trump en el marco de la APEC, con la esperanza de sellar un acuerdo definitivo. En dirección empresarial, esto ilustra cómo la diplomacia corporativa y la negociación de alto nivel son palancas críticas para mitigar riesgos geopolíticos. Un directivo no puede operar aislado de su entorno macroeconómico; debe evaluar constantemente cómo los tratados bilaterales impactan aranceles, costos de importación y la competitividad de su sector.",
+      "conexion": "Se conecta directamente con el área de Economía y con la comprensión de los ciclos de mercado y las políticas fiscales.",
+      "pregunta": "¿Qué impacto directo puede tener un cambio en un tratado comercial internacional sobre la estructura de costos de tu propia empresa?",
       "fuente": "Reuters",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUtHTXhXeG5haF9PeGN6aWVDRzdwejZOZHNyWmZTTXpKc2Fwa3VsZ0Q1VnZNc3lVSmltbFdzMjQtQ2E1ZGxhZlJjX19yRHVKNmF1QmZ1eEJ3UVh2eW1HUU5qMnctQXp1d1NUNkk4XzJ4TWlibHRPXzZmOWdIdU5fdFo4d2h2M1ZhbHpGNmtGZWdGMTg2bFNGV0Z4MzNDd2syblpaa0NmeHhScmRmb0lR?oc=5"
     },
     {
       "area": "Automatización",
-      "titulo": "Integración de Inteligencia Artificial en procesos industriales para ganar eficiencia",
-      "por_que": "La automatización avanzada con IA ya no es exclusiva de las grandes multinacionales; entender cómo aplicar estas tecnologías en la industria permite reducir errores operativos, optimizar inventarios y escalar operaciones con menor coste marginal.",
-      "explicacion": "Recientemente, diversas empresas tecnológicas están impulsando plataformas de inteligencia artificial diseñadas específicamente para optimizar la industria y los procesos operativos estadounidenses. Para un directivo de nivel medio-bajo en automatización, el concepto clave es pasar de tareas repetitivas manuales a flujos donde la IA analiza datos operativos en tiempo real para tomar decisiones o sugerir mantenimientos preventivos. La clave no es automatizar por automatizar, sino identificar cuellos de botella donde el software y los algoritmos aporten mayor velocidad y precisión.",
-      "conexion": "Se relaciona con la dirección empresarial y la gestión de equipos, ya que la introducción de herramientas automatizadas exige redefinir los roles del personal para que se centren en tareas de mayor valor añadido.",
-      "pregunta": "¿Cuál es la principal diferencia entre automatizar una tarea repetitiva mediante software tradicional y utilizar inteligencia artificial?",
-      "fuente": "TradingView",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXh0RXB2aE9tZWgtZzZ2a0pZVXZTS3lyNlZyNThwdDMwNlR4ckpjTXhpWS1TZ3FQelpTZk1QZ1ZqS190TlJ1NF9XS0IzUUF4WWRBSndYQXlyM0d3OEdnaktQSTJ4R3JOa24zckJCc0hnRTZFdVNJc1FTUEo4cEdzUVd4Y2doS2VTWnBRUy0yQVNkMTVvMW1FRXktTTNwZW1JTGxiOHlsU2VfcTFWa2s0RUpPUldMN21haFdSclRR?oc=5"
+      "titulo": "Ingeniería de IA desplegada: el nuevo rol clave",
+      "por_que": "La automatización avanzada ya no trata solo de conectar software básico, sino de integrar agentes inteligentes que resuelven problemas complejos en tiempo real dentro de las operaciones.",
+      "explicacion": "El mercado laboral tecnológico está experimentando un auge con el puesto de 'Forward Deployed AI Engineering', un perfil especializado en llevar soluciones de inteligencia artificial directamente al campo operativo de las empresas. Para un empresario, esto significa que la automatización está evolucionando: pasamos de herramientas estáticas de software a sistemas dinámicos que se adaptan al flujo de trabajo específico de cada organización, reduciendo la fricción operativa y eliminando tareas manuales repetitivas.",
+      "conexion": "Guarda estrecha relación con la gestión eficiente de equipos y la optimización de procesos internos.",
+      "pregunta": "¿Cuál es el proceso más repetitivo en tu operativa actual que podría beneficiarse de un enfoque de automatización avanzada?",
+      "fuente": "iProfesional",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbl9wNDZwdVpHR3IySGxxUkk3RUJ3S1c4UU1JcWlrdHdVMjRmdjZSbWNJclFxVjdlUXJTZHJEVFJSc2xGbEVEemp4VXY5Y3pqbEQtcmZoNTlzanF1dTY0aTBxd3ZjRFBCSUN3c2FrMk5QVjBMcms4YkJOanRabjlkTFlTN3lRM1dqeGRHOFJ2ZnV4SzdqSFR3am5WbUwyR0JmX3VQMUQ5em9PXzdEX1QxbjNDUVNtWV9TdUl3aEhPN3hZQzg3M0ZCNdIBzgFBVV95cUxPN0NST3o5bkQ5OFUwR0dScVlRcWtmeDY1aUFKRDlIc1dWVVZtQmZSczJ2Zk9aS3pRSnVpZ0FRc0tPSU5McU9wX0RNcUNKSElMSE45SVBZZ0VNNV9nVnE2MlM1MHZHZ2hRUjVRX3A4RVhtVGxqdGduUHVqelJFUnBORUg1d2JDYUlkZW5id3JHYnREWS1iclBSR3p5Sk1GbVh4YUdlaDU2Wm11cXBlUUJNa0czS09YYWMyYUhrOUxwNFlnVnpkLTFVU1F5WEtDQQ?oc=5"
     },
     {
       "area": "Gestión de equipos",
-      "titulo": "La diversidad laboral como motor de innovación y retención del talento",
-      "por_que": "Un equipo homogéneo tiende a cometer los mismos sesgos y errores. Fomentar la diversidad de perfiles, orígenes y formas de pensar mejora la resolución de problemas complejos y aumenta el compromiso de los empleados.",
-      "explicacion": "El piloto de Fórmula 1 Lewis Hamilton ha señalado recientemente que el sector del motor y las grandes organizaciones aún tienen un amplio margen de mejora en cuanto a la diversidad laboral. En el ámbito de la gestión de equipos, esto nos enseña que la diversidad no es una simple métrica de relaciones públicas, sino una ventaja competitiva. Los equipos diversos aportan perspectivas variadas que ayudan a detectar riesgos que otros pasan por alto y fomentan una cultura de innovación continua, fundamental para cualquier empresa en crecimiento.",
-      "conexion": "Conecta con la cultura general y la dirección empresarial, al entender cómo los sesgos cognitivos grupales (groupthink) limitan el éxito de una organización.",
-      "pregunta": "¿Cómo puede un directivo fomentar la diversidad de opiniones en un equipo que tiende a estar siempre de acuerdo con su jefe?",
+      "titulo": "La protección del activo intangible: imagen y reputación",
+      "por_que": "Un líder debe salvaguardar la integridad de su marca personal y corporativa frente a los riesgos tecnológicos y legales emergentes en el entorno digital.",
+      "explicacion": "Recientemente, figuras públicas como LeBron James han tomado medidas legales contra creadores de aplicaciones que utilizan su imagen y apodo mediante inteligencia artificial sin autorización. A nivel de gestión y dirección, este tipo de situaciones nos recuerda la vulnerabilidad de los activos intangibles en la era digital. Como directivo, debes establecer directrices claras de cumplimiento normativo y proteger tanto la identidad de tu empresa como la de los miembros de tu equipo frente al uso indebido de su imagen o reputación.",
+      "conexion": "Conecta con la dirección empresarial y la ética corporativa en la implementación de nuevas tecnologías.",
+      "pregunta": "¿Tienes identificados y protegidos los principales activos intangibles de tu negocio ante posibles usos no autorizados?",
       "fuente": "AP News",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUhqQl9QRmpMbUw3M2NSelhnSENLM1BSSUhvaV9mbG5tazE3MDB0Y1o1NkIwUndYU0MtdkJ0RGkxaVBmMFpCLWVoZHVxdmFpSGNCX2FTX3djTmxxU3JjYTEwdEltdF9ESm9xVWVDeU9reTdHSGMtQkd5SER2ZkJFYTNvcUVIVFNQYnphdkpFTUp0Zw?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORENsU2NWaXVCcTJBYjNPVzFyVnRPMF9zbVVibEo3NjItQV9zVFl1TUdPUGJkWGlmM1pTeGZmZUlpY3FaSFdsS3JXVFNaMUNVaUl1V1lDc3RnX2dOb2dlSFZaNU5icnpoZjQ3YkZ4eXVHeGkwOGgweXBPWGZyZ0lxa2VjN2hDTmdzVXRzZTRtUXNJeGJiMlEtOEhTcFpzRW5vejc5aHBDUE1yQQ?oc=5"
     },
     {
       "area": "Economía",
-      "titulo": "El impacto de la inflación persistente y los tipos de interés en la planificación a largo plazo",
-      "por_que": "Para un empresario, comprender cómo interactúan la inflación y los tipos de interés es vital para gestionar la tesorería, fijar precios de forma correcta y decidir cuándo endeudarse para crecer o cuándo conservar liquidez.",
-      "explicacion": "Los análisis económicos recientes coinciden en que la combinación de una alta inflación y tipos de interés elevados ralentiza el crecimiento económico global y encarece el coste del dinero. Cuando los bancos centrales mantienen los tipos altos para enfriar la subida de precios, financiarse se vuelve más costoso tanto para las familias como para las empresas. Esto obliga a los directivos a ser extremadamente rigurosos con el capital de trabajo, priorizando la rentabilidad por encima del crecimiento desordenado basado en deuda barata.",
-      "conexion": "Tiene una conexión directa con la bolsa y los mercados financieros, ya que el coste del dinero determina la valoración de las empresas y el atractivo de invertir en renta fija frente a renta variable.",
-      "pregunta": "¿Qué ocurre generalmente con el coste de financiación de una empresa cuando un banco central decide mantener los tipos de interés elevados para combatir la inflación?",
-      "fuente": "Economía",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Rkdkg5UWpuUVpKaDNZSDVSTV9BRmFEYi1HaXVaWkpkWTZ2QjF5eG00X1RWb3VJMlRPcEJxYkFtbDJNM0lWWWFkQ05laG5JVlNnd2tfeWJFMXhXajhTeTQ0d1FraFNxVlFPRVhGSmJxM3pnX09mUVFGOW5RR0xRQWc0NFpCb2JobGhxWnJUd0dhaU9rMXfSAZsBQVVfeXFMTjNzZWRxTi1UVlZpR3U4MU5RNnJDQl9uNy1OSHdVWlVfcWR4bFo1QUtRSVdmZUhDZTFkRFRNR21Zem5jcWg1VnNRU0k3Zjk2VUFJeHdTSjVza3RheVNxRmxqa056aGpmSngzX0ZEN2JVR2NHUXJoUm1sRXNhZFNpbGVQZVhWbjluYUhfdUptNWJyVTgxcndqRmU4YVU?oc=5"
+      "titulo": "Presiones inflacionarias y su lectura macroeconómica",
+      "por_que": "Comprender la dinámica de la inflación y las decisiones de los bancos centrales es vital para fijar precios, planificar presupuestos y gestionar la tesorería de la empresa.",
+      "explicacion": "Los reportes económicos recientes continúan poniendo el foco en cómo el repunte de la inflación y las decisiones sobre tipos de interés por parte de los bancos centrales marcan el ritmo del crecimiento económico global. Para un empresario, la inflación no es solo una estadística de las noticias; actúa como un impuesto silencioso que encarece las materias primas, presiona al alza los costes salariales y reduce el poder adquisitivo del cliente final. Entender este entorno permite ajustar las estrategias de precios a tiempo.",
+      "conexion": "Se relaciona con el análisis de mercados financieros y la planificación financiera a medio plazo.",
+      "pregunta": "¿De qué manera protege tu modelo de negocio actual los márgenes de beneficio ante un escenario sostenido de inflación?",
+      "fuente": "TradingView",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVRTbU83dVpWX2diREtvVmFBQUEza0xJeVNfN3FwRHdvRjZGR204X3hhSVhhQnRnVGxiTnJnQmd5TkFiSW12UWhocHByWGVxVk81XzhTd01UX2Uxc1NhQjdLM044dUZNT2N1eWlwLVJIQjlJYi1qRXBUMTZTZEZnWGZSWlJxR0NSeHVaSW05cjA1WXFVaGxzOThuMF92alo5VFZGM3U1bURudW5tNmFLSTFhakxEM3RET19lWEhJVEVkdVBfZDVPS3duTQ?oc=5"
     },
     {
       "area": "Bolsa y mercados financieros",
-      "titulo": "Entendiendo las fluctuaciones bursátiles y la reacción de los inversores ante resultados corporativos",
-      "por_que": "Aunque no operes en bolsa a diario, entender por qué suben o bajan las acciones te ayuda a comprender cómo valora el mercado la salud y el futuro de las empresas, ofreciéndote lecciones aplicables a la gestión de tu propio negocio.",
-      "explicacion": "Las variaciones diarias en los mercados de valores, como las caídas o subidas puntuales en acciones de sectores específicos o tecnológicas, suelen reflejar cambios en las expectativas de futuro más que en el rendimiento pasado. Los inversores compran o venden basándose en previsiones de beneficios, tipos de interés y riesgos sectoriales. Para un empresario, esto enseña una lección clave: el mercado (ya sean inversores, socios o clientes) siempre valora el potencial futuro y la certidumbre, castigando la falta de claridad o los riesgos imprevistos.",
-      "conexion": "Conecta con la economía y la dirección empresarial, vinculando la salud financiera macroeconómica con la valoración microeconómica de las compañías.",
-      "pregunta": "En los mercados financieros, ¿por qué el precio de una acción puede caer incluso cuando la empresa ha tenido buenos resultados en el último trimestre?",
-      "fuente": "Mercados",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjRwWTBxMkJCdF9FNG16bU1laTkzbVotaXg0VExwQnlEUlhWNXZ2Smxiem5nRVNhUmhibzBTU1preTY4UGZtZ2dhSUd3LW5nN2M1MnE3REFiWE81NGp3cXdZOC1FLXNTdksyRWVySFQ5bm5qb1V0WDlaMU1TLU9UNWFLWEpXVUZ0VVpHaGxSOUsxcmZ1RnVQSURqRWF5bmktYjlNSjktOWtqZlpqY0E?oc=5"
+      "titulo": "Volatilidad bursátil e indicadores de apetito por el riesgo",
+      "por_que": "Entregar valor a largo plazo requiere entender por qué los mercados fluctúan y cómo reaccionan los inversores ante la incertidumbre global.",
+      "explicacion": "Las bolsas internacionales han registrado recientemente cierres con descensos en plazas como el Reino Unido e Italia, acompañadas de movimientos en los futuros de índices clave y picos de volatilidad debido a preocupaciones inflacionarias. En los mercados financieros, la volatilidad mide la velocidad y magnitud de los cambios de precios. Un inversor o directivo con cultura financiera entiende que las caídas bursátiles reflejan cambios en las expectativas del mercado, sirviendo como barómetro de la confianza económica general sin necesidad de caer en el pánico.",
+      "conexion": "Conecta directamente con la economía macroeconómica y la gestión del riesgo empresarial.",
+      "pregunta": "¿Qué indica un incremento repentino en la volatilidad de los mercados sobre la percepción de riesgo de los inversores?",
+      "fuente": "Investing.com México - Finanzas, Bolsa y Forex",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWTNRZldJT2RTZ0Jtd1NiZ3liYXY2M0hTY0NBTG5fZkRQZXdaM1l1enRVUmVkRFpQRGVjcHZoRVQtMzNTRGNIMmhJWEN3SkxQT1BUcHQ4Mmp3MmRWOXUxQzFGRVhRUzJsVGNud3VQaWVVNU9KdVJkNWJKZnFZV2d4Nk01eHdXcUthUXM0VkVuMFdaclgydFppdFdiZ0o2QzdCYmR4VFhoZGZ6bkNIMktza1VUa3BFbDVteURIYUpWa2lOZ3pqYmFLMnEtcmZEdjBhdFBGelc1NlRJdDg2LUlqTlBNSm91UWZYckdVRmVkNA?oc=5"
     },
     {
       "area": "Motociclismo y mecánica",
-      "titulo": "Cómo interpretar las cifras clave: potencia frente a par motor en sistemas de propulsión",
-      "por_que": "Comprender la diferencia mecánica entre la potencia máxima y el par motor te ayuda a entender cómo se comportan los vehículos, permitiéndote tomar mejores decisiones técnicas al evaluar motores térmicos o eléctricos.",
-      "explicacion": "Al analizar especificaciones técnicas de vehículos, es común confundir la potencia (medida en caballos o kilovatios) con el par motor (el momento de fuerza medido en Nm). La potencia determina la velocidad máxima que puede alcanzar el vehículo y cómo se desenvuelve a altas revoluciones. Por el contrario, el par motor es la fuerza de giro instantánea, la cual define la capacidad de aceleración desde parado y la soltura para superar pendientes pronunciadas sin esfuerzo. En mecánica, un motor con alto par ofrece una respuesta más directa y ágil a bajas vueltas.",
-      "conexion": "Se conecta con la automatización y la ingeniería industrial, donde los conceptos de par y velocidad angular se aplican directamente al diseño de servomotores y maquinaria automatizada.",
-      "pregunta": "¿Qué magnitud mecánica explica que un vehículo tenga una gran capacidad de aceleración desde parado en una cuesta empinada: la potencia o el par motor?",
-      "fuente": "Motociclismo",
+      "titulo": "Interpretación técnica: Potencia, par motor y asistencia",
+      "por_que": "Dominar la lectura de fichas técnicas y conceptos físicos básicos te otorga criterio propio para evaluar cualquier sistema motriz, ya sea en bicicletas eléctricas o vehículos de combustión.",
+      "explicacion": "Al analizar las especificaciones de motores de asistencia eléctrica o vehículos, es común encontrar términos como potencia (vatios) y par motor (Nm). Para entenderlo sin tecnicismos complejos: la potencia determina la velocidad máxima y el rendimiento a altas revoluciones, mientras que el par motor es la fuerza bruta de giro que permite arrancar desde parado o subir pendientes pronunciadas sin esfuerzo. Comprender la diferencia entre ambos conceptos ayuda a valorar qué tipo de motor se adapta mejor a una necesidad real de uso.",
+      "conexion": "Se conecta con la automatización de procesos mecánicos y la ingeniería aplicada.",
+      "pregunta": "Si un motor destaca por tener un alto par motor (Nm), ¿en qué situación práctica de conducción se nota más esa ventaja?",
+      "fuente": "TodoMountainBike",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0tVdmVRN1B5UVRFbE1oeDRIczJyNjZTUkItWjBia1dQRXFyS0M1QlByMlZRb0c2bFFJV0oxdXk4dGZvMEZsNXlJQlBLdWFUUVo2TGdycUtoT3d1Yko1TFFhSlI5Yjh0SzluN1hzbmQta2RSMm5aaGFEbHdTbWRfSmdjMTZYWThIWWhvSXBQZG1zekJ6cUNKLXI4SF8zMlJ2Z1ZwdW52YUdETTF3UmJqQ1JEeGVXRVJTZzAwNW9zSWJQRkF4?oc=5"
     },
     {
       "area": "Cultura general",
-      "titulo": "El valor histórico y los dilemas éticos detrás de la preservación del patrimonio artístico mundial",
-      "por_que": "Desarrollar una cultura general sólida amplía tu pensamiento crítico, mejora tus habilidades de conversación en círculos ejecutivos y te ayuda a comprender la compleja historia que ha dado forma a la sociedad actual.",
-      "explicacion": "Recientes acontecimientos en el mundo del arte, como la subasta histórica de obras maestras de Vincent van Gogh por sumas récord, suelen venir acompañados de complejos trasfondos históricos, debates sobre la procedencia de los bienes y su paso por diferentes contextos geopolíticos a lo largo del siglo XX. Estudiar estos eventos no solo cultiva la sensibilidad estética, sino que entrena la mente para analizar la procedencia de los activos, la memoria histórica y cómo el valor de los bienes culturales es una construcción social influenciada por la escasez, el prestigio y el contexto temporal.",
-      "conexion": "Conecta con la economía y los mercados de inversión alternativa, donde el arte y los bienes de lujo funcionan como refugios de valor y símbolos de estatus a lo largo de las décadas.",
-      "pregunta": "¿Por qué obras de arte de un mismo autor histórico pueden alcanzar valoraciones multimillonarias extraordinarias en comparación con otras de calidad técnica similar?",
+      "titulo": "Infraestructuras subterráneas y logística en conflictos modernos",
+      "por_que": "Ampliar tu cultura general te permite entender la historia contemporánea, la geografía y los desafíos logísticos extremos que moldean la geopolítica actual.",
+      "explicacion": "Informes recientes de medios como la BBC han documentado el uso estratégico de infraestructuras civiles, como gasoductos en desuso, para operaciones logísticas subterráneas en zonas de conflicto donde la aviación no puede operar. A lo largo de la historia, el dominio del subsuelo y la adaptación de infraestructuras civiles para fines logísticos han sido determinantes en situaciones críticas. Conocer estos escenarios amplía tu perspectiva sobre cómo las limitaciones físicas extremas estimulan soluciones de ingeniería totalmente inusuales.",
+      "conexion": "Conecta con la dirección estratégica, la logística empresarial y la resolución de problemas bajo restricciones severas.",
+      "pregunta": "¿Qué lección sobre adaptabilidad logística nos deja el uso de infraestructuras existentes para fines completamente distintos a su diseño original?",
       "fuente": "BBC",
-      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWGV6d1UwSURQclgtVFBlQ21LLWJ3SnBsam9vNlNtVzVPREJiX3I0UktDMXZwVkRXQUJkU2gyLXFnY1lBaU5NWmtZdGNqdHZNSE01QUppY2I1cXlS0gFiQVVfeXFMTUR0N0dSMnJRVE05V2ZYbVFlLXpWQWFjTUlnWjJCYjBRbm1YaUtTRlNvQ1lvbWx0cFpZb3ozdDY2bU4wUWFjdDJtRVFxZVVtTThJVDgxODd2UWFjQS11S3Q1cHc?oc=5"
+      "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vTEFfcmlJeHoycGp4X202Mm5LdUNkNEYwVkNrcDhkSVluU0ZMOVhHS1loeFdOck5QTXpqNmlsdWt3MjV1WFFOWkhmSHZsZWhEQWdoNXhoeTFRcmxa0gFiQVVfeXFMTUlxNWdHT29SbXlsX3N0NlBrZjhhYTUtTzhPaUx0bDhkaTVXRUxfc1h3OGpJamlORHBhaC1PMzRpMEc3Um82SlBOenRBRUdPNzU3czBWTmNOV2I4bGpMMFJrVUE?oc=5"
     }
   ]
 }
